@@ -137,14 +137,10 @@ def sanitize_content(content, converter):
                 sanitized.append(' ')
             elif (is_full_width(prev_char) and not is_full_width_punctuation(prev_char) and is_half_width(char)):
                 sanitized.append(' ')
-        if char == ':':
-            sanitized.append('：')
-            prev_char = '：'
-        else:
             sanitized.append(char)
             prev_char = char
-
-    return ''.join(sanitized)
+    # replace ": " with "："
+    return ''.join(sanitized).replace(": ", "：")
 
 def process_csv_file(input_path, output_path, converter):
     """
