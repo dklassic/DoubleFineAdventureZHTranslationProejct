@@ -1,0 +1,442 @@
+Timecode,Content
+"00:00:21,820 --> 00:00:31,379","Stamos: Just even taking like what's the new schedule out of it for a second, it's like can we finish the game for, you know, the remaining amount of money?"
+"00:00:31,380 --> 00:00:38,827",Because I think we're in a situation where we need to significantly increase our funding for this game.
+"00:00:38,827 --> 00:00:42,067",Or significantly reduce the scope of the game.
+"00:00:42,838 --> 00:01:12,380",[Music] Rice: OK.
+"00:01:12,380 --> 00:01:15,936","Stamos: That said, really talking about the overall schedule."
+"00:01:15,936 --> 00:01:19,696",Right now the overall schedule for Red's is posted as April.
+"00:01:20,847 --> 00:01:28,124",And I think there's a sense from the team that that's not actually a feasible timeframe.
+"00:01:29,100 --> 00:01:33,938","Min: I think, I think just the larger goal is when, like hey, when's our Alpha?"
+"00:01:33,940 --> 00:01:34,639",What's that mean?
+"00:01:34,640 --> 00:01:36,322",When's our Beta?
+"00:01:36,322 --> 00:01:37,395",When do we ship?
+"00:01:37,400 --> 00:01:38,940","When's that, our big trailer coming."
+"00:01:38,940 --> 00:01:43,041","Those are sort of like, like the few hi level stuff that I like to kind of get an idea of."
+"00:01:43,041 --> 00:01:44,779",When are the ports coming online?
+"00:01:44,780 --> 00:01:51,740","So it does worry me, because that does make a big difference in terms of what to do now."
+"00:01:52,239 --> 00:01:55,819","Crook: And for me, like dates and things, just working here for this long..."
+"00:01:55,820 --> 00:02:02,680",I've just gotten used to things change and so I don't freak out.
+"00:02:02,680 --> 00:02:10,120","And I think, you know, there were times where it was, yeah, we've had people freak out and like leave because they freaked out."
+"00:02:10,120 --> 00:02:16,880","And so I kind of learned that, you just sort of, we'll figure it out."
+"00:02:17,280 --> 00:02:24,760",Stamos: Not enough of work has been done for the team to have confidence that they're really halfway through.
+"00:02:24,760 --> 00:02:31,052","Stamos: And I think there's a lot of work to do still, to understand really what the scope is,"
+"00:02:31,060 --> 00:02:33,500","but it's coming into, it's coming into view."
+"00:02:34,931 --> 00:02:38,571",I think it's expanded a lot from what they originally thought.
+"00:02:39,569 --> 00:02:47,754","And when projects evolve like that, you need to really reevaluate the plans."
+"00:02:47,754 --> 00:02:52,851",So having a clear plan in place that you can iterate on is a good start.
+"00:02:52,851 --> 00:03:01,533","So I want to get like the tools in place and help Greg get the tools in place to have that, so that there's a plan that he can easily iterate on."
+"00:03:01,533 --> 00:03:03,673",So that's mostly what I'm helping with.
+"00:03:03,981 --> 00:03:10,865","Stamos: Job number one is to make this game awesome, because it's just too important to do anything else."
+"00:03:11,363 --> 00:03:16,123",First steps first is to figure out at least where we're landing.
+"00:03:18,160 --> 00:03:21,460",And so that's not pick a date and work back from that.
+"00:03:21,460 --> 00:03:23,969",It is more of a bottoms-up.
+"00:03:23,969 --> 00:03:30,446",Let's map out everything that we know about the game and then really see how long it will take.
+"00:03:30,446 --> 00:03:33,180",Schafer: Like can we do that before this milestone is over or after?
+"00:03:33,309 --> 00:03:41,560","'Cause what we'll find out in this milestone is if we can bring, if we can bring, Cloud Colony to Alpha to Beta that'll mean something."
+"00:03:41,560 --> 00:03:43,216","Not the end of all our problems, but it'll mean something."
+"00:03:43,588 --> 00:03:48,958","If we can't bring it to Beta, that'll be even more informative in a way."
+"00:03:48,958 --> 00:03:53,160","Schafer: But I never believe that we're going to be late, but I've been late before, a couple times."
+"00:03:54,100 --> 00:03:56,120","Three or four. Every time, most of the times."
+"00:03:56,120 --> 00:04:02,261","So we really want to prove that we can get the Cloud Colony done this month so we can prove that we're, we're picking up the pace"
+"00:04:02,261 --> 00:04:04,481","and we're, you know, we can finish stuff."
+"00:04:05,121 --> 00:04:09,604","Schafer: It's great. I mean this is what I've been waiting for, it's been really frustrating to be in the writing cave"
+"00:04:09,604 --> 00:04:11,247",and the designing cave for a long time.
+"00:04:11,247 --> 00:04:16,456",'Cause it's like work's being done on the game and I'm not participating in it.
+"00:04:16,459 --> 00:04:21,439","and now I'm getting much more, being much more participatory."
+"00:04:22,219 --> 00:04:29,283","And I feel like, I feel like I'm able to point at what needs to get done and push on it to get it done more."
+"00:04:29,900 --> 00:04:36,139","Schafer: There's two things like for me, now the first one was pretty much the same as this is, but it's just like harder to list out."
+"00:04:36,140 --> 00:04:37,793",Things that I'm looking to find answers for.
+"00:04:37,800 --> 00:04:40,780","'Cause I want find answers to almost everything, like is the game working?"
+"00:04:40,780 --> 00:04:41,848",Is the game right?
+"00:04:41,848 --> 00:04:46,968","Is it, like you have this feeling after the sprint and like that's exactly what the game's going to look like,"
+"00:04:47,383 --> 00:04:50,223","but as far, as close as we can except for the things that are obviously we can't."
+"00:04:50,223 --> 00:04:50,848",That's the first one.
+"00:04:50,848 --> 00:04:54,511","The second one sounds like, it sounds like a disagreement but it's not a disagreement."
+"00:04:54,520 --> 00:04:56,400",It's really just working at it from the other end.
+"00:04:56,400 --> 00:04:58,337",It's that I really want the Cloud Colony be done.
+"00:04:58,340 --> 00:05:01,801","I mean like done with the Cloud Colony, 'cause we've been working on it for long time"
+"00:05:01,801 --> 00:05:03,309",and we have a lot of other areas to get to.
+"00:05:03,309 --> 00:05:08,834","And so I want to have it be, as much as possible, have the approach of like we're not coming back to the Cloud Colony."
+"00:05:08,840 --> 00:05:13,441","I want to be approaching it like we're finishing off in terms of Beta, you know."
+"00:05:13,441 --> 00:05:18,160","Schafer: So we're going to go, actually go through the game play and make sure we itemize all the things that need to be done."
+"00:05:18,160 --> 00:05:19,420",Franzke: That's the idea.
+"00:05:19,420 --> 00:05:20,763",All right.
+"00:05:20,763 --> 00:05:22,577","And you were, Greg is the official note taker."
+"00:05:22,580 --> 00:05:23,740",Rice: Yes. Schafer: OK.
+"00:05:25,000 --> 00:05:26,852",So I'm trying to solve a puzzle.
+"00:05:26,860 --> 00:05:28,518",I'm trying to make Jessie like me.
+"00:05:28,858 --> 00:05:30,240",Jessie doesn't like me.
+"00:05:30,240 --> 00:05:33,580","So when you go over here and you interact with Jessie, where the hell did I go?"
+"00:05:33,580 --> 00:05:34,360","There, what's that?"
+"00:05:34,360 --> 00:05:35,100",What was that?
+"00:05:35,100 --> 00:05:37,500",Kipnis: That's if you click off the nav mesh or something like that.
+"00:05:37,500 --> 00:05:39,180","Like that, that happens."
+"00:05:40,020 --> 00:05:43,220",Schafer: Her turning animation's a little much.
+"00:05:44,640 --> 00:05:46,240",Kipnis: It's a little much? Do you want it to be shorter?
+"00:05:46,240 --> 00:05:49,191","Schafer: Well, it makes it really unresponsive that she has to do that turn."
+"00:05:50,320 --> 00:05:52,120",You kind of want her to just move right away.
+"00:05:52,120 --> 00:05:53,264","Rice: Play-throughs are awesome, yeah."
+"00:05:53,264 --> 00:05:56,256",'Cause it gets everybody in the same room together looking at it at the same time.
+"00:05:56,739 --> 00:06:03,561","It like nails Tim down to where like he has to like sit there and play it with everybody in a room and get directly like,"
+"00:06:03,561 --> 00:06:05,452",point out the things that he's not happy with.
+"00:06:05,460 --> 00:06:12,598","Because I mean, he plays it a lot and he'll send the email feedback and he'll bring things up in stand-ups and stuff."
+"00:06:12,600 --> 00:06:15,787",But it's nice to just be able to sit there and like everybody see it on the screen together
+"00:06:15,787 --> 00:06:20,727",and like know the things that he is not happy with and that need work.
+"00:06:21,200 --> 00:06:22,950",Schafer: So first I have to solve that puzzle.
+"00:06:22,950 --> 00:06:24,590",So I come back here and I'm like...
+"00:06:24,980 --> 00:06:31,920","[Groans] Schafer: So task for Oliver, make that crash optional."
+"00:06:32,960 --> 00:06:34,940",Franzke: All right. Optional crash system.
+"00:06:35,120 --> 00:06:36,223",The game has encountered a problem.
+"00:06:36,223 --> 00:06:37,423",Do you want to crash now?
+"00:06:37,423 --> 00:06:41,323",No. All right. Game is recovered.
+"00:06:41,480 --> 00:06:49,000",[Music] Schafer: One of the hard things about making an adventure game
+"00:06:49,000 --> 00:06:53,940",is that the team doesn't often find the game fun when they're working on it.
+"00:06:53,940 --> 00:06:58,052","It's not like a first person shooter where even if you're working on a first person shooter, it's fun to play it."
+"00:06:58,060 --> 00:07:01,221","But an adventure game, you know all the solutions, all the puzzles and you know all the jokes."
+"00:07:01,221 --> 00:07:05,021","So there's no like discovery or you know, you know, wonder or..."
+"00:07:05,021 --> 00:07:08,347",It's fun to see it come together and it's fun to see that you're making something good.
+"00:07:08,540 --> 00:07:09,775",But you don't stay late.
+"00:07:09,780 --> 00:07:13,440","No one's going to stay late to like play Red's after, after hours."
+"00:07:13,440 --> 00:07:14,480","Hey, you want to play Red's?"
+"00:07:14,480 --> 00:07:15,600","Yeah, let's do it."
+"00:07:15,600 --> 00:07:16,420",Let's hook it up.
+"00:07:16,420 --> 00:07:17,562","'Cause like, oh, yeah, I know."
+"00:07:17,562 --> 00:07:19,182",This is the puzzle I wired up.
+"00:07:21,024 --> 00:07:23,004",So and that's always been sad.
+"00:07:23,880 --> 00:07:28,319",Schafer: OK. I'm trying to remember how to actually make games.
+"00:07:28,320 --> 00:07:29,420",I'm trying to program.
+"00:07:30,260 --> 00:07:32,460",First let me get all the latest stuff.
+"00:07:34,040 --> 00:07:35,160",It's syncing up.
+"00:07:35,960 --> 00:07:39,500",Now I'm going to run the game.
+"00:07:40,400 --> 00:07:41,600",Never actually done this before.
+"00:07:41,600 --> 00:07:42,560",This is gonna be embarrassing.
+"00:07:42,560 --> 00:07:44,180",We should film the second time I do this.
+"00:07:44,860 --> 00:07:47,660",'Cause the second time I'll be like [makes computer noises]
+"00:07:47,660 --> 00:07:49,200","oh, this is Unix. I know this."
+"00:07:49,200 --> 00:07:52,844",[computer noises] Offscreen Voice: Is that Jurassic Park?
+"00:07:52,844 --> 00:07:54,216",Schafer: That Jurassic Park joke.
+"00:07:54,220 --> 00:07:56,228",Is that getting too old to make that reference?
+"00:07:56,228 --> 00:08:00,023",I'm hoping I can actually just enter dialogue myself into the engine.
+"00:08:00,180 --> 00:08:04,080","'Cause you know, when you, you know, for a long time from Psychonauts and Brutal Legend stuff,"
+"00:08:04,080 --> 00:08:09,845",I'd write dialogue and then someone like Anna or Kee or someone would have to come and implement it.
+"00:08:10,640 --> 00:08:12,693",But then you don't get to really like tweak it.
+"00:08:12,700 --> 00:08:17,620",Like I like to put stuff in and then see how the timing works out and then mess with it.
+"00:08:17,620 --> 00:08:22,520",And also it'd be nice while I was writing if I didn't think I was just creating a whole bunch of work for someone else to do.
+"00:08:22,820 --> 00:08:26,479","It'd be great if I could, if I'm going to put it into Excel or if I'm going to put it into a database,"
+"00:08:26,480 --> 00:08:28,180",I might as well just put it into the game.
+"00:08:28,640 --> 00:08:33,458","And then I'm not creating work for, you know, that way Anna can work on something else and I can just do this."
+"00:08:33,919 --> 00:08:38,860",And also at my age I really would like to learn something so I don't have Alzheimer's.
+"00:08:39,159 --> 00:08:39,959",But I think it's too late.
+"00:08:39,960 --> 00:08:42,464",I think I have it 'cause I can't figure out at all what's happening.
+"00:08:42,720 --> 00:08:44,420",How do I open this scene?
+"00:08:45,820 --> 00:08:46,560",How do I open?
+"00:08:46,560 --> 00:08:47,840",Open in project?
+"00:08:49,860 --> 00:08:51,500",That's a bunch of things.
+"00:08:52,860 --> 00:08:54,680",Can you believe I have a CS degree?
+"00:08:56,780 --> 00:08:58,020",Class of '89.
+"00:08:58,300 --> 00:08:59,100",Voice.
+"00:08:59,380 --> 00:09:01,840",X vertical Font.
+"00:09:03,200 --> 00:09:04,140",Where's the dialogue?
+"00:09:05,500 --> 00:09:07,420",Where's your dialogue?
+"00:09:08,100 --> 00:09:09,634",I'm going to go ask her really quick.
+"00:09:09,860 --> 00:09:11,020",I'll be right back.
+"00:09:12,020 --> 00:09:14,300",Schafer: And then I'll totally be able to program this entire game myself.
+"00:09:18,660 --> 00:09:19,680",I got it.
+"00:09:21,880 --> 00:09:23,160",I totally had it all figured out.
+"00:09:25,200 --> 00:09:25,700",Wait...
+"00:09:27,800 --> 00:09:29,780",This looks totally different than on her computer.
+"00:09:30,340 --> 00:09:32,380",Why did she set me up like this?
+"00:09:33,000 --> 00:09:34,400",She totally lied to me.
+"00:09:40,220 --> 00:09:42,740",I'm going to have to go back there and ask her again.
+"00:09:42,740 --> 00:09:43,600",Ugh.
+"00:09:45,740 --> 00:09:50,020","Schafer: Like in theory, me being able to program my own dialogue in the game would save time."
+"00:09:50,900 --> 00:09:52,420",It's not there quite yet.
+"00:09:55,185 --> 00:10:00,320","See, I'm taking up Anna's time but it's going to save her time later, when I can program the entire game myself."
+"00:10:00,800 --> 00:10:03,180",Let's see if I remember anything that Anna showed me.
+"00:10:04,600 --> 00:10:06,860",I don't remember anything that Anna showed me.
+"00:10:07,200 --> 00:10:11,100",It's annoying because I did touch stuff and now I don't know if I touched something.
+"00:10:11,620 --> 00:10:14,000",I pretty much reverted everything I touched.
+"00:10:15,120 --> 00:10:16,520",Schafer: So embarrassing.
+"00:10:17,560 --> 00:10:19,120",Schafer: I got it. I'm in.
+"00:10:20,014 --> 00:10:21,215",I've hacked the mainframe.
+"00:10:21,215 --> 00:10:26,595","I'm totally, I'm seeing all the beauty that is Red's simultaneously at once."
+"00:10:29,560 --> 00:10:31,600","Well, that's a day's work. Done."
+"00:10:33,204 --> 00:10:36,269","Schafer: But there's this pressure to, we got to meet the milestone."
+"00:10:36,269 --> 00:10:37,429",I just got to get all this writing done.
+"00:10:37,429 --> 00:10:39,549",I can't be messing around with like this stuff.
+"00:10:39,549 --> 00:10:46,738","So I changed gears and just focus on getting all the dialogue done and it means that Anna has to spend a lot of time implementing it,"
+"00:10:49,144 --> 00:10:57,988","but the question is will there be a point where I can actually, you know, get up and running enough on the programming to make that efficient?"
+"00:10:59,120 --> 00:11:00,020",I don't know.
+"00:11:03,440 --> 00:11:09,820","Kipnis: There's just a lot more content, I think, in these, in Cloud Colony than there has been in the other stuff that we've had."
+"00:11:10,400 --> 00:11:13,460",And it's a lot of work to get it all implemented.
+"00:11:14,239 --> 00:11:17,019",Crook: I don't know. It'll be all right.
+"00:11:17,380 --> 00:11:21,428",It'll be OK. It's always this way.
+"00:11:21,860 --> 00:11:30,485","Ryken: It's, I think back the first game that I worked on was Brutal Legend and that was, that was my concept for what, you know, games are like, you know."
+"00:11:30,485 --> 00:11:33,485","And in this one it's like, it's not going to take four and a half years?"
+"00:11:34,040 --> 00:11:35,880",Sounds like a good game for me.
+"00:11:37,680 --> 00:11:43,694","But yeah, there's a lot of iteration in the beginning and then you find, you get closer to the spirit of the game"
+"00:11:43,700 --> 00:11:52,433","and I feel like when the game starts gelling together, kind of like the way just recently the girl got a shadow."
+"00:11:52,440 --> 00:11:58,960","And I was like happier than high hell that Just the smallest little thing goes into the game and it,"
+"00:12:00,060 --> 00:12:04,644","it's no longer just this, this animated stick figure walking around."
+"00:12:04,644 --> 00:12:11,972","It's gelling it together and it gets exciting, it gets exciting because like those things are going to be there as we're carving out"
+"00:12:12,340 --> 00:12:16,400","those little connectors to the world that you're walking in, you know."
+"00:12:17,307 --> 00:12:23,127",They're going to be there when we start on new areas already and you're going to have a feel for walking through the spaces
+"00:12:23,680 --> 00:12:24,720",and it's really cool.
+"00:12:24,720 --> 00:12:25,805",Schafer: Look at that sinking!
+"00:12:25,805 --> 00:12:26,969",That's awesome.
+"00:12:26,969 --> 00:12:28,045",I can't save her!
+"00:12:28,045 --> 00:12:29,816","I can't save her, I can't save her! Get up!"
+"00:12:29,820 --> 00:12:30,720","Oh my God, I've had this dream."
+"00:12:30,960 --> 00:12:34,113","Schafer: No, I get more excited about this game every day because as it starts to come together,"
+"00:12:34,940 --> 00:12:39,298","because we started from just scratch, it's cool to actually see it become real, you know."
+"00:12:39,538 --> 00:12:45,694","Because of the framerate I can't click anywhere Schafer: But I think the game is looking a lot better,"
+"00:12:45,700 --> 00:12:46,914",the characters are really pretty.
+"00:12:47,160 --> 00:12:49,340",The backgrounds are getting better and better looking.
+"00:12:49,340 --> 00:12:52,401","And you know, we're starting to see the basic interface working now."
+"00:12:53,140 --> 00:12:57,425","And with music in, you know, it's starting to really feel like a real adventure game."
+"00:12:57,860 --> 00:13:02,860","Ryken: And I was just doing the flat paint over on the art that we had that Lee did, sent out."
+"00:13:04,300 --> 00:13:05,553","Schafer: All right, everybody."
+"00:13:05,560 --> 00:13:06,500",Let us break.
+"00:13:06,940 --> 00:13:08,680",And let us do this again next week.
+"00:13:11,240 --> 00:13:17,433",Stapley: So yesterday I was just sort of going through and painting a bunch of the scenes files.
+"00:13:17,440 --> 00:13:22,684","And now I'm just addressing all that feedback from the walk-through, play-through."
+"00:13:22,684 --> 00:13:26,730",Ryken: Yesterday I was drawing hands for the girl and then I got sick of drawing hands for the girl.
+"00:13:26,730 --> 00:13:28,950",So I stopped drawing hands for the girl.
+"00:13:29,560 --> 00:13:30,440",Hands are the worst!
+"00:13:30,440 --> 00:13:32,254",Why does anybody want to do hands?
+"00:13:32,260 --> 00:13:33,460",Petty: So now she has hooks?
+"00:13:33,460 --> 00:13:36,826",Ryken: Yeah. She's always going like this.
+"00:13:37,440 --> 00:13:44,180","Fietzek: And yesterday I did some last final changes on the forum post, which is online now."
+"00:13:44,640 --> 00:13:49,940","So also, this is my last stand-up, which is so sad."
+"00:13:50,720 --> 00:13:58,860","And yeah. You know, like I, yeah, I want to say a tiny bit."
+"00:13:58,869 --> 00:14:03,569","I'm not so good at this, but just a big thank you to all of you guys."
+"00:14:03,569 --> 00:14:06,549",It's been an amazing three months.
+"00:14:07,300 --> 00:14:11,020",You guys are all amazing and amazing people.
+"00:14:11,400 --> 00:14:20,560",I'm so thankful for that internship and I did a group picture of us.
+"00:14:20,620 --> 00:14:22,040",Kipnis: Awww!
+"00:14:22,040 --> 00:14:24,040",Franzke: That's awesome.
+"00:14:24,040 --> 00:14:29,740","[Laughter] Everyone on the team, including you guys."
+"00:14:29,740 --> 00:14:31,940","Kipnis: Aww dude, thanks a lot. Bagel: Lets just scan that in."
+"00:14:33,180 --> 00:14:35,400",Fietzek: I'll send it around.
+"00:14:39,780 --> 00:14:41,300",Kipnis: Should we make it poster size?
+"00:14:43,260 --> 00:14:44,320",Fietzek: It should be big enough.
+"00:14:44,320 --> 00:14:45,160","Petty: Thank you, Marius."
+"00:14:45,160 --> 00:14:46,255",Thank you for all your hard work here.
+"00:14:46,260 --> 00:14:47,940",It's been awesome having you here.
+"00:14:47,940 --> 00:14:55,560",[Applause] Schafer: I thought we might be able to convince Marius to stay
+"00:14:55,560 --> 00:15:01,510","because we would have had to just derail his education as I said, but there was, I was not expecting the real reason"
+"00:15:01,510 --> 00:15:04,426","he was going back to Germany, which was for love."
+"00:15:04,800 --> 00:15:10,940","And though we are evil enough to end education, we could not fight the force that is love."
+"00:15:11,300 --> 00:15:16,785","Schafer: We were trying to set up a contract where he could keep doing what he's doing from Germany, making animatics for us."
+"00:15:16,785 --> 00:15:20,280",It's kind of like when Scott Campbell and Nathan moved to New York.
+"00:15:20,280 --> 00:15:28,851","I would just try and keep those guys working for us because I, you don't, you know, people, people who are talented people"
+"00:15:28,860 --> 00:15:32,960",don't come around every day and you got to like hang onto them when you can.
+"00:15:36,380 --> 00:15:39,480",Marius: Yeah. I can try coming back next year.
+"00:15:39,680 --> 00:15:56,540",[Music] Schafer: I feel like now we're actually moving at the speed that we're moving at.
+"00:15:57,880 --> 00:16:01,082","As soon as they get all locked down with the process between Bagel and Levi and Lee,"
+"00:16:01,082 --> 00:16:04,784","I think it'll be, feel like we're moving at a good clip."
+"00:16:05,258 --> 00:16:07,634",Offscreen Voice: So you're back?
+"00:16:07,634 --> 00:16:11,934",Stapley: I'm back in action. Red's.
+"00:16:13,780 --> 00:16:15,780",No way man.
+"00:16:16,280 --> 00:16:17,740",Tim should wear my hat.
+"00:16:17,940 --> 00:16:30,425","[Music] Stapley: I'd like to actually get involved more with like concept stuff, though."
+"00:16:30,425 --> 00:16:33,265","Yeah, I feel like I'm just kind of a painter."
+"00:16:33,900 --> 00:16:35,360","Petty: Well, you and I talked about that, right?"
+"00:16:35,360 --> 00:16:36,927","And you said you, Stapley: Yeah, yeah, but like..."
+"00:16:36,927 --> 00:16:44,626","Petty: you wanted to do, Stapley: the way it's turning with, because all the designs are approved, so it's basically like, it's approved."
+"00:16:44,940 --> 00:16:45,820",You know what I mean?
+"00:16:45,820 --> 00:16:48,211",Petty: Individuals have changed what they wanted to do.
+"00:16:48,665 --> 00:16:51,465","You know, initially Bagel did want to do a lot of painting."
+"00:16:51,465 --> 00:16:59,840","And I think as we started getting into that, he felt like hey, you know, I really want to be more on the compositional side, which is fine, you know."
+"00:16:59,840 --> 00:17:02,360",But that means we're going to have to shift things around.
+"00:17:02,920 --> 00:17:05,500",Petty: Do you think this process is going to make that better?
+"00:17:05,859 --> 00:17:07,095",Stapley: Which process?
+"00:17:07,099 --> 00:17:09,299","Petty: Whatever, we're sort of being non-specific..."
+"00:17:09,300 --> 00:17:11,900","Stapley: I think having more hands painting and oh, well, I don't know."
+"00:17:11,900 --> 00:17:17,359","I think I would feel, well, at least if we're going to say like this is Bagel's style of game,"
+"00:17:17,359 --> 00:17:25,541","then I would, yeah, at least I would have a little bit more like yeah, you know, that is my stuff."
+"00:17:25,660 --> 00:17:27,360",Stapley: Like this sacrifice scene.
+"00:17:27,740 --> 00:17:30,860","This is actually, I did the layout in this one and the camera angles."
+"00:17:30,860 --> 00:17:33,689",And I feel good how that went.
+"00:17:34,060 --> 00:17:35,449",Offscreen Voice: It's more Bagel.
+"00:17:35,449 --> 00:17:37,789","Stapley: Yeah, I feel, yeah, like this is maybe more Bagel."
+"00:17:38,480 --> 00:17:39,380",A little bit.
+"00:17:39,380 --> 00:17:42,480","Petty: Click down, like just double click towards the bottom so she walks down there."
+"00:17:44,500 --> 00:17:47,380",Schafer: What the? Whoa..!
+"00:17:47,380 --> 00:17:52,762","Schafer: Yeah, I like the, the first tested out was the sacrifice area, the new method."
+"00:17:52,762 --> 00:17:53,905",And I really liked that.
+"00:17:53,905 --> 00:17:56,405",It's pretty and I like that whole setup.
+"00:17:56,405 --> 00:18:01,400",I like the crazy big bird cages that are moved and ripped open and I think those are cool.
+"00:18:01,400 --> 00:18:02,945",So it's promising.
+"00:18:02,945 --> 00:18:09,600","Stapley: Yeah. So now it's just, I guess there's just a question of like talking to Levi and Lee this week"
+"00:18:09,600 --> 00:18:14,360","and figuring out the paint, how to make it look consistent, you know."
+"00:18:14,360 --> 00:18:16,280","That's, I think, the big major thing right now."
+"00:18:16,280 --> 00:18:21,300","All right, you know, that's the thing, a worrisome thing that we should work on."
+"00:18:24,099 --> 00:18:25,866","Petty: So this is the very old one, right?"
+"00:18:25,866 --> 00:18:27,266",Based on the color key.
+"00:18:27,266 --> 00:18:32,745","So, I painted this one entirely with a charcoal brush, 'cause when we started I thought that's what we're doing on that one."
+"00:18:32,745 --> 00:18:36,068","So it's, I think it's, it's a little too linear."
+"00:18:36,068 --> 00:18:38,472",It's too charcoal-y and colors are all wrong.
+"00:18:38,480 --> 00:18:40,332",Petty: It's been difficult.
+"00:18:40,340 --> 00:18:44,005","It's weird, it's weird finding out which area, why it's been difficult."
+"00:18:44,120 --> 00:18:49,840","Part of it has been has been, he's evolving his own approach, to like the clouds specifically is very different than"
+"00:18:49,840 --> 00:18:51,602",sort of what painted the lumberjack.
+"00:18:51,602 --> 00:18:56,334","So as his approach has been evolving, I've been trying to like paint this way and we've been changing it back and forth."
+"00:18:56,340 --> 00:19:01,858","Petty: I kind of feel I knew the way we should try handling this one is, if you, say take this scene"
+"00:19:01,858 --> 00:19:05,558",and do like a line drawing composition and then do like a little small color key.
+"00:19:06,340 --> 00:19:09,260",And then we give it to Levi and have him try and paint it.
+"00:19:09,260 --> 00:19:16,061","Ryken: I feel like we wouldn't need that much of a color key, considering we were coming from an establishing shot already."
+"00:19:16,180 --> 00:19:21,312","Petty: We've been doing other things as well, as like, you know, I have brush sets that I made basing on he likes to use in Photoshop"
+"00:19:21,320 --> 00:19:22,640",and we're kind of updating those.
+"00:19:22,640 --> 00:19:25,480",So those can be given to all the artists that are painting digitally.
+"00:19:26,740 --> 00:19:27,512",It's difficult.
+"00:19:27,520 --> 00:19:34,362","I mean, I think one of the reasons why it made sense to have him paint stuff on the back end is it was,"
+"00:19:34,362 --> 00:19:37,027","it would have been, he'd be the last person touching each asset."
+"00:19:37,027 --> 00:19:40,427",So it's necessarily just going to be more unified stylistically.
+"00:19:41,519 --> 00:19:49,322","But by moving him to the front, it creates more, it probably gives the overall sense of things a little more quirkiness that he would have."
+"00:19:49,322 --> 00:19:54,002","But it means we have more potential like consistency drifting going on, on the backside."
+"00:19:55,175 --> 00:19:58,535","But yeah, I think it's been, everything's been moving pretty well actually."
+"00:19:58,540 --> 00:20:00,901",I'd say we made lots of really good progress this sprint.
+"00:20:00,901 --> 00:20:04,981",Dillon: Like I'm actually really happy with the progress that we made in terms of this stuff.
+"00:20:05,800 --> 00:20:10,080","We got a bunch of big features in and the tool's a lot better, kind of stuff."
+"00:20:11,560 --> 00:20:15,200","Rice: Just the little things, too, just like the cameras feel so much better."
+"00:20:15,860 --> 00:20:18,412",Just navigating around is way better now.
+"00:20:18,420 --> 00:20:22,060","Dillon: It's just one of those things where it's like, you know, getting a basic system in there is easy and"
+"00:20:22,060 --> 00:20:25,360",giving it enough love so that it actually feels good is hard.
+"00:20:25,720 --> 00:20:29,320","Like having milestones like this where we're really focused on polishing up an area,"
+"00:20:29,320 --> 00:20:34,480",is a forcing function for like we have a camera system but what we actually need is a good camera system.
+"00:20:34,480 --> 00:20:37,540",[Laughter] Rice: Yeah.
+"00:20:37,540 --> 00:20:42,080",Dillon: So I think we may have gotten a lot of traction in a lot of different areas and that stuff this time around.
+"00:20:45,000 --> 00:20:47,260","Rice: Cool. Thanks, bro."
+"00:20:47,900 --> 00:20:50,813","Rice: Oh, what? How successful is the Cloud Colony stuff gonna be?"
+"00:20:50,820 --> 00:20:53,979","Yeah, how close are you going to be to it actually being finished ."
+"00:20:54,780 --> 00:20:58,700","Rice: Well, I think we'll have a better idea of that after I go around and talk to everybody, which I'm going to do right now."
+"00:20:59,780 --> 00:21:00,680",Crook: But it's nice.
+"00:21:00,680 --> 00:21:03,460","This is working, which is really great to have."
+"00:21:04,217 --> 00:21:05,777","So you know, Rice: Yeah."
+"00:21:05,780 --> 00:21:08,160",Three weeks ago we didn't have any cut scenes.
+"00:21:09,100 --> 00:21:14,917","Crook: It's been sort of stuttering and going, you know, but that's smoothing out so we're making progress."
+"00:21:15,412 --> 00:21:17,552",Just not as fast as we would like.
+"00:21:18,660 --> 00:21:21,360",Johnstone: So he's cleaned up. Rice: She.
+"00:21:21,360 --> 00:21:24,000","Johnstone: She, she. She's cleaned up."
+"00:21:24,000 --> 00:21:27,400",And I'm really done in like five minutes.
+"00:21:27,400 --> 00:21:28,387",Rice: Sweet. Johnstone: Jessie's.
+"00:21:28,387 --> 00:21:30,487",Rice: Awesome. Cool.
+"00:21:30,487 --> 00:21:31,508",Johnstone: So that's where I'm in.
+"00:21:31,508 --> 00:21:32,543",That's where I'm at.
+"00:21:32,543 --> 00:21:33,503",Rice: Perfect.
+"00:21:33,503 --> 00:21:34,863",Why is raining on your screen?
+"00:21:34,863 --> 00:21:39,403",Johnstone: Oh. It's rainy moods as a soundtrack.
+"00:21:39,408 --> 00:21:40,488",It's nice.
+"00:21:40,680 --> 00:21:43,580",Sometimes it's nice to listen to ambient noise.
+"00:21:44,160 --> 00:21:44,840",Rice: Cool.
+"00:21:44,840 --> 00:21:46,380",Johnstone: So why not?
+"00:21:48,820 --> 00:21:50,980",Rice: This isn't going as fast as I was hoping it would.
+"00:21:52,260 --> 00:21:54,960","Miss Kipnis, I'm coming to you."
+"00:21:55,420 --> 00:22:03,484","Kipnis: So I mean, I don't, there's no way I'm going to get through my entire list, but I'll get, you know, I'll get as much as I can."
+"00:22:03,770 --> 00:22:05,330",Rice: Cool. Cool.
+"00:22:05,330 --> 00:22:07,070","Petty: You know, there's not a ton left."
+"00:22:07,070 --> 00:22:08,664","I mean, I'm pretty much on schedule."
+"00:22:08,664 --> 00:22:12,125",I'm running a little behind but it's only theoretically behind.
+"00:22:12,125 --> 00:22:14,245","Rice: Sounds good, man. Petty: Yeah."
+"00:22:14,245 --> 00:22:17,143",Rice: We'll see how the play-through goes tomorrow.
+"00:22:17,488 --> 00:22:23,120","Schafer: Before we start, I'm going to guess that, like our goal was to finish Cloud Colony this sprint."
+"00:22:23,906 --> 00:22:26,426",I have a feeling it's not finished.
+"00:22:26,660 --> 00:22:28,133",Rice: You might be right.
+"00:22:28,240 --> 00:22:29,080",Schafer: Oh man.
+"00:22:29,080 --> 00:22:34,066","I haven't even, we have like another two week sprint that it would be great if we could finish Cloud Colony in that."
+"00:22:34,066 --> 00:22:35,866","I don't want to just keep setting up the team to fail, though."
+"00:22:35,866 --> 00:22:38,066","Like OK you guys, we're going to finish Cloud Colony this sprint."
+"00:22:38,660 --> 00:22:39,682","OK, I didn't do it."
+"00:22:39,682 --> 00:22:41,362","OK, this time we're definitely going to finish. OK, no."
+"00:22:41,362 --> 00:22:43,769","That didn't work either, but OK, this sprint is the one."
+"00:22:44,020 --> 00:22:47,400","So I don't want to say that, but there still is a lot to do."
+"00:22:47,400 --> 00:22:52,340","I mean, you can't right now play the three puzzle branches, any of them to the end."
+"00:22:52,340 --> 00:22:58,340",Rice: So yeah. Try to figure out now what you'll be looking at.
+"00:23:00,912 --> 00:23:01,752",Schafer: Yeah.
+"00:23:05,580 --> 00:23:13,420","So we don't know what's going to happen because, even if this sprint did finish, if we'd finish Cloud Colony we'd be looking at like,"
+"00:23:14,158 --> 00:23:16,628",looking at the design of the game and how much time we have.
+"00:23:16,628 --> 00:23:20,108",That we would not probably finish the game in April as we had previously thought.
+"00:23:20,446 --> 00:23:26,086","Rice: Um hm. Schafer: Which we're still thinking we're going to finish in April, Rice: No. Schafer: we've done some math that means, Rice: We did some equations."
+"00:23:26,260 --> 00:23:33,246","Schafer: And if we go past April that would mean going past our money that we got from Kickstarter, which would be not great to do."
+"00:23:34,632 --> 00:23:39,269","We're having discussions with Isa and Justin about what, how we want to deal with that."
+"00:23:39,420 --> 00:23:47,380","So I don't think we're going to conclude any of that in this meeting, but that's the problem that we're working on outside of this, too."
+"00:23:48,980 --> 00:23:51,100",Schafer: So see how much we did get done.
+"00:23:55,620 --> 00:23:58,680","Rice: Yes. So there's, I have two files on Google Drive."
+"00:23:58,680 --> 00:24:01,001","One is the budget, one is schedule."
+"00:24:01,344 --> 00:24:07,528",The original schedule that we made was like an attempt to get as many people on the team as we can
+"00:24:07,780 --> 00:24:12,127",and try to include like all of the things outside of that camp that we need to pay for.
+"00:24:12,620 --> 00:24:17,749","And then like fit a game into that time, essentially right."
+"00:24:18,125 --> 00:24:24,942",And like as we were progressing like it was obvious that we weren't tracking to anything that was going to fit in that time.
+"00:24:24,942 --> 00:24:31,091","So now the hope is to try to start from scratch on a new schedule, taking in account like what we've seen with Cloud Colony"
+"00:24:31,100 --> 00:24:32,950",and how long it's taken us to do that.
+"00:24:33,080 --> 00:24:38,175",How many other additional screens and areas are left in the game as its currently spec'd
+"00:24:38,180 --> 00:24:46,140","and try to take a new stab based on what we know now, at how long we think it'll actually take to make the game that you are designing."
+"00:24:46,140 --> 00:24:54,919","Stamos: So the new budget for this scenario includes going all the way to September and the increased team size,"
+"00:24:55,226 --> 00:24:58,406","which the increased team size is, you know, like four or five people."
+"00:24:58,406 --> 00:25:01,610",Bailey: And has like 1.1 million dollars more costs.
+"00:25:01,610 --> 00:25:08,454",Stamos: Yes. But the thing about this schedule is that it assumes at a certain point that systems work gets done
+"00:25:08,868 --> 00:25:18,285",and that the team gains efficiency and the number of scenes almost doubles at a certain point in the project in order to get it done.
+"00:25:18,285 --> 00:25:21,825",So it's actually pretty aggressive.
+"00:25:21,825 --> 00:25:23,705","Bailey: Then I have to go find, I need to find money."
+"00:25:25,413 --> 00:25:28,693",Stamos: Yeah. That is the concern.
+"00:25:28,700 --> 00:25:33,275","Bailey: OK. Because right now, you know, it looks like, you know, the plane's kind of diving down a little bit"
+"00:25:33,280 --> 00:25:35,980","and we just need to, we have time to pull up."
+"00:25:36,400 --> 00:25:38,137",Schafer: What does the plane diving down stand for?
+"00:25:38,140 --> 00:25:39,844","Bailey: That's, just Schafer: Us crashing? Bailey: Yeah."
+"00:25:39,844 --> 00:25:41,566",Schafer: The whole company crashing into the ground.
+"00:25:41,566 --> 00:25:48,842","Is that what you're saying or are you being, Bailey: I mean, the nicest, so the thing is that Red's, this project is,"
+"00:25:49,287 --> 00:25:52,142",it's going to determine the studio's success going forward.
+"00:25:52,142 --> 00:25:56,048",It's a major portion of my forecast of the health of the studio.
+"00:25:56,048 --> 00:26:06,633","It hitting next year is absolutely necessary and how successful it is once it, you know, is out there and it's live, you know,"
+"00:26:06,640 --> 00:26:12,800","determines our ability to be independent and kind of have our own creative control, like that we're enjoying now."
+"00:26:12,800 --> 00:26:13,820",So...
+"00:26:16,200 --> 00:26:20,600",Schafer: It just seems wrong to make it cost more than we got.
+"00:26:20,600 --> 00:26:24,400","Because we were so lucky to get the money that we got, because I'm going to feel like this moral thing to finish it"
+"00:26:24,400 --> 00:26:26,266",for that amount of money or less.
+"00:26:26,740 --> 00:26:30,420",And I'm sure our business guy would love for us to finish for less.
+"00:26:32,140 --> 00:26:33,685",But the game also has to be really good.
+"00:26:33,685 --> 00:26:35,571",And it is an important game to the studio.
+"00:26:35,580 --> 00:26:37,880",And strategically it's an important game for us because we own it.
+"00:26:37,880 --> 00:26:44,700","We will, we don't have to share the money with any sort of other party, investor or publisher, you know, it's all ours."
+"00:26:44,700 --> 00:26:47,400",So it makes sense for us to make a really good game.
+"00:26:48,280 --> 00:26:52,607","Bailey: We have to, we have to deliver on the vision and I don't think it's going to be done in the budget."
+"00:26:52,780 --> 00:26:55,900",So we have to find more money.
+"00:26:56,760 --> 00:27:01,623",And I feel like not only does it need to deliver on what the community is hoping it is
+"00:27:01,623 --> 00:27:09,739","and the people that actually backed it, but the whole community in general and the crowd funding that's actually occurred since then, we're the poster child."
+"00:27:09,740 --> 00:27:12,488","And we're the poster child, you know, succeed or fail."
+"00:27:12,488 --> 00:27:16,174","And so, you know, we'd like to see more games funded this way."
+"00:27:16,180 --> 00:27:21,079",Rice: I think it's also just important to keep in mind that there's like other impacts besides just funding the game.
+"00:27:21,080 --> 00:27:27,817",And that like if we now go get a publisher for this game then it's suddenly like voids everything we've said about the project
+"00:27:27,820 --> 00:27:29,533",and everything we're trying to do.
+"00:27:29,540 --> 00:27:33,930","It's hard and I know like we're looking at a number that's large, that we're saying we need."
+"00:27:33,930 --> 00:27:39,093",But like as much as possible just trying to make sure that it's as good of money as this money was.
+"00:27:39,560 --> 00:27:47,671","Bailey: I think, you know, there are, obviously there are financial realities that we have to be conscious of, but I mean the reality is that, you know,"
+"00:27:47,680 --> 00:27:51,160",it needs to be a Double Fine game and the quality and it has to deliver on Tim's vision
+"00:27:51,160 --> 00:27:57,110","and so it comes back to, you know, can we, what would be like the minimum scope of the game"
+"00:27:57,327 --> 00:28:01,798","that you would feel it's still, delivers on how you envisioned it."
+"00:28:01,798 --> 00:28:07,049","Schafer: I mean, every time I've been up against this kind of situation, which is almost every time, there's scope"
+"00:28:07,049 --> 00:28:15,663","and then there's money, then there's efficiencies and I've never seen this solved any other way than all of the above."
+"00:28:15,663 --> 00:28:16,861",Stamos: Yeah. Schafer: You know what I mean?
+"00:28:17,040 --> 00:28:20,679","Some scope reduction, some efficiency improvements, some extra money."
+"00:28:20,900 --> 00:28:24,020",Not like any one of those things being the answer.
+"00:28:24,020 --> 00:28:26,160",Bailey: Ok. Ok.
+"00:28:28,580 --> 00:28:29,760",Rice: We can get it done.
+"00:28:33,500 --> 00:28:36,040",Bailey: Should we do like an all hands in and team?
+"00:28:36,040 --> 00:28:38,480",[Laughter] Rice: Yeah man.
+"00:28:39,820 --> 00:28:41,100",Rice: OK.
+"00:28:44,920 --> 00:28:45,960",Bailey: Alright guys.
+"00:28:47,440 --> 00:28:50,980",Rice: OK. Let's keep those.
+"00:28:56,740 --> 00:29:02,840",Rice: Ultimately the number one decider in the schedule is when do we feel like we have a game that we're proud of.
+"00:29:03,820 --> 00:29:11,440",So it's trying to figure out the best plan of attack to get us to where we feel proud of the game and are ready to put it out.
+"00:29:13,400 --> 00:29:17,700",But I think we're safe to assume at this point that it's definitely past April.
+"00:29:17,880 --> 00:29:23,580",So we just gotta kind of figure out when that is.
+"00:29:24,220 --> 00:29:25,980",And how we're going to get there.
+"00:29:30,100 --> 00:29:30,980",We'll handle it.
+"00:29:31,100 --> 00:30:26,860",[Music] Schafer: What we've really done
+"00:30:26,860 --> 00:30:33,744","is we've really banked the entire company on this one project and if even one thing goes wrong, it'll take down the whole games industry."
+"00:30:34,380 --> 00:30:40,060","Is that kind of what you're, or you mean it like more like a Phil Fish thing?"
+"00:30:42,200 --> 00:30:43,384","Now that, you're gonna use that."
+"00:30:43,384 --> 00:30:44,364",That's when you know.
+"00:30:44,364 --> 00:30:45,924","Listen, that was copyright Phil Fish."
+"00:30:45,924 --> 00:30:46,884",I can't do that.

@@ -1,0 +1,4386 @@
+1
+00:00:23,223 --> 00:00:24,992
+Brown: Good, a little more slowly.
+
+2
+00:00:24,992 --> 00:00:26,293
+Technician: And, 115.
+
+3
+00:00:29,196 --> 00:00:30,731
+Kaufman: Not quite.
+
+4
+00:00:30,731 --> 00:00:33,400
+We won't activate
+the Omicron Inhibitor
+
+5
+00:00:33,400 --> 00:00:35,869
+until we're ready to take
+the shields down.
+
+6
+00:00:35,869 --> 00:00:37,237
+Brown: Mm!
+
+7
+00:00:37,237 --> 00:00:38,705
+Yes.
+
+8
+00:00:38,705 --> 00:00:40,240
+Sorry.
+
+9
+00:00:40,240 --> 00:00:42,509
+I'm steppin' on you,
+but: Wow. Yum.
+
+10
+00:00:42,509 --> 00:00:45,245
+Schafer: "Wow. Yum."
+
+11
+00:00:45,245 --> 00:00:46,580
+Brown: Dude, I love when--
+
+12
+00:00:46,580 --> 00:00:48,549
+When they get it right,
+it's like, fuck.
+
+13
+00:00:48,549 --> 00:00:50,150
+Schafer: I want to eat your voice
+when you poop it out.
+
+14
+00:00:50,150 --> 00:00:51,451
+Brown: It's the best.
+
+15
+00:00:51,451 --> 00:00:53,253
+Just fucking poopin'
+in my mouth.
+
+16
+00:00:53,253 --> 00:00:55,055
+I'm saying that just for you.
+
+17
+00:00:55,420 --> 00:01:19,080
+[Music]
+
+18
+00:01:21,748 --> 00:01:23,417
+McConnel: Um...
+
+19
+00:01:23,417 --> 00:01:25,719
+I just really like to...
+to be here
+
+20
+00:01:25,719 --> 00:01:29,589
+whenever I can make it
+up the...hill.
+
+21
+00:01:29,589 --> 00:01:32,159
+It is a little reminiscent
+of the field that the girl
+
+22
+00:01:32,159 --> 00:01:33,794
+starts out in, now, isn't it?
+
+23
+00:01:33,794 --> 00:01:38,765
+When I did that theme,
+um...we hadn't moved yet.
+
+24
+00:01:38,765 --> 00:01:42,369
+Uh, so I sorta had
+to imagine that field
+
+25
+00:01:42,369 --> 00:01:45,639
+and work to the picture, um...
+
+26
+00:01:45,639 --> 00:01:49,876
+But you know, uh...
+
+27
+00:01:49,876 --> 00:01:52,346
+The idea of a...
+
+28
+00:01:52,346 --> 00:01:55,148
+of a beautiful field
+with solitude
+
+29
+00:01:55,148 --> 00:01:58,318
+that you can go to to just
+get away from everything
+
+30
+00:01:58,318 --> 00:02:02,556
+and with a little village below
+is-is definitely, uh...
+
+31
+00:02:02,556 --> 00:02:06,093
+you know, definitely resonates.
+
+32
+00:02:06,093 --> 00:02:09,363
+So maybe I...now that we're
+moving back to the girl's world,
+
+33
+00:02:09,363 --> 00:02:12,132
+maybe it's time for me
+to take more of these walks.
+
+34
+00:02:12,500 --> 00:02:43,900
+[Music]
+
+35
+00:02:45,432 --> 00:02:48,802
+Schafer: What is happening here?
+
+36
+00:02:48,802 --> 00:02:50,337
+What has been going on?
+
+37
+00:02:50,337 --> 00:02:54,107
+I've been so isolated
+writing in here.
+
+38
+00:02:54,107 --> 00:02:56,510
+What else has been going on?
+
+39
+00:02:56,510 --> 00:02:59,379
+Every time I play the game,
+it's got new crazy stuff in it,
+
+40
+00:02:59,379 --> 00:03:00,580
+which looks awesome.
+
+41
+00:03:00,580 --> 00:03:02,682
+Franzke: So here's the start screen.
+
+42
+00:03:02,682 --> 00:03:07,320
+And if I can basically
+linear blend into 8-bit mode
+
+43
+00:03:07,320 --> 00:03:09,589
+and come out again and go back.
+
+44
+00:03:09,589 --> 00:03:13,460
+And the game is actually
+full--fully playable.
+
+45
+00:03:13,460 --> 00:03:16,229
+Schafer: I don't know. Oliver just
+snuck that in over the weekend.
+
+46
+00:03:16,229 --> 00:03:17,831
+He's like, "Hey, hit this--
+hit this key."
+
+47
+00:03:17,831 --> 00:03:19,299
+And I was like, "Why?"
+And I hit it.
+
+48
+00:03:19,299 --> 00:03:21,101
+It was like, pow, awesome.
+
+49
+00:03:21,101 --> 00:03:23,170
+Franzke: Um...and there are a bunch
+of things that are happening.
+
+50
+00:03:23,170 --> 00:03:25,605
+I mean, obviously it's
+pixelated, but we're also,
+
+51
+00:03:25,605 --> 00:03:27,340
+like, kind of compressing
+
+52
+00:03:27,340 --> 00:03:29,009
+the color range as well,
+like in the old days.
+
+53
+00:03:29,009 --> 00:03:30,544
+So we're kind of
+trying to emulate
+
+54
+00:03:30,544 --> 00:03:32,446
+that you only have 256 colors.
+
+55
+00:03:32,446 --> 00:03:34,314
+Like, since the beginning
+of the project, I was like,
+
+56
+00:03:34,314 --> 00:03:36,149
+well, you know, I really like
+the old-school games.
+
+57
+00:03:36,149 --> 00:03:38,885
+I like the pixelated art style
+that we had back then.
+
+58
+00:03:38,885 --> 00:03:42,856
+Um...and then I was like,
+well, I wonder if I can
+
+59
+00:03:42,856 --> 00:03:45,225
+just, like, take the image
+and do some
+
+60
+00:03:45,225 --> 00:03:48,762
+just shader work to it to, like,
+make it look like, you know,
+
+61
+00:03:48,762 --> 00:03:50,564
+it's a game made
+in the '90s sometime,
+
+62
+00:03:50,564 --> 00:03:52,299
+like a little bit 8-bit.
+
+63
+00:03:52,299 --> 00:03:54,768
+Uh, and it works
+pretty well, actually.
+
+64
+00:03:58,405 --> 00:04:01,374
+So far it seems okay, actually.
+
+65
+00:04:01,374 --> 00:04:03,176
+I thought I would be
+way more stressed out.
+
+66
+00:04:03,176 --> 00:04:05,812
+So far it's okay, and probably,
+uh, when you do the--
+
+67
+00:04:05,812 --> 00:04:07,481
+when you can do
+the whole cutting thing,
+
+68
+00:04:07,481 --> 00:04:09,082
+you can cut, like, you know,
+months in the future;
+
+69
+00:04:09,082 --> 00:04:10,817
+I will be sitting here like,
+oh my God!
+
+70
+00:04:10,817 --> 00:04:13,520
+Schafer: And the team is bringing up
+the last parts
+
+71
+00:04:13,520 --> 00:04:16,523
+of "Act 1" to alpha level.
+
+72
+00:04:16,523 --> 00:04:18,524
+Um, starting work
+on the pyramid.
+
+73
+00:04:18,524 --> 00:04:20,159
+There's a pyramid
+in the game
+
+74
+00:04:20,160 --> 00:04:22,229
+that's getting brought
+to alpha this week,
+
+75
+00:04:22,229 --> 00:04:24,231
+and it's looking awesome.
+
+76
+00:04:24,231 --> 00:04:26,666
+Well, alpha is just that
+there's something rough
+
+77
+00:04:26,666 --> 00:04:28,301
+in there
+representing everything.
+
+78
+00:04:28,301 --> 00:04:30,003
+There's like, mm--
+all the assets are, like--
+
+79
+00:04:30,003 --> 00:04:32,305
+Something's in there
+taking a place for them.
+
+80
+00:04:32,305 --> 00:04:34,374
+And then--and then you get
+them all workin' the way
+
+81
+00:04:34,374 --> 00:04:36,676
+you want them to for beta.
+
+82
+00:04:36,676 --> 00:04:38,378
+And then after beta,
+
+83
+00:04:38,378 --> 00:04:41,148
+you're hopefully
+just fixing bugs.
+
+84
+00:04:41,148 --> 00:04:42,516
+Way ahead of schedule.
+
+85
+00:04:42,516 --> 00:04:45,285
+Rice: We're--we're good.
+
+86
+00:04:45,285 --> 00:04:49,156
+We're where I said we should be.
+
+87
+00:04:49,156 --> 00:04:50,690
+Schafer: Well, things move quick
+once you--
+
+88
+00:04:50,690 --> 00:04:52,159
+You know, you have
+certain deadlines.
+
+89
+00:04:52,159 --> 00:04:54,628
+Like, we wanted to get
+a bunch of, um,
+
+90
+00:04:54,628 --> 00:04:57,197
+voice done so we could get
+a PAX trailer.
+
+91
+00:04:57,197 --> 00:04:59,332
+And, um, also 'cause
+the animators
+
+92
+00:04:59,332 --> 00:05:01,301
+are waiting for the voice
+to start--
+
+93
+00:05:01,301 --> 00:05:03,203
+They haven't finished, like,
+a single scene in the game yet
+
+94
+00:05:03,203 --> 00:05:05,105
+'cause then you want
+the final voice in there.
+
+95
+00:05:05,105 --> 00:05:07,374
+So we wanna get that done,
+and once it starts rolling,
+
+96
+00:05:07,374 --> 00:05:09,709
+it, um, it goes pretty quickly.
+
+97
+00:05:09,709 --> 00:05:11,545
+Crook: You know, when they play,
+go through the playthroughs
+
+98
+00:05:11,545 --> 00:05:13,346
+and stuff right now,
+sort of the animation
+
+99
+00:05:13,346 --> 00:05:16,383
+is sort of the least
+polished, oftentimes.
+
+100
+00:05:16,383 --> 00:05:18,752
+And, um, and so sometimes
+it's rough,
+
+101
+00:05:18,752 --> 00:05:20,821
+like, to sit through
+playthroughs, you know,
+
+102
+00:05:20,821 --> 00:05:23,390
+and-and know that the quality
+is not there yet
+
+103
+00:05:23,390 --> 00:05:25,592
+just 'cause you haven't
+gotten to that phase.
+
+104
+00:05:25,592 --> 00:05:27,527
+Schafer: Greg came in;
+he has a question for us.
+
+105
+00:05:27,527 --> 00:05:29,129
+Brown: Greg!
+Rice: Hi.
+
+106
+00:05:29,129 --> 00:05:30,497
+Brown: How are you doing?
+
+107
+00:05:30,497 --> 00:05:32,732
+Rice: I am doing well, how are you?
+
+108
+00:05:32,732 --> 00:05:34,367
+Brown: Hey, I'm good.
+
+109
+00:05:34,367 --> 00:05:36,736
+Rice: Sweet. Um, no, I just,
+uh, I got an email
+
+110
+00:05:36,736 --> 00:05:40,540
+from our new executive assistant
+
+111
+00:05:40,540 --> 00:05:42,075
+that was trying to set up
+Tim's flights,
+
+112
+00:05:42,075 --> 00:05:44,544
+so I wanted to see
+how things were looking
+
+113
+00:05:44,544 --> 00:05:47,414
+and if she should
+go ahead and do that.
+
+114
+00:05:47,414 --> 00:05:51,585
+Brown: So if each one of these
+characters has at least
+
+115
+00:05:51,585 --> 00:05:56,289
+80 lines to read, then, yes.
+
+116
+00:05:56,289 --> 00:05:58,458
+Rice: I think we're gonna
+have enough written.
+
+117
+00:05:58,458 --> 00:06:00,227
+Schafer: So that's a question
+for Malena or someone
+
+118
+00:06:00,227 --> 00:06:01,595
+with access to the database.
+
+119
+00:06:01,595 --> 00:06:03,763
+Rice: We can have Malena
+run that right now.
+
+120
+00:06:03,763 --> 00:06:05,432
+Schafer: Okay. Today we're gonna start.
+
+121
+00:06:05,432 --> 00:06:06,800
+Please welcome Malena.
+
+122
+00:06:06,800 --> 00:06:08,501
+Malena Annable.
+
+123
+00:06:08,501 --> 00:06:10,170
+Annable: I'm so happy to be here
+with you guys.
+
+124
+00:06:10,170 --> 00:06:12,138
+Schafer: Here in person.
+She's come through the magic
+
+125
+00:06:12,138 --> 00:06:15,308
+of the screen to our world.
+
+126
+00:06:15,308 --> 00:06:18,011
+Just like the monsters
+in "Pacific Rim."
+
+127
+00:06:18,011 --> 00:06:19,779
+She is a producer,
+
+128
+00:06:19,779 --> 00:06:22,349
+and she specializes
+in localization
+
+129
+00:06:22,349 --> 00:06:24,584
+and things involving
+the dialogue database.
+
+130
+00:06:24,584 --> 00:06:26,519
+Um...even though
+she's up in Portland,
+
+131
+00:06:26,519 --> 00:06:28,154
+she remotely tracks
+all that stuff
+
+132
+00:06:28,154 --> 00:06:30,490
+and she does localization
+for all of our games.
+
+133
+00:06:30,490 --> 00:06:34,160
+And, um, she is the one pushing
+on me for the writing deadline
+
+134
+00:06:34,160 --> 00:06:36,496
+to get it into Khris' hands,
+'cause it kinda goes,
+
+135
+00:06:36,496 --> 00:06:38,632
+she gets the raw writing
+and puts it in the database,
+
+136
+00:06:38,632 --> 00:06:43,169
+and, um, and gets the script
+all ready to hand off to Khris.
+
+137
+00:06:46,306 --> 00:06:48,008
+That's a good question;
+why is she here?
+
+138
+00:06:48,008 --> 00:06:49,809
+Maybe she's up to something.
+
+139
+00:06:49,809 --> 00:06:52,746
+Annable: Yeah, I wanna talk to you about
+more dialogue things and...
+
+140
+00:06:52,746 --> 00:06:54,447
+Schafer: I have to write more dialogue?
+Annable: Yeah, you do.
+
+141
+00:06:54,447 --> 00:06:56,182
+Schafer: God.
+Annable: You don't want me to write it.
+
+142
+00:06:56,182 --> 00:06:57,884
+Schafer: Gotta be done by now.
+It's gotta be done by now.
+
+143
+00:06:57,884 --> 00:07:01,254
+Annable: So, yeah, so I'm-I'm busy
+with that all week.
+
+144
+00:07:01,254 --> 00:07:03,790
+I'm happy to see everyone.
+Schafer: But if I write it this week,
+
+145
+00:07:03,790 --> 00:07:05,492
+it'll screw up the schedule,
+'cause...
+
+146
+00:07:06,626 --> 00:07:08,028
+Okay.
+
+147
+00:07:08,028 --> 00:07:09,562
+Annable: So I want Tim
+to write in the way
+
+148
+00:07:09,562 --> 00:07:12,265
+that whatever feels
+most comfortable to him.
+
+149
+00:07:13,767 --> 00:07:16,269
+And as fast as possible.
+
+150
+00:07:16,269 --> 00:07:19,105
+Dialogue is so important
+to our games,
+
+151
+00:07:19,105 --> 00:07:21,474
+so making sure that we have,
+like, a really strong system--
+
+152
+00:07:21,474 --> 00:07:23,510
+I have--there's
+a dialogue database
+
+153
+00:07:23,510 --> 00:07:26,546
+that Paul Du Bois built
+and it's amazing.
+
+154
+00:07:26,546 --> 00:07:28,548
+And it's just--for me,
+it's just management of,
+
+155
+00:07:28,548 --> 00:07:31,217
+like, you know,
+tens of thousands of files.
+
+156
+00:07:31,217 --> 00:07:32,719
+I mean, "Brütal Legend,"
+
+157
+00:07:32,719 --> 00:07:35,021
+there are over 35,000 lines
+of dialogue,
+
+158
+00:07:35,021 --> 00:07:37,223
+and I had to manage that
+across five languages.
+
+159
+00:07:37,223 --> 00:07:40,727
+And...it wasn't that bad.
+
+160
+00:07:42,429 --> 00:07:46,199
+Rice: But, yeah, we could have Malena
+check out current status
+
+161
+00:07:46,199 --> 00:07:48,635
+of lines per character.
+
+162
+00:07:48,635 --> 00:07:51,771
+And so if that happens,
+you think, um, like,
+
+163
+00:07:51,771 --> 00:07:54,074
+casting-wise we'll be ready?
+
+164
+00:07:54,074 --> 00:07:56,343
+Brown: Um, I think we will.
+I think we're, like--
+
+165
+00:07:56,343 --> 00:07:58,044
+I think by the end
+of this meeting
+
+166
+00:07:58,044 --> 00:07:59,779
+we will know who we're gonna
+choose for everything,
+
+167
+00:07:59,779 --> 00:08:02,716
+and then it'll be me calling
+and checking avails
+
+168
+00:08:02,716 --> 00:08:04,417
+on them all for next week.
+
+169
+00:08:04,417 --> 00:08:05,852
+Schafer: And then a lot of our friends
+are coming back.
+
+170
+00:08:05,852 --> 00:08:07,287
+Richard Horvitz,
+the voice of Raz,
+
+171
+00:08:07,287 --> 00:08:08,989
+is gonna be doing some voices.
+
+172
+00:08:08,989 --> 00:08:11,491
+And Jennifer Hale, um,
+from "Brütal Legend"
+
+173
+00:08:11,491 --> 00:08:13,193
+and "Mass Effect,"
+is gonna be--
+
+174
+00:08:13,193 --> 00:08:16,429
+Yes, Shepard
+is gonna be doing,
+
+175
+00:08:16,429 --> 00:08:18,565
+uh, I think
+the Mom computer.
+
+176
+00:08:18,565 --> 00:08:21,434
+Um...and that's all
+we have to announce
+
+177
+00:08:21,434 --> 00:08:23,436
+right now as far as voice,
+but that's very exciting stuff.
+
+178
+00:08:23,436 --> 00:08:25,138
+Get that all wrapped up
+so we'll actually have something
+
+179
+00:08:25,138 --> 00:08:28,007
+that we can put into the game
+and show at PAX.
+
+180
+00:08:28,007 --> 00:08:29,442
+This weekend?
+
+181
+00:08:29,442 --> 00:08:31,444
+This weekend, oh my God,
+it's coming up so soon.
+
+182
+00:08:31,444 --> 00:08:33,847
+We're flying down to LA to
+record the voice for the game,
+
+183
+00:08:33,847 --> 00:08:36,383
+at least a third of it.
+
+184
+00:08:36,383 --> 00:08:38,585
+It's a third of the voice
+for the game.
+
+185
+00:08:38,585 --> 00:08:41,488
+And we've got some, um,
+interesting people
+
+186
+00:08:41,488 --> 00:08:43,256
+coming down to do voice.
+
+187
+00:08:43,256 --> 00:08:47,460
+Some old friends,
+some hopefully new friends.
+
+188
+00:08:47,460 --> 00:08:49,095
+We'll be locked
+in a room together,
+
+189
+00:08:49,095 --> 00:08:50,997
+me and Khris Brown,
+for four days.
+
+190
+00:08:50,997 --> 00:09:04,517
+[Music]
+
+191
+00:09:05,044 --> 00:09:08,548
+Horvitz: There is no room in the Space
+Weaver's life for friendship.
+
+192
+00:09:08,548 --> 00:09:10,683
+Brown: Aww...
+Horvitz: He slides alone,
+
+193
+00:09:10,683 --> 00:09:13,820
+like a shuttle of yarn
+across the warp of time
+
+194
+00:09:13,820 --> 00:09:15,622
+on an ever so--shortening--
+
+195
+00:09:17,023 --> 00:09:18,158
+Schafer: Fucked that up.
+
+196
+00:09:18,158 --> 00:09:20,026
+How can you fuck that up?
+
+197
+00:09:20,026 --> 00:09:21,494
+You totally fucked that up.
+
+198
+00:09:21,494 --> 00:09:22,695
+Horvitz: I love that!
+
+199
+00:09:22,695 --> 00:09:23,997
+That is so fucking good.
+
+200
+00:09:23,997 --> 00:09:25,165
+All right. Here we go.
+
+201
+00:09:25,165 --> 00:09:26,533
+Schafer: It's kinda like he's Pee Wee,
+
+202
+00:09:26,533 --> 00:09:27,700
+rebel, loner.
+
+203
+00:09:27,700 --> 00:09:28,835
+Technician: And, 24.
+
+204
+00:09:28,835 --> 00:09:30,437
+Horvitz: Look, see, see,
+look at this,
+
+205
+00:09:30,437 --> 00:09:32,605
+look at this island
+in front right here, see?
+
+206
+00:09:32,605 --> 00:09:34,374
+And it's just like this
+hairline's receding.
+
+207
+00:09:34,374 --> 00:09:35,442
+I can't stand it.
+
+208
+00:09:35,442 --> 00:09:36,543
+Brown: Really?
+Schafer: Lice check? Lice check?
+
+209
+00:09:36,543 --> 00:09:38,044
+Brown: It looks good.
+Horvitz: No, not...
+
+210
+00:09:38,044 --> 00:09:39,646
+Brown: Tim, you have lice.
+
+211
+00:09:39,646 --> 00:09:41,514
+We have never cast
+a game this quickly.
+
+212
+00:09:41,514 --> 00:09:43,383
+Um, and we have
+never cast a game
+
+213
+00:09:43,383 --> 00:09:45,351
+with, um, a budget
+this limited.
+
+214
+00:09:45,351 --> 00:09:47,487
+I mean, it--
+with the exception of, you know,
+
+215
+00:09:47,487 --> 00:09:49,089
+with "Day of the Tentacle,"
+you have, like,
+
+216
+00:09:49,089 --> 00:09:50,690
+1,500 lines,
+you know what I mean?
+
+217
+00:09:50,690 --> 00:09:54,394
+But even then, I think, um...
+
+218
+00:09:54,394 --> 00:09:57,297
+I think we probably spent more
+money on "Day of the Tentacle."
+
+219
+00:09:57,297 --> 00:09:59,065
+That's Tim,
+who started the company,
+
+220
+00:09:59,065 --> 00:10:01,468
+and he was one of the chief
+game designers at LucasArts,
+
+221
+00:10:01,468 --> 00:10:02,769
+working on, like,
+"Monkey Island"
+
+222
+00:10:02,769 --> 00:10:04,771
+and kind of this whole, um,
+
+223
+00:10:04,771 --> 00:10:06,372
+set or series of games
+
+224
+00:10:06,372 --> 00:10:08,842
+that people feel
+really strongly about.
+
+225
+00:10:08,842 --> 00:10:10,510
+They have a really strong
+emotional connection
+
+226
+00:10:10,510 --> 00:10:12,312
+to those games,
+and then we've continued...
+
+227
+00:10:12,312 --> 00:10:14,047
+I started at LucasArts in 1990.
+
+228
+00:10:14,047 --> 00:10:15,548
+And there were 60 of us.
+
+229
+00:10:15,548 --> 00:10:17,684
+Like, LucasArts was 60 people.
+
+230
+00:10:17,684 --> 00:10:20,186
+I mean, we were a bunch
+of goofball rejects.
+
+231
+00:10:20,186 --> 00:10:23,523
+It's not--it's not
+how it is now,
+
+232
+00:10:23,523 --> 00:10:25,492
+where you have guys
+who go to college
+
+233
+00:10:25,492 --> 00:10:28,394
+and then video games
+is a place
+
+234
+00:10:28,394 --> 00:10:30,830
+where you can be
+successful financially.
+
+235
+00:10:30,830 --> 00:10:32,098
+Do you know what I mean?
+
+236
+00:10:32,098 --> 00:10:33,233
+We were all kids
+
+237
+00:10:33,233 --> 00:10:35,235
+who were alone...
+
+238
+00:10:35,235 --> 00:10:37,670
+and computers were...
+
+239
+00:10:37,670 --> 00:10:39,472
+our friends, you know?
+
+240
+00:10:39,472 --> 00:10:41,741
+And so then we were
+in a safe place
+
+241
+00:10:41,741 --> 00:10:43,810
+where we could be together.
+
+242
+00:10:43,810 --> 00:10:45,478
+So, yeah, we super bonded.
+
+243
+00:10:45,478 --> 00:10:46,813
+Um, all of us.
+
+244
+00:10:46,813 --> 00:10:48,314
+I mean, we all still
+talk to each other
+
+245
+00:10:48,314 --> 00:10:49,649
+and I think we'll
+talk to each other
+
+246
+00:10:49,649 --> 00:10:51,551
+for the rest of our lives.
+
+247
+00:10:51,551 --> 00:10:53,620
+Schafer: Yes, we do know
+each other really well,
+
+248
+00:10:53,620 --> 00:10:55,855
+'cause she was back at Lucas
+back in the '90s.
+
+249
+00:10:55,855 --> 00:10:58,224
+So we've known each other
+for a long time.
+
+250
+00:10:58,224 --> 00:11:01,594
+You get into a lot
+of strange, um...
+
+251
+00:11:01,594 --> 00:11:03,129
+kinda routines
+in the studio.
+
+252
+00:11:03,129 --> 00:11:04,464
+When you--it's like--
+for some reason,
+
+253
+00:11:04,464 --> 00:11:06,165
+sitting in the recording
+studio is grueling.
+
+254
+00:11:06,165 --> 00:11:07,800
+Like, you're just sitting
+in this little chair,
+
+255
+00:11:07,800 --> 00:11:09,602
+you're hearing voices,
+but like after a day of that
+
+256
+00:11:09,602 --> 00:11:11,504
+you're like, oh my God,
+I was in this tiny room all day.
+
+257
+00:11:11,504 --> 00:11:14,007
+Like, I mean, maybe it's
+like editing for you guys.
+
+258
+00:11:14,007 --> 00:11:15,708
+But it's like,
+you're in a tiny room,
+
+259
+00:11:15,708 --> 00:11:17,610
+faced with a big control panel
+and you're talking
+
+260
+00:11:17,610 --> 00:11:19,379
+over this inter--I don't know
+why it's so exhausting.
+
+261
+00:11:19,379 --> 00:11:21,347
+I am so delirious from
+that 30-hour session
+
+262
+00:11:21,347 --> 00:11:25,084
+that I, uh, I don't even know
+who I am anymore.
+
+263
+00:11:25,084 --> 00:11:27,086
+Brown: It's almost like it was
+"Brütal Legend."
+
+264
+00:11:27,086 --> 00:11:29,088
+Schafer: Oh, God.
+
+265
+00:11:29,088 --> 00:11:30,423
+Thirty hours.
+
+266
+00:11:30,423 --> 00:11:33,359
+I delegated all the hard
+sessions of that one.
+
+267
+00:11:33,359 --> 00:11:34,794
+I only come
+for the movie stars.
+
+268
+00:11:34,794 --> 00:11:36,129
+Brown: You're tellin' me, man.
+
+269
+00:11:38,865 --> 00:11:41,301
+Schafer: I mean, I only come
+for the stuff.
+
+270
+00:11:41,301 --> 00:11:42,602
+Brown: You only come
+for the important stuff.
+
+271
+00:11:42,602 --> 00:11:44,704
+Schafer: I leave the stuff where
+the script is really
+
+272
+00:11:44,704 --> 00:11:46,439
+idiot-proof.
+
+273
+00:11:46,439 --> 00:11:47,707
+Do you like that term?
+
+274
+00:11:47,707 --> 00:11:49,075
+That's like a writing term.
+
+275
+00:11:49,075 --> 00:11:51,844
+Like, it's director-proof.
+
+276
+00:11:51,844 --> 00:11:53,313
+Yeah.
+
+277
+00:11:53,313 --> 00:11:55,081
+In screenwriting
+class they're like,
+
+278
+00:11:55,081 --> 00:11:57,016
+"You gotta really write your
+script so it's director-proof."
+
+279
+00:11:57,016 --> 00:11:58,985
+Brown: That's because people
+were working with directors
+
+280
+00:11:58,985 --> 00:12:00,453
+who aren't me.
+
+281
+00:12:00,453 --> 00:12:03,456
+Schafer: It's just--it's a...
+
+282
+00:12:03,456 --> 00:12:06,426
+That's obviously
+not the way I feel.
+
+283
+00:12:06,426 --> 00:12:07,794
+Brown: What?
+
+284
+00:12:07,794 --> 00:12:10,196
+Schafer: That's obviously
+not the way I feel.
+
+285
+00:12:10,196 --> 00:12:12,632
+Brown: You just--okay, so I wanna
+hear Frank's blowjob story.
+
+286
+00:12:12,632 --> 00:12:14,133
+No, your writing is awesome.
+
+287
+00:12:14,133 --> 00:12:15,768
+It's perfect and fantastic.
+
+288
+00:12:15,768 --> 00:12:17,637
+Schafer: It doesn't compare
+to Frank's blowjob story.
+
+289
+00:12:17,637 --> 00:12:22,575
+So in between takes, um...
+you just start to, um...
+
+290
+00:12:22,575 --> 00:12:25,111
+for some reason tell
+extremely dirty jokes.
+
+291
+00:12:25,111 --> 00:12:27,046
+This is going in a weird
+direction, obviously.
+
+292
+00:12:28,348 --> 00:12:30,149
+Brown: Well, the camera's off, right?
+
+293
+00:12:31,150 --> 00:12:32,585
+Schafer: Nope.
+
+294
+00:12:32,585 --> 00:12:34,354
+It's like, um,
+going to some weird,
+
+295
+00:12:34,354 --> 00:12:37,624
+uh, foxhole
+or trench together.
+
+296
+00:12:37,624 --> 00:12:39,325
+Technician: Hi, Jan.
+[Offscreen] Hey, how are ya?
+
+297
+00:12:39,325 --> 00:12:41,194
+Technician: I'm good, how are you?
+[Offscreen] Good. Good to see you.
+
+298
+00:12:41,194 --> 00:12:43,129
+Technician: You too.
+[Offscreen]Check, check, check, check.
+
+299
+00:12:43,129 --> 00:12:44,364
+Check, check.
+
+300
+00:12:44,364 --> 00:12:46,299
+Check, check, check, check.
+
+301
+00:12:46,299 --> 00:12:47,767
+Cash, cash, cash.
+Mark?
+
+302
+00:12:47,767 --> 00:12:49,268
+[Technician] Yeah, you're--no, you're good.
+
+303
+00:12:49,268 --> 00:12:51,337
+No, please no more.
+
+304
+00:12:51,337 --> 00:12:54,273
+Schafer: The boy, Shay,
+that's the story about a boy
+
+305
+00:12:54,273 --> 00:12:56,209
+who was, um,
+raised essentially
+
+306
+00:12:56,209 --> 00:12:58,044
+by a giant spaceship
+all by himself,
+
+307
+00:12:58,044 --> 00:12:59,646
+and he lives alone
+on this giant spaceship
+
+308
+00:12:59,646 --> 00:13:01,347
+and it's very quiet
+and lonely.
+
+309
+00:13:01,347 --> 00:13:03,716
+Um, and he's cared for by...
+
+310
+00:13:03,716 --> 00:13:05,551
+uh, there's a mom
+and a dad that appear
+
+311
+00:13:05,551 --> 00:13:07,553
+on the computer screens
+and take care of him.
+
+312
+00:13:07,553 --> 00:13:09,122
+And these big, like,
+knitting arms
+
+313
+00:13:09,122 --> 00:13:11,024
+come down for the mother
+and that's you, the mom.
+
+314
+00:13:11,024 --> 00:13:12,859
+Hale: Oh...
+Schafer: And it was great when he was 7,
+
+315
+00:13:12,859 --> 00:13:14,427
+but now he's 14,
+he's startin' to feel
+
+316
+00:13:14,427 --> 00:13:16,129
+like he's tired
+of this kid stuff
+
+317
+00:13:16,129 --> 00:13:17,497
+and he wants to do
+something real with his life
+
+318
+00:13:17,497 --> 00:13:18,731
+and go out on adventures.
+
+319
+00:13:18,731 --> 00:13:20,733
+And so he meets
+this shady character...
+
+320
+00:13:20,733 --> 00:13:22,802
+People who do--the professional
+voice talent people,
+
+321
+00:13:22,802 --> 00:13:25,071
+like Jennifer Hale
+and Richard Horvitz,
+
+322
+00:13:25,071 --> 00:13:27,106
+who just do this all the time,
+they walk in the studio,
+
+323
+00:13:27,106 --> 00:13:28,508
+they don't know anything
+about it, they grab the script
+
+324
+00:13:28,508 --> 00:13:30,276
+and they cold read it,
+and they nail it
+
+325
+00:13:30,276 --> 00:13:32,111
+after a couple lines
+like that.
+
+326
+00:13:32,111 --> 00:13:35,248
+Brown: And they walk in, and it's like,
+okay, they gotta pull it out.
+
+327
+00:13:35,248 --> 00:13:37,116
+So it's--it is the hardest--
+
+328
+00:13:37,116 --> 00:13:39,085
+you know, as Jen Hale says,
+she's like,
+
+329
+00:13:39,085 --> 00:13:41,020
+"It's not just acting,
+it's acting on steroids."
+
+330
+00:13:41,020 --> 00:13:42,655
+It is the hardest job.
+
+331
+00:13:42,655 --> 00:13:46,259
+And you can't rely on
+your facial expressions.
+
+332
+00:13:46,259 --> 00:13:48,795
+And how frantic
+is she when she's,
+
+333
+00:13:48,795 --> 00:13:50,630
+um, "Shay, where are you going?
+
+334
+00:13:50,630 --> 00:13:53,800
+It's not safe. Shay!!!"
+with three exclamation points?
+
+335
+00:13:53,800 --> 00:13:57,036
+Schafer: Um--
+Brown: Is it like yelling, or...?
+
+336
+00:13:57,036 --> 00:13:58,671
+Hale: On a scale of 1 to 10.
+
+337
+00:13:58,671 --> 00:14:01,607
+Schafer: Um, she--this is when even
+more hell has broken loose.
+
+338
+00:14:01,607 --> 00:14:03,309
+Like, the ship is actually
+being attacked now,
+
+339
+00:14:03,309 --> 00:14:04,844
+and Shay is running
+to go fix it.
+
+340
+00:14:04,844 --> 00:14:06,312
+He's gonna go get
+his space suit.
+
+341
+00:14:06,312 --> 00:14:07,613
+And he's running
+down the hallway,
+
+342
+00:14:07,613 --> 00:14:09,015
+and so you're
+in one of the orbs
+
+343
+00:14:09,015 --> 00:14:10,616
+and you're doing
+your normal thing, like,
+
+344
+00:14:10,616 --> 00:14:12,285
+trying to calm him down,
+but then he's not stopping
+
+345
+00:14:12,285 --> 00:14:13,853
+and you're like,
+"Hey, he's not listening to me.
+
+346
+00:14:13,853 --> 00:14:15,254
+He's not listening to my--
+
+347
+00:14:15,254 --> 00:14:16,622
+He's not being
+calmed down by my thing.
+
+348
+00:14:16,622 --> 00:14:18,224
+And then, what's he doing?"
+
+349
+00:14:18,224 --> 00:14:20,259
+Hale: Okay, so 4:48, is it,
+
+350
+00:14:20,259 --> 00:14:21,828
+"Dear God, he's going to die,"
+
+351
+00:14:21,828 --> 00:14:24,464
+or is it, "Hey, listen to me"?
+
+352
+00:14:24,464 --> 00:14:26,866
+Schafer: No, it's the--it is the first--
+the former more.
+
+353
+00:14:26,866 --> 00:14:28,868
+Hale: "Dear God, he's going to die."
+
+354
+00:14:28,868 --> 00:14:31,337
+Schafer: Like he--like's running out
+into a tornado, kind of like--
+
+355
+00:14:31,337 --> 00:14:33,172
+Hale: He's running
+into a tornado, okay.
+
+356
+00:14:33,172 --> 00:14:35,308
+Shay!
+There you are.
+
+357
+00:14:35,308 --> 00:14:38,277
+Something's happened
+to the ship, but don't worry.
+
+358
+00:14:38,277 --> 00:14:41,114
+Your father's
+gone out to fix it.
+
+359
+00:14:41,114 --> 00:14:42,682
+Shay, where are you going?
+
+360
+00:14:42,682 --> 00:14:44,250
+It's not safe!
+
+361
+00:14:44,250 --> 00:14:45,585
+Shay!!!
+
+362
+00:14:45,585 --> 00:14:47,387
+Brown: There we go.
+Schafer: Wow.
+
+363
+00:14:47,387 --> 00:14:50,490
+Schafer: Nice.
+Brown: Perfect.
+
+364
+00:14:50,490 --> 00:14:52,492
+You know,
+and the actor loved it.
+
+365
+00:14:52,492 --> 00:14:57,130
+I mean, you really want an actor
+who loves what they do.
+
+366
+00:14:57,130 --> 00:15:02,635
+I don't hire celebrities
+for a payday.
+
+367
+00:15:02,635 --> 00:15:04,804
+At any other company,
+at any other studio,
+
+368
+00:15:04,804 --> 00:15:07,106
+people will say,
+"Oh, let's get so-and-so!
+
+369
+00:15:07,106 --> 00:15:10,777
+You know, we're X studio,
+we have X million dollars.
+
+370
+00:15:10,777 --> 00:15:12,345
+Let's just pay them,
+
+371
+00:15:12,345 --> 00:15:14,080
+because it's gonna be
+rear ends in seats."
+
+372
+00:15:14,080 --> 00:15:15,848
+And I'm like,
+why do you want someone
+
+373
+00:15:15,848 --> 00:15:17,650
+who's only here
+for a payday?
+
+374
+00:15:17,650 --> 00:15:19,519
+Otherwise, it's a waste.
+It's a waste of money,
+
+375
+00:15:19,519 --> 00:15:21,354
+it's a waste
+of the actor's time.
+
+376
+00:15:21,354 --> 00:15:22,989
+You don't want someone
+who's just, like,
+
+377
+00:15:22,989 --> 00:15:24,757
+not having fun
+and not into it.
+
+378
+00:15:24,757 --> 00:15:26,325
+And that's the thing
+about Tim's writing
+
+379
+00:15:26,325 --> 00:15:28,094
+and that's the thing
+about Double Fine,
+
+380
+00:15:28,094 --> 00:15:31,497
+is that it's so incredibly
+rewarding, the actors,
+
+381
+00:15:31,497 --> 00:15:35,067
+they come in and they do it
+for essentially what's free.
+
+382
+00:15:35,067 --> 00:15:38,070
+Hale: All missions are cancelled.
+
+383
+00:15:38,070 --> 00:15:39,605
+I love you.
+
+384
+00:15:42,208 --> 00:15:46,012
+Brown: Good. Can we get,
+um, three in a row,
+
+385
+00:15:46,012 --> 00:15:47,747
+um, slow and super sincere?
+
+386
+00:15:47,747 --> 00:15:50,783
+Hale: Uh-huh.
+Brown: Of "I love you"s?
+
+387
+00:15:50,783 --> 00:15:52,819
+Schafer: Is that just
+for personal use?
+
+388
+00:15:52,819 --> 00:15:54,687
+He--this boy is--
+now that he's 14,
+
+389
+00:15:54,687 --> 00:15:57,223
+he's startin' to feel like,
+"I'm sick of these--
+
+390
+00:15:57,223 --> 00:15:59,826
+I wanna do some actual action
+and get out there."
+
+391
+00:16:00,059 --> 00:16:02,662
+Kaufman: Yeah.
+Schafer: And that's when he meets Marek.
+
+392
+00:16:02,662 --> 00:16:04,363
+He's, like, the wolf
+
+393
+00:16:04,363 --> 00:16:05,865
+who comes out of the cracks;
+he's been watching.
+
+394
+00:16:05,865 --> 00:16:08,434
+Brown: Do you wanna hear the aud,
+or are you good?
+
+395
+00:16:08,434 --> 00:16:10,136
+Kaufman: Uh, yeah,
+I'll listen to it again.
+
+396
+00:16:10,136 --> 00:16:13,105
+I-I-I...you mean, my, uh...?
+
+397
+00:16:13,105 --> 00:16:14,440
+Brown: Your read?
+Kaufman: Yeah, yeah, yeah.
+
+398
+00:16:14,440 --> 00:16:17,677
+David Kaufman, Marek.
+
+399
+00:16:17,677 --> 00:16:21,447
+You came because you are done
+with children's games.
+
+400
+00:16:21,447 --> 00:16:24,383
+My name is Marek,
+and what I'm about to show you
+
+401
+00:16:24,383 --> 00:16:26,118
+is no game.
+
+402
+00:16:26,118 --> 00:16:27,854
+Schafer: We were talking about that
+when we were casting.
+
+403
+00:16:27,854 --> 00:16:29,755
+It was like, well, we have this
+other guy we know can do it,
+
+404
+00:16:29,755 --> 00:16:31,824
+but I really like this guy's
+voice, and it's new.
+
+405
+00:16:31,824 --> 00:16:33,526
+And I usually tend to go
+for that, like,
+
+406
+00:16:33,526 --> 00:16:35,394
+really unique voice
+more often,
+
+407
+00:16:35,394 --> 00:16:37,396
+even though it's a risk,
+because sometimes
+
+408
+00:16:37,396 --> 00:16:39,198
+you bring somebody in
+'cause you like the audition
+
+409
+00:16:39,198 --> 00:16:40,733
+and you don't know
+anything else about them
+
+410
+00:16:40,733 --> 00:16:42,435
+and it turns out they
+can't do anything else
+
+411
+00:16:42,435 --> 00:16:44,704
+except for that exact thing
+they did in the audition.
+
+412
+00:16:44,704 --> 00:16:46,305
+Or they can't hit
+the audition again.
+
+413
+00:16:46,305 --> 00:16:47,740
+Sometimes we've
+had people come in
+
+414
+00:16:47,740 --> 00:16:49,308
+and they just can't seem
+to capture
+
+415
+00:16:49,308 --> 00:16:51,677
+the magic
+of the audition again.
+
+416
+00:16:51,677 --> 00:16:53,746
+And even--
+so we'll play it for them,
+
+417
+00:16:53,746 --> 00:16:55,715
+like, "Listen to this audition."
+
+418
+00:16:55,715 --> 00:16:58,084
+And they'll be like, "Um...
+I don't wanna do it that way."
+
+419
+00:16:58,084 --> 00:17:00,453
+He's--the way you read that
+is a nice contrast to the mom,
+
+420
+00:17:00,453 --> 00:17:02,355
+who's--the computer
+is like this--
+
+421
+00:17:02,355 --> 00:17:05,156
+the ship's computer is like this
+really over-mothering mother
+
+422
+00:17:05,156 --> 00:17:07,325
+who's just, you know,
+everything is sweet
+
+423
+00:17:07,326 --> 00:17:09,194
+and she's being so sweet
+to the boy all the time,
+
+424
+00:17:09,194 --> 00:17:10,795
+and then you're just, like,
+you're not cutting him any slack
+
+425
+00:17:10,796 --> 00:17:12,330
+and you're just like,
+
+426
+00:17:12,330 --> 00:17:13,865
+"I'm not here to love you,
+right?
+
+427
+00:17:13,866 --> 00:17:15,166
+There's war going on."
+
+428
+00:17:15,166 --> 00:17:17,002
+Kaufman: Tell no one.
+
+429
+00:17:17,002 --> 00:17:19,704
+Do you understand?
+
+430
+00:17:23,509 --> 00:17:25,444
+No one.
+
+431
+00:17:25,444 --> 00:17:27,046
+Schafer: Whoa.
+
+432
+00:17:27,046 --> 00:17:28,281
+Kaufman: No one.
+
+433
+00:17:28,281 --> 00:17:30,750
+Schafer: I like that; scary.
+
+434
+00:17:30,750 --> 00:17:32,752
+Kaufman: No one.
+
+435
+00:17:32,752 --> 00:17:34,186
+Brown: Perfect.
+
+436
+00:17:34,186 --> 00:17:35,788
+Yeah, having this dude
+in here has just, like,
+
+437
+00:17:35,788 --> 00:17:37,490
+made the game, like,
+whoa, fuck.
+
+438
+00:17:37,490 --> 00:17:39,592
+I mean, to see those people
+come to life, I mean,
+
+439
+00:17:39,592 --> 00:17:43,462
+as you saw with Marek, like,
+all of a sudden, you know,
+
+440
+00:17:43,462 --> 00:17:45,298
+it wasn't just these
+lines on the page.
+
+441
+00:17:45,298 --> 00:17:46,732
+It was like, holy shit.
+
+442
+00:17:46,732 --> 00:17:48,367
+Like, yesterday when
+I was listening to him
+
+443
+00:17:48,367 --> 00:17:49,669
+I was like, oh-kay.
+
+444
+00:17:49,669 --> 00:17:53,372
+This game, uh...um...
+
+445
+00:17:53,372 --> 00:17:55,274
+It's not just a funny
+thing anymore.
+
+446
+00:17:55,274 --> 00:17:57,443
+Like, it's not just like,
+oh, this is really sweet
+
+447
+00:17:57,443 --> 00:17:59,779
+and we have this sweet boy
+and he's coming of age.
+
+448
+00:17:59,779 --> 00:18:04,083
+But once we had Marek,
+it's like, that's the linchpin,
+
+449
+00:18:04,083 --> 00:18:06,118
+do you know what I mean,
+for the boy's story.
+
+450
+00:18:06,118 --> 00:18:09,789
+Like, once we have him,
+that was crazy, you know?
+
+451
+00:18:09,789 --> 00:18:12,024
+And I--and I went home
+and I was like, okay,
+
+452
+00:18:12,024 --> 00:18:14,260
+this game has a heart,
+it lives and it breathes,
+
+453
+00:18:14,260 --> 00:18:17,196
+because we have that conflict
+and we have that intrigue.
+
+454
+00:18:17,196 --> 00:18:20,232
+And that's, I mean,
+that's so amazing.
+
+455
+00:18:20,232 --> 00:18:22,268
+The game went from being,
+like, oh my God, it's cute
+
+456
+00:18:22,268 --> 00:18:24,203
+and it has beautiful
+characters and da-da-da.
+
+457
+00:18:24,203 --> 00:18:25,771
+But, like, Marek--
+And I'm--
+
+458
+00:18:25,771 --> 00:18:27,807
+seriously, like, I am--
+these guys will tell you,
+
+459
+00:18:27,807 --> 00:18:30,209
+like, one, I'm s--
+a total super bitch.
+
+460
+00:18:30,209 --> 00:18:34,380
+Two, like, like,
+there's--I--like...
+
+461
+00:18:34,380 --> 00:18:36,082
+There's no reason for me
+to tell you this.
+
+462
+00:18:36,082 --> 00:18:37,717
+Like, there's zero, right?
+
+463
+00:18:37,717 --> 00:18:40,720
+Kaufman: That's awesome.
+Brown: Yeah. It's fucking awesome.
+
+464
+00:18:40,720 --> 00:18:43,022
+Schafer: She's even understanding
+what a bitch she is.
+
+465
+00:18:44,357 --> 00:18:45,725
+Also that.
+
+466
+00:18:45,725 --> 00:19:08,105
+[Music]
+
+467
+00:19:08,105 --> 00:19:09,682
+[Mario game sounds]
+
+468
+00:19:09,682 --> 00:19:11,851
+Schafer: Sorry. I'm getting
+really into this game now.
+
+469
+00:19:11,851 --> 00:19:14,286
+Brown: No, it's super cute.
+I like the little sounds.
+
+470
+00:19:14,286 --> 00:19:18,457
+Schafer: Oh, I walked right down
+the thing, the thing!
+
+471
+00:19:18,457 --> 00:19:20,292
+Brown: I really...
+
+472
+00:19:20,292 --> 00:19:25,297
+I'm trying to resist
+getting...this.
+
+473
+00:19:25,297 --> 00:19:27,099
+Because I wanna play
+"Animal Crossing."
+
+474
+00:19:27,099 --> 00:19:28,768
+Schafer: Get "Animal Crossing."
+It's good for you.
+
+475
+00:19:28,768 --> 00:19:30,536
+Brown: I--no, I can't.
+
+476
+00:19:30,536 --> 00:19:32,238
+Schafer: "Animal Crossing"
+made me a better person.
+
+477
+00:19:32,238 --> 00:19:35,241
+Brown: Really?
+Schafer: Yeah, 'cause it's all about...
+
+478
+00:19:35,241 --> 00:19:36,475
+Brown: Making nice things?
+
+479
+00:19:36,475 --> 00:19:37,777
+Schafer: Just every day--
+no, just every day
+
+480
+00:19:37,777 --> 00:19:39,145
+doing a little bit
+of stuff.
+
+481
+00:19:39,145 --> 00:19:41,047
+Not, like,
+rushing through things
+
+482
+00:19:41,047 --> 00:19:42,615
+for a goal
+or anything like that.
+
+483
+00:19:42,615 --> 00:19:44,183
+It's really--
+I think it's mentally good
+
+484
+00:19:44,183 --> 00:19:45,751
+for you to play it.
+
+485
+00:19:45,751 --> 00:19:49,121
+Dang it, I really suck
+at this game.
+
+486
+00:19:49,121 --> 00:19:53,159
+Brown: 'Cause every minute that
+I'm not either working or...
+
+487
+00:19:53,159 --> 00:19:54,260
+Schafer: Hello!
+
+488
+00:19:58,998 --> 00:20:01,400
+Hello there.
+Black: Hi, Tim Schafer.
+
+489
+00:20:01,400 --> 00:20:03,135
+Schafer: Welcome to the project
+"Broken Age."
+
+490
+00:20:03,135 --> 00:20:05,538
+Black: Thank you for having me here.
+Is it well lit enough?
+
+491
+00:20:05,538 --> 00:20:07,540
+I feel like we're
+in a dark shadow.
+
+492
+00:20:07,540 --> 00:20:08,774
+Here we go.
+
+493
+00:20:11,277 --> 00:20:13,479
+Schafer: I feel good about this. Good.
+
+494
+00:20:13,479 --> 00:20:14,847
+Black: Tell me about the project.
+
+495
+00:20:14,847 --> 00:20:16,148
+What are we doing today?
+
+496
+00:20:16,148 --> 00:20:17,483
+Schafer: I'm so glad that you asked.
+
+497
+00:20:17,483 --> 00:20:19,018
+Black: Is this who I'm
+gonna be voicing?
+
+498
+00:20:19,018 --> 00:20:20,720
+Brown: Yes.
+Schafer: Yeah, Harm'ny.
+
+499
+00:20:20,720 --> 00:20:22,721
+We're, like--yeah,
+he's kinda like a guru.
+
+500
+00:20:22,721 --> 00:20:24,156
+Brown: He's like
+a cultic personality.
+
+501
+00:20:24,156 --> 00:20:25,524
+Schafer: And a little,
+like, not shady,
+
+502
+00:20:25,524 --> 00:20:27,693
+but a little bit like,
+"Heyyy, hey."
+
+503
+00:20:27,693 --> 00:20:29,195
+'Cause he's a little bit
+of a fraud.
+
+504
+00:20:29,195 --> 00:20:30,329
+Black: Okay. I have no idea
+what's going on.
+
+505
+00:20:30,329 --> 00:20:32,098
+Schafer: And Harm'ny's main thing,
+
+506
+00:20:32,098 --> 00:20:33,699
+he runs the cloud colony,
+that's his main thing.
+
+507
+00:20:33,699 --> 00:20:35,701
+Black: Harm'ny is a cult leader.
+Schafer: Yeah.
+
+508
+00:20:35,701 --> 00:20:37,703
+And a little bit of a fraud.
+Black: And he runs the cloud colony.
+
+509
+00:20:37,703 --> 00:20:39,605
+And is he also
+like other gurus,
+
+510
+00:20:39,605 --> 00:20:42,007
+where it's also about,
+like, uh...
+
+511
+00:20:42,007 --> 00:20:44,443
+"Let me give you my seed.
+It's--believe me, this is--"
+
+512
+00:20:44,443 --> 00:20:47,246
+Brown: See? All the guys wanna
+touch your vagina.
+
+513
+00:20:47,246 --> 00:20:49,248
+That's what I said:
+Does he wanna touch vaginas?
+
+514
+00:20:49,248 --> 00:20:50,883
+Because all those dudes do!
+
+515
+00:20:50,883 --> 00:20:52,284
+Schafer: We don't really--
+
+516
+00:20:52,284 --> 00:20:54,086
+Black: Well, all the gurus,
+it comes down to--yeah.
+
+517
+00:20:54,086 --> 00:20:56,155
+Brown: For sure!
+Schafer: We don't really explore that
+
+518
+00:20:56,155 --> 00:20:57,623
+very much in the game,
+but I don't think it's--
+
+519
+00:20:57,623 --> 00:20:59,592
+Black: No. And we don't need to.
+
+520
+00:20:59,592 --> 00:21:01,494
+It's-it's-it's there, though.
+It's underneath.
+
+521
+00:21:01,494 --> 00:21:03,762
+Brown: It's implied, it's implied.
+Schafer: I think people assume.
+
+522
+00:21:05,464 --> 00:21:07,500
+Seeing Jack again
+was really fun.
+
+523
+00:21:07,500 --> 00:21:11,804
+Um, I haven't seen him for--
+since the end of "Brütal."
+
+524
+00:21:11,804 --> 00:21:13,539
+And so it was fun
+to see Jack again.
+
+525
+00:21:13,539 --> 00:21:14,840
+He was a good sport.
+
+526
+00:21:14,840 --> 00:21:16,342
+Black: I feel like
+I need to research
+
+527
+00:21:16,342 --> 00:21:18,144
+a little while
+before I start acting.
+
+528
+00:21:18,144 --> 00:21:20,079
+Schafer: We told you way too much.
+
+529
+00:21:20,079 --> 00:21:21,814
+Okay, so there's
+a few lines today
+
+530
+00:21:21,814 --> 00:21:23,616
+and there'll be more in--
+we haven't done--
+
+531
+00:21:23,616 --> 00:21:25,584
+we've only written the first
+half of the game so far.
+
+532
+00:21:25,584 --> 00:21:27,486
+So when we're at the second
+half, I hope we can get you
+
+533
+00:21:27,486 --> 00:21:29,789
+to come back again, yeah.
+
+534
+00:21:29,789 --> 00:21:31,223
+Black: Okay, you ready?
+
+535
+00:21:31,223 --> 00:21:32,625
+Technician: Cool, I'll give you
+a take number,
+
+536
+00:21:32,625 --> 00:21:34,827
+then we'll be rolling,
+and if you need
+
+537
+00:21:34,827 --> 00:21:36,495
+your headphones adjusted,
+just let me know.
+
+538
+00:21:36,495 --> 00:21:37,630
+Black: All right, and...
+
+539
+00:21:37,630 --> 00:21:39,098
+Technician: It's take 1.
+
+540
+00:21:39,098 --> 00:21:42,134
+Black: Take 1, self "Action."
+
+541
+00:21:42,134 --> 00:21:44,737
+Oh-ho-ho, oh my!
+
+542
+00:21:44,737 --> 00:21:50,176
+A fresh face rises from below.
+
+543
+00:21:50,176 --> 00:21:52,044
+Oh my!
+
+544
+00:21:52,044 --> 00:21:56,182
+A fresh face rises from below.
+
+545
+00:21:56,182 --> 00:21:57,817
+Oh my!
+
+546
+00:21:57,817 --> 00:22:00,119
+A fresh face rises from below.
+
+547
+00:22:00,119 --> 00:22:01,287
+Schafer: I like that.
+
+548
+00:22:01,287 --> 00:22:04,423
+Black: Wait, let me be more of
+a cult guy.
+
+549
+00:22:04,423 --> 00:22:06,525
+Oh my!
+
+550
+00:22:06,525 --> 00:22:08,460
+Oh my...
+
+551
+00:22:08,460 --> 00:22:10,863
+Oh my goodness.
+
+552
+00:22:10,863 --> 00:22:13,699
+A fresh face rises from below.
+
+553
+00:22:13,699 --> 00:22:14,834
+Hello.
+
+554
+00:22:14,834 --> 00:22:17,136
+Before you ask,
+let me answer.
+
+555
+00:22:17,136 --> 00:22:20,272
+Yes, you may live here
+in Meriloft forever.
+
+556
+00:22:20,272 --> 00:22:21,674
+Brown: That's perfect.
+
+557
+00:22:21,674 --> 00:22:23,242
+Schafer: I love that gentle version
+you just did.
+
+558
+00:22:23,242 --> 00:22:24,510
+Brown: Love it.
+Schafer: That's awesome.
+
+559
+00:22:24,510 --> 00:22:26,679
+Black: Before you ask,
+let me answer.
+
+560
+00:22:26,679 --> 00:22:30,683
+Yes...you may live here
+in Meriloft forever.
+
+561
+00:22:30,683 --> 00:22:32,218
+Schafer: Yaaay, I love that one.
+
+562
+00:22:32,218 --> 00:22:33,819
+Black: Oh, now we're gettin'
+somewheres.
+
+563
+00:22:33,819 --> 00:22:35,554
+Schafer: Yeah, it was really fun
+to watch Jack come in there
+
+564
+00:22:35,554 --> 00:22:37,122
+and just start with one thing
+and he does it
+
+565
+00:22:37,122 --> 00:22:38,857
+over and over again
+and he kinda hones in
+
+566
+00:22:38,857 --> 00:22:40,392
+on the character.
+
+567
+00:22:40,392 --> 00:22:41,860
+And we're not directing him,
+
+568
+00:22:41,860 --> 00:22:43,495
+but we're directing him
+by not directing him
+
+569
+00:22:43,495 --> 00:22:45,664
+in that he knows that
+if we hear something
+
+570
+00:22:45,664 --> 00:22:47,399
+we really, really like,
+we'll chime in and be like,
+
+571
+00:22:47,399 --> 00:22:49,368
+"That! That's perfect.
+That's amazing."
+
+572
+00:22:49,368 --> 00:22:51,537
+So if he's not hearing anything,
+he's just gonna keep working it
+
+573
+00:22:51,537 --> 00:22:54,273
+and working it until, you know,
+he gets something that he likes
+
+574
+00:22:54,273 --> 00:22:56,008
+and then we'll
+probably like it, too.
+
+575
+00:22:56,008 --> 00:22:59,545
+Black: What? No!
+What? No!
+
+576
+00:22:59,545 --> 00:23:02,314
+Uh...I mean...
+
+577
+00:23:02,314 --> 00:23:04,016
+Take it away.
+
+578
+00:23:04,016 --> 00:23:05,985
+I need it like I need a--
+
+579
+00:23:05,985 --> 00:23:08,487
+I need it like a blue jay
+needs a bowling ball.
+
+580
+00:23:08,487 --> 00:23:10,756
+Schafer: Maybe he--yeah, he really
+recomposes himself
+
+581
+00:23:10,756 --> 00:23:13,726
+and does--goes back to his
+total, like, smooth guy voice.
+
+582
+00:23:13,726 --> 00:23:15,761
+Black: Oh, okay, yeah.
+
+583
+00:23:15,761 --> 00:23:17,463
+Black: What? No!
+
+584
+00:23:17,463 --> 00:23:21,300
+I'm...uh...I mean...
+
+585
+00:23:21,300 --> 00:23:23,302
+take it away.
+
+586
+00:23:23,302 --> 00:23:26,205
+I need it like a blue jay
+needs a bowling ball.
+
+587
+00:23:26,205 --> 00:23:28,440
+Brown: Good.
+Schafer: That's awesome. Great.
+
+588
+00:23:28,440 --> 00:23:30,009
+Black: Am I--am I all finito?
+
+589
+00:23:30,009 --> 00:23:31,343
+Brown: Yeah.
+Schafer: That's it for now.
+
+590
+00:23:31,343 --> 00:23:33,646
+Black: That was so easy!
+Schafer: That's so easy!
+
+591
+00:23:36,282 --> 00:23:38,350
+Yeah, I do have the little one,
+and this one.
+
+592
+00:23:38,350 --> 00:23:40,486
+Black: I feel like I should do
+something dramatic so that--
+
+593
+00:23:40,486 --> 00:23:43,489
+Schafer: You wanna punch me?
+Black: Yeah.
+
+594
+00:23:43,489 --> 00:23:47,793
+That'll teach you to not give me
+a very big part in your game.
+
+595
+00:23:47,793 --> 00:23:49,762
+Schafer: That felt right.
+That felt good.
+
+596
+00:23:49,762 --> 00:23:51,864
+That was dramatic.
+
+597
+00:23:51,864 --> 00:23:53,766
+Crook: How was recording?
+Was that good?
+
+598
+00:23:53,766 --> 00:23:55,334
+Schafer: Oh, yes.
+This is, like, like, dailies.
+
+599
+00:23:55,334 --> 00:23:56,435
+Rice: Tell us all about it.
+
+600
+00:23:56,435 --> 00:23:58,003
+Schafer: Uh, recording was--was awesome.
+
+601
+00:23:59,872 --> 00:24:01,674
+Yeah, Marek was awesome.
+He does this kinda creepy thing.
+
+602
+00:24:01,674 --> 00:24:03,342
+Kipnis: Who is he?
+Rice: Who is he?
+
+603
+00:24:03,342 --> 00:24:05,577
+Schafer: He's...he's someone
+who does a lot of game--
+
+604
+00:24:05,577 --> 00:24:07,546
+no, a lot of game work,
+but, um--
+
+605
+00:24:07,546 --> 00:24:09,048
+Kipnis: Was it Lee?
+Schafer: I didn't recognize his name.
+
+606
+00:24:09,048 --> 00:24:10,182
+It was Lee Petty.
+
+607
+00:24:11,684 --> 00:24:13,285
+No, he did it
+different than Lee.
+
+608
+00:24:13,285 --> 00:24:15,521
+Like, Lee was kinda like,
+"Yeah, you, gah..."
+
+609
+00:24:15,521 --> 00:24:17,222
+That sounds like Lee.
+Rice: Yeah.
+
+610
+00:24:17,222 --> 00:24:19,558
+Schafer: He was more like,
+"Come here further--"
+
+611
+00:24:19,558 --> 00:24:21,794
+He was--he did it
+a little creepier.
+
+612
+00:24:21,794 --> 00:24:25,564
+"While you've been traveling
+and plating ice cream..."
+
+613
+00:24:25,564 --> 00:24:27,800
+Rice: Oh, that's awesome.
+Schafer: "...and playing with trains--"
+
+614
+00:24:27,800 --> 00:24:30,035
+And, uh, Richard Horvitz,
+who did Raz,
+
+615
+00:24:30,035 --> 00:24:32,404
+did, um, a couple of characters.
+
+616
+00:24:32,404 --> 00:24:33,706
+And he did the Space Weaver.
+
+617
+00:24:33,706 --> 00:24:35,374
+Not as good, of course,
+as Dave's,
+
+618
+00:24:35,374 --> 00:24:37,776
+but it is Raz.
+
+619
+00:24:40,879 --> 00:24:42,414
+None of the cut scenes
+have been animated
+
+620
+00:24:42,414 --> 00:24:44,516
+because we just got
+the professional VO in,
+
+621
+00:24:44,516 --> 00:24:45,684
+so you'll hear
+the professional VO,
+
+622
+00:24:45,684 --> 00:24:46,885
+but we haven't animated to it,
+
+623
+00:24:46,885 --> 00:24:48,554
+so it's a lot of, like,
+animatics,
+
+624
+00:24:48,554 --> 00:24:50,022
+like, sliding around,
+which I'm sure
+
+625
+00:24:50,022 --> 00:24:51,824
+you've seen before
+in games, maybe.
+
+626
+00:24:51,824 --> 00:24:54,259
+Rice: You gotta wait till you have
+the voice to animate to it.
+
+627
+00:24:54,259 --> 00:24:55,661
+-Ah, okay, right.
+Schafer: So some of the--
+
+628
+00:24:55,661 --> 00:24:57,196
+some of the background art
+is final
+
+629
+00:24:57,196 --> 00:24:59,798
+and some of the in-game
+animation is more final,
+
+630
+00:24:59,798 --> 00:25:02,601
+but, uh, the cut scenes
+definitely get super janky.
+
+631
+00:25:02,601 --> 00:25:06,839
+Crook: We've got all the pro VO,
+and so...
+
+632
+00:25:06,839 --> 00:25:11,610
+we just have too much work to do
+for the animators that we have.
+
+633
+00:25:11,610 --> 00:25:14,446
+I mean, we used to have
+a much bigger animation team,
+
+634
+00:25:14,446 --> 00:25:17,016
+uh, which was--
+it was probably a little more
+
+635
+00:25:17,016 --> 00:25:19,084
+than double, maybe,
+than what we have right now,
+
+636
+00:25:19,084 --> 00:25:21,086
+when we were on "Brütal Legend."
+
+637
+00:25:21,086 --> 00:25:23,422
+Um, and, you know,
+people have left
+
+638
+00:25:23,422 --> 00:25:28,027
+and we've just never
+replaced anybody, so...um...
+
+639
+00:25:29,094 --> 00:25:30,729
+So, yeah.
+
+640
+00:25:30,729 --> 00:25:34,400
+So, yeah, so we had to hire
+an outside animation team
+
+641
+00:25:34,400 --> 00:25:36,402
+or a company.
+
+642
+00:25:36,402 --> 00:25:38,137
+Schafer: We have so much
+animation to do,
+
+643
+00:25:38,137 --> 00:25:39,772
+we have to use outsourcers,
+which we've never done.
+
+644
+00:25:39,772 --> 00:25:41,840
+I've never done outsourced
+animation before
+
+645
+00:25:41,840 --> 00:25:44,243
+'cause we've always tested it
+and it's always looked terrible.
+
+646
+00:25:44,243 --> 00:25:47,179
+But this group looks good,
+and the test we did looks good,
+
+647
+00:25:47,179 --> 00:25:50,282
+and so hopefully they'll
+just do some awesome stuff
+
+648
+00:25:50,282 --> 00:25:53,585
+that'll help us get
+the game done on time.
+
+649
+00:25:53,585 --> 00:25:55,554
+Is that it?
+Rice: Yep, I think so.
+
+650
+00:25:55,554 --> 00:25:57,456
+Schafer: Get it all out.
+Let's outsource the rest of it
+
+651
+00:25:57,456 --> 00:25:59,124
+and take it--
+call it a day.
+
+652
+00:25:59,124 --> 00:26:00,526
+Petty: Pleasure cruise.
+Rice: Perfect.
+
+653
+00:26:00,526 --> 00:26:01,593
+Schafer: Woo!
+
+654
+00:26:05,764 --> 00:26:07,466
+Gardner: Oh, see, he's typing.
+
+655
+00:26:07,466 --> 00:26:11,036
+See, that's someone
+typing in Portland.
+
+656
+00:26:11,036 --> 00:26:13,172
+What's gonna happen?
+
+657
+00:26:14,773 --> 00:26:16,675
+Look! See?
+
+658
+00:26:16,675 --> 00:26:18,143
+Aww.
+
+659
+00:26:18,143 --> 00:26:19,545
+See?
+
+660
+00:26:19,545 --> 00:26:22,314
+He, like--I think he
+even is a backer, too.
+
+661
+00:26:22,314 --> 00:26:24,483
+Yeah, see, he is a backer.
+
+662
+00:26:24,483 --> 00:26:25,551
+Ha!
+
+663
+00:26:25,551 --> 00:26:27,052
+This is Alex.
+
+664
+00:26:27,052 --> 00:26:28,387
+He's the guy
+that's supervising
+
+665
+00:26:28,387 --> 00:26:30,289
+all of the stuff
+over at Super Genius.
+
+666
+00:26:30,289 --> 00:26:32,357
+And they're the people that
+we're doing the contracting with
+
+667
+00:26:32,357 --> 00:26:33,492
+up in Portland.
+
+668
+00:26:35,627 --> 00:26:37,529
+So you can see
+in this animation,
+
+669
+00:26:37,529 --> 00:26:40,098
+it's really--
+this-this hand gesture
+
+670
+00:26:40,098 --> 00:26:42,100
+of the wolf, the attention
+that somebody spends,
+
+671
+00:26:42,100 --> 00:26:44,403
+it really feels
+like there's more
+
+672
+00:26:44,403 --> 00:26:46,071
+than just two drawings there.
+
+673
+00:26:46,071 --> 00:26:48,240
+And it's that sort
+to attention to detail
+
+674
+00:26:48,240 --> 00:26:50,142
+that we just don't
+have the time.
+
+675
+00:26:50,142 --> 00:26:52,344
+What we get with Super Genius
+is that we get to add
+
+676
+00:26:52,344 --> 00:26:53,812
+all that character
+to the animations
+
+677
+00:26:53,812 --> 00:26:55,647
+and we get to spend
+all that time saying,
+
+678
+00:26:55,647 --> 00:26:59,017
+"Hey, this'll just be hilarious
+if we make him, like, you know,
+
+679
+00:26:59,017 --> 00:27:02,554
+skip down the, you know,
+the hill instead of just copy
+
+680
+00:27:02,554 --> 00:27:04,389
+the walk animation
+and paste it there."
+
+681
+00:27:04,389 --> 00:27:06,725
+And we get the--
+we get to add all that stuff,
+
+682
+00:27:06,725 --> 00:27:09,261
+but instead of
+right now being like,
+
+683
+00:27:09,261 --> 00:27:11,196
+"What are we gonna do?
+We're screwed!
+
+684
+00:27:11,196 --> 00:27:13,398
+Like, there so much work to do!"
+And then you ship a game
+
+685
+00:27:13,398 --> 00:27:15,200
+and it's like you just look
+at it and you're like,
+
+686
+00:27:15,200 --> 00:27:16,835
+wow, we didn't polish that,
+we didn't polish that,
+
+687
+00:27:16,835 --> 00:27:18,704
+you didn't polish this,
+you didn't polish that.
+
+688
+00:27:18,704 --> 00:27:20,506
+Like, there's always,
+like--there's--
+
+689
+00:27:20,506 --> 00:27:23,242
+you ship a game and there's--
+all you see is, as an animator,
+
+690
+00:27:23,242 --> 00:27:25,077
+is the stuff
+you didn't polish.
+
+691
+00:27:25,077 --> 00:27:26,278
+And, uh...
+
+692
+00:27:28,080 --> 00:27:30,315
+You know, with Super Genius,
+it's like hopefully what
+
+693
+00:27:30,315 --> 00:27:32,251
+we're gonna see is a game
+where it's like
+
+694
+00:27:32,251 --> 00:27:35,254
+that game where you're al--that
+I've always wanted to work on,
+
+695
+00:27:35,254 --> 00:27:36,655
+where everything's polished,
+
+696
+00:27:36,655 --> 00:27:37,990
+where you look at it
+and you're like,
+
+697
+00:27:37,990 --> 00:27:39,591
+the whole thing is--is all--
+
+698
+00:27:39,591 --> 00:27:41,660
+is done all the way.
+
+699
+00:27:41,660 --> 00:27:42,861
+How about this?
+
+700
+00:27:42,861 --> 00:27:45,464
+Hey, Ray?
+
+701
+00:27:45,464 --> 00:27:47,366
+Will you--so--
+Crook: I'm workin'!
+
+702
+00:27:47,366 --> 00:27:48,734
+I'm workin';
+leave me alone.
+
+703
+00:27:48,734 --> 00:27:51,436
+Gardner: I know, I finally
+got you workin'.
+
+704
+00:27:51,436 --> 00:27:53,071
+I want you to see this, uh--
+
+705
+00:27:53,071 --> 00:27:55,274
+Crook: I turned this over to you
+so I could just work.
+
+706
+00:27:55,274 --> 00:27:57,075
+I'm just kidding,
+I'm just kidding.
+
+707
+00:27:57,075 --> 00:27:59,278
+Schafer: Oh, yeah.
+Our expert crack team
+
+708
+00:27:59,278 --> 00:28:02,147
+of judges
+are the animation department.
+
+709
+00:28:02,147 --> 00:28:04,583
+I mean, the animators,
+they're the ones who are--
+
+710
+00:28:04,583 --> 00:28:07,319
+Ray's the lead animator,
+so he's in charge of making sure
+
+711
+00:28:07,319 --> 00:28:09,821
+that everything animated
+on the project looks good,
+
+712
+00:28:09,821 --> 00:28:13,492
+including the outsourcing team,
+so we leave that up to him.
+
+713
+00:28:13,492 --> 00:28:15,794
+Crook: Once we got
+the--the pro VO,
+
+714
+00:28:15,794 --> 00:28:19,765
+it kinda changed
+the wolf a lot for me.
+
+715
+00:28:19,765 --> 00:28:24,436
+It's fine. I mean, I don't think
+Tim has seen this scene, so...
+
+716
+00:28:24,436 --> 00:28:26,204
+I hope he's--he's still okay
+with--
+
+717
+00:28:26,204 --> 00:28:29,174
+See, I hope he's still okay
+with that sort of, like...
+
+718
+00:28:29,174 --> 00:28:30,475
+Gardner: Oh, this?
+
+719
+00:28:30,475 --> 00:28:32,311
+Crook: The, like, poppy gestures,
+you know?
+
+720
+00:28:32,311 --> 00:28:35,747
+Where he, like, comes up
+and he's like, bum-bum, bump.
+
+721
+00:28:35,747 --> 00:28:38,784
+I mean, it's--
+it's probably okay.
+
+722
+00:28:38,784 --> 00:28:40,586
+-It's probably okay.
+Roberts: Yeah, it--
+
+723
+00:28:40,586 --> 00:28:43,655
+Until--until Tim sees it
+and says--yeah.
+
+724
+00:28:43,655 --> 00:28:47,159
+Gardner: If he was--like, if he just
+drew back slower--
+
+725
+00:28:47,159 --> 00:28:48,226
+Crook: Right.
+
+726
+00:28:48,226 --> 00:28:49,494
+Marek: Affirmative.
+Crook: "Affirmative."
+
+727
+00:28:49,494 --> 00:28:51,029
+Yeah, I think we should
+just slow it down.
+
+728
+00:28:51,029 --> 00:28:52,631
+I think he should be more like,
+"Affirmative."
+
+729
+00:28:52,631 --> 00:28:53,999
+Gardner: All right, cool.
+Then I'm gonna give 'em
+
+730
+00:28:53,999 --> 00:28:55,267
+the note to watch
+out for that.
+
+731
+00:28:55,267 --> 00:28:56,768
+Crook: And just--just make it
+less poppy.
+
+732
+00:28:56,768 --> 00:29:01,640
+The--but he delivers it
+pretty quickly, so...
+
+733
+00:29:01,640 --> 00:29:03,875
+We'd better let Tim choose.
+
+734
+00:29:03,875 --> 00:29:06,345
+And then-then-then-then
+Elliott can win.
+
+735
+00:29:07,579 --> 00:29:09,081
+Roberts: Fuckin' Lee.
+
+736
+00:29:12,250 --> 00:29:15,120
+Schafer: All right.
+Rice: Cool.
+
+737
+00:29:15,120 --> 00:29:17,556
+Schafer: Don't show this stuff.
+Rice: I won't.
+
+738
+00:29:17,556 --> 00:29:19,524
+Just, it's pretty.
+That's all you need to know.
+
+739
+00:29:19,524 --> 00:29:21,860
+Hamilon: Yeah, that this part
+of the game is pretty?
+
+740
+00:29:21,860 --> 00:29:26,465
+Um...but yeah,
+this--I mean...
+
+741
+00:29:26,465 --> 00:29:29,501
+Yeah, this is cool.
+This game looks good.
+
+742
+00:29:29,501 --> 00:29:31,269
+I wanna play more.
+
+743
+00:29:31,269 --> 00:29:33,405
+When you--are you guys gonna
+have a demo of this game?
+
+744
+00:29:33,405 --> 00:29:36,508
+Greg: Also meeting today
+about a PAX demo, um,
+
+745
+00:29:36,508 --> 00:29:38,777
+and what the scope
+of that will look like.
+
+746
+00:29:38,777 --> 00:29:42,414
+Start figuring out
+a plan for that.
+
+747
+00:29:42,414 --> 00:29:43,815
+Schafer: Okay.
+Rice: Should be fun.
+
+748
+00:29:43,815 --> 00:29:45,717
+Kipnis: I would...I would vote against
+
+749
+00:29:45,717 --> 00:29:48,620
+a public demo for now.
+
+750
+00:29:48,620 --> 00:29:50,656
+Schafer: What would we have at our booth,
+then, if we...just do a trailer?
+
+751
+00:29:50,656 --> 00:29:52,658
+Rice: Nothing.
+Schafer: What do you mean, nothing?
+
+752
+00:29:52,658 --> 00:29:55,027
+Rice: It'd mean we have no games
+at our booth right now.
+
+753
+00:29:55,027 --> 00:29:56,495
+Schafer: I mean, depends how we show it.
+
+754
+00:29:56,495 --> 00:29:58,397
+Like, showing adventure games
+on the--on the--
+
+755
+00:29:58,397 --> 00:30:00,432
+like, at E3 and stuff
+was always a nightmare,
+
+756
+00:30:00,432 --> 00:30:03,068
+'cause, like, you can't get--
+it's not like jumping into a mech
+
+757
+00:30:03,068 --> 00:30:05,070
+and shooting a bunch of stuff,
+or even playing "Brütal Legend."
+
+758
+00:30:05,070 --> 00:30:08,073
+Like, so, you can't--
+it's hard to really kind of--
+
+759
+00:30:08,073 --> 00:30:10,208
+I mean, now that we have--
+that headphones are more common
+
+760
+00:30:10,208 --> 00:30:12,044
+and stuff, I think it's a little
+easier to demo them.
+
+761
+00:30:12,044 --> 00:30:14,046
+But you're still, like--
+sitting there for a while
+
+762
+00:30:14,046 --> 00:30:16,348
+being stuck on a puzzle is not
+something that's fun to do,
+
+763
+00:30:16,348 --> 00:30:19,284
+and people are lining up
+behind you to see the game.
+
+764
+00:30:19,284 --> 00:30:20,886
+Petty: The big problem with this
+whole thing, potentially,
+
+765
+00:30:20,886 --> 00:30:22,254
+is that we're gonna disrupt
+all this--
+
+766
+00:30:22,254 --> 00:30:23,555
+we just spent
+all this effort
+
+767
+00:30:23,555 --> 00:30:25,223
+getting everything
+into a flow
+
+768
+00:30:25,223 --> 00:30:27,492
+that's going to unblock
+our dependencies.
+
+769
+00:30:27,492 --> 00:30:29,394
+And so even doing
+any of this work
+
+770
+00:30:29,394 --> 00:30:31,196
+is probably going to
+disrupt that somewhat.
+
+771
+00:30:31,196 --> 00:30:33,365
+It's hard to say how much
+until we look at that.
+
+772
+00:30:33,365 --> 00:30:36,802
+But, um, polishing the spaceship
+to beta right now,
+
+773
+00:30:36,802 --> 00:30:38,470
+uh, I think would be
+the absolute worst thing,
+
+774
+00:30:38,470 --> 00:30:40,072
+because we have so much
+areas of the game
+
+775
+00:30:40,072 --> 00:30:41,707
+that have issues we've
+gotta work through.
+
+776
+00:30:41,707 --> 00:30:43,675
+And people like myself
+and Bagel,
+
+777
+00:30:43,675 --> 00:30:45,510
+some of the animators,
+need to stay out ahead
+
+778
+00:30:45,510 --> 00:30:47,813
+or we're gonna get
+exactly where we were,
+
+779
+00:30:47,813 --> 00:30:49,881
+where everything's blocked up,
+and part of that happened
+
+780
+00:30:49,881 --> 00:30:51,783
+because of the last
+trailer we did.
+
+781
+00:30:51,783 --> 00:30:54,353
+I mean, obviously,
+there's an undeniable benefit.
+
+782
+00:30:54,353 --> 00:30:56,555
+It's hard to quantify
+the benefit, is always the issue
+
+783
+00:30:56,555 --> 00:30:58,223
+with making these decisions,
+right?
+
+784
+00:30:58,223 --> 00:31:00,559
+'Cause, like, well,
+people get excited
+
+785
+00:31:00,559 --> 00:31:03,562
+and that generates goodwill,
+but...
+
+786
+00:31:03,562 --> 00:31:05,530
+Schafer: Like, the two things
+that I want spoil each other.
+
+787
+00:31:05,530 --> 00:31:07,432
+Like, showing really
+meaty gameplay
+
+788
+00:31:07,432 --> 00:31:09,101
+and not spoiling things are,
+like,
+
+789
+00:31:09,101 --> 00:31:12,003
+kinda mutually exclusive.
+
+790
+00:31:12,003 --> 00:31:14,473
+Rice: All right.
+This is all good stuff.
+
+791
+00:31:14,473 --> 00:31:16,041
+Schafer: Except you're doing the smile.
+
+792
+00:31:16,041 --> 00:31:17,375
+You're doing
+the "I'm really unhappy" smile.
+
+793
+00:31:17,375 --> 00:31:18,710
+Rice: No, I'm not! I, like--
+
+794
+00:31:18,710 --> 00:31:20,445
+Schafer: "Yeah, life's shit
+like I thought.
+
+795
+00:31:20,445 --> 00:31:23,014
+Yep, that's exactly what
+I thought life was like."
+
+796
+00:31:23,014 --> 00:31:24,716
+Rice: No, I mean, I've always
+been about trying to, like,
+
+797
+00:31:24,716 --> 00:31:27,252
+figure out how we can do it
+without disrupting.
+
+798
+00:31:27,252 --> 00:31:29,387
+But, uh, now we just have
+to figure out what that means
+
+799
+00:31:29,387 --> 00:31:31,556
+for our PAX plans, so...
+
+800
+00:31:31,556 --> 00:31:33,558
+Schafer: I mean, in the end it's not even
+about it being disrupting.
+
+801
+00:31:33,558 --> 00:31:35,594
+I really don't care about
+disrupting Lee at all.
+
+802
+00:31:35,594 --> 00:31:37,129
+I mean, it's really--
+that does--no.
+
+803
+00:31:37,129 --> 00:31:38,330
+No, I mean,
+it's not even about that.
+
+804
+00:31:38,330 --> 00:31:39,731
+It's like,
+if we really felt like,
+
+805
+00:31:39,731 --> 00:31:41,433
+oh man,
+it was such a juicy reward
+
+806
+00:31:41,433 --> 00:31:43,135
+at the end of it, like,
+if it was really, like,
+
+807
+00:31:43,135 --> 00:31:45,470
+that demo would really
+turn people, like,
+
+808
+00:31:45,470 --> 00:31:47,472
+millions of people
+into fans of the game,
+
+809
+00:31:47,472 --> 00:31:49,141
+like, I feel like
+it would be great.
+
+810
+00:31:49,141 --> 00:31:51,309
+But I feel like showing
+the spaceship to the press
+
+811
+00:31:51,309 --> 00:31:53,145
+would not necessarily convert
+
+812
+00:31:53,145 --> 00:31:56,114
+a whole bunch of people,
+you know, um...
+
+813
+00:31:56,114 --> 00:31:58,583
+Petty: Well, that's what I meant
+by disruptive: Is it worth it?
+
+814
+00:31:58,583 --> 00:32:01,052
+Because like you said
+in the earlier episodes,
+
+815
+00:32:01,052 --> 00:32:02,854
+no one cares how well
+a game is produced.
+
+816
+00:32:02,854 --> 00:32:04,756
+I don't think anyone cares
+how well a game is promoted
+
+817
+00:32:04,756 --> 00:32:06,691
+if it comes out
+and it's not good.
+
+818
+00:32:06,691 --> 00:32:09,027
+Schafer: The one--at least the one
+discipline here
+
+819
+00:32:09,027 --> 00:32:10,829
+that we can agree no one
+cares about is production.
+
+820
+00:32:10,829 --> 00:32:13,098
+Crook: You said both those things.
+Schafer: I don't remember saying that.
+
+821
+00:32:13,098 --> 00:32:14,533
+Petty: But, I mean,
+it's the same thing.
+
+822
+00:32:14,533 --> 00:32:16,535
+Like, good production/promotion,
+if it's not--
+
+823
+00:32:16,535 --> 00:32:19,671
+if we--you know, I want it
+to be as good as it can be.
+
+824
+00:32:19,671 --> 00:32:22,007
+Rice: It's just a hard--like,
+it became a lot more important
+
+825
+00:32:22,007 --> 00:32:23,475
+with all the press shit
+that went down
+
+826
+00:32:23,475 --> 00:32:25,043
+'cause, like,
+now what does it look like,
+
+827
+00:32:25,043 --> 00:32:27,012
+oh, suddenly we're taken
+off the floor map of PAX
+
+828
+00:32:27,012 --> 00:32:29,481
+and we pulled out of PAX?
+Like, that looks bad.
+
+829
+00:32:29,481 --> 00:32:32,050
+Schafer: That's 'cause I thought someone
+was gonna throw acid in my face.
+
+830
+00:32:32,050 --> 00:32:33,585
+You can say that:
+"Tim was worried about acid."
+
+831
+00:32:33,585 --> 00:32:34,820
+Rice: But, yeah.
+
+832
+00:32:34,820 --> 00:32:36,321
+Petty: Okay, but then
+what if we showed
+
+833
+00:32:36,321 --> 00:32:38,256
+a press demo that
+wasn't totally polished?
+
+834
+00:32:38,256 --> 00:32:39,324
+Which is worse?
+
+835
+00:32:39,324 --> 00:32:41,026
+Giving 'em ammo to hate on?
+
+836
+00:32:41,026 --> 00:32:42,360
+I think that's worse.
+
+837
+00:32:42,360 --> 00:32:44,095
+Schafer: Honestly, I--if I could
+do anything right now,
+
+838
+00:32:44,095 --> 00:32:46,198
+it would just be
+sit out this PAX.
+
+839
+00:32:46,198 --> 00:32:48,033
+Rice: Yeah, we--
+Schafer: I feel like we just don't--
+
+840
+00:32:48,033 --> 00:32:49,734
+Rice: I think we might have to
+if we don't do a demo.
+
+841
+00:32:49,734 --> 00:32:51,603
+Schafer: I don't know if--
+can-can we, now?
+
+842
+00:32:51,603 --> 00:32:53,605
+Rice: We'd probably have
+to pay for some stuff.
+
+843
+00:32:53,605 --> 00:32:56,341
+Petty: We could have
+a kickass merch booth.
+
+844
+00:32:56,341 --> 00:32:58,610
+Rice: Uh, yeah...we could do that.
+
+845
+00:32:58,840 --> 00:33:26,180
+[Music]
+
+846
+00:33:26,538 --> 00:33:28,506
+Bagel: Uh, I think it's going good.
+
+847
+00:33:28,506 --> 00:33:30,308
+It's pretty rad.
+
+848
+00:33:30,308 --> 00:33:34,246
+I think we've all, like,
+gotten a lot better at art,
+
+849
+00:33:34,246 --> 00:33:36,248
+you know, over the last year.
+
+850
+00:33:36,248 --> 00:33:39,284
+So lookin' at all the old stuff
+is, like, kinda hard,
+
+851
+00:33:39,284 --> 00:33:42,287
+but we all see stuff, I think,
+that we know we wanna change.
+
+852
+00:33:42,287 --> 00:33:45,590
+And, um, it's getting to
+an exciting time right now.
+
+853
+00:33:45,590 --> 00:33:48,860
+Uh, it's polish phase,
+you know, just figuring out
+
+854
+00:33:48,860 --> 00:33:51,429
+what we're gonna polish
+and just lookin' back
+
+855
+00:33:51,429 --> 00:33:56,101
+at all of our old stuff
+and bringing it all together
+
+856
+00:33:56,101 --> 00:33:59,804
+into an awesome game,
+you know?
+
+857
+00:33:59,804 --> 00:34:01,473
+But, yeah.
+
+858
+00:34:01,473 --> 00:34:03,008
+I feel like it's goin'
+pretty good.
+
+859
+00:34:03,008 --> 00:34:04,876
+Pretty exciting,
+but it is also super scary
+
+860
+00:34:04,876 --> 00:34:08,780
+that we only have, like,
+what, four months left.
+
+861
+00:34:08,780 --> 00:34:10,815
+Right?
+But, yeah, I'm gonna go--
+
+862
+00:34:10,815 --> 00:34:15,152
+I'm goin' out to San Francisco
+on the 16th of September,
+
+863
+00:34:15,152 --> 00:34:17,454
+and, um, I'm gonna be out there
+for two weeks,
+
+864
+00:34:17,455 --> 00:34:20,558
+and we are gonna, like,
+talk about polish,
+
+865
+00:34:20,558 --> 00:34:23,795
+figure out a plan,
+and then just start nailing it.
+
+866
+00:34:24,260 --> 00:34:41,040
+[Music]
+
+867
+00:34:41,612 --> 00:34:44,014
+Schafer: We've got some professional
+voice in the game now.
+
+868
+00:34:44,014 --> 00:34:45,616
+You can hear--uh,
+and it's awesome,
+
+869
+00:34:45,617 --> 00:34:46,717
+'cause they're good.
+
+870
+00:34:46,717 --> 00:34:48,319
+Black: Oh, my!
+
+871
+00:34:48,320 --> 00:34:50,588
+A fresh face rises from below.
+
+872
+00:34:50,588 --> 00:34:52,590
+Before you ask,
+let me answer.
+
+873
+00:34:52,590 --> 00:34:55,793
+Yes, you may live here
+in Meriloft forever.
+
+874
+00:34:55,793 --> 00:34:59,030
+Rice: Yeah, it's one of those
+things that, uh...
+
+875
+00:34:59,030 --> 00:35:02,534
+changes, uh, the production
+values of the game
+
+876
+00:35:02,534 --> 00:35:04,235
+in a very short amount of time.
+
+877
+00:35:04,235 --> 00:35:06,104
+Like, 'cause it
+kind of all comes
+
+878
+00:35:06,104 --> 00:35:07,572
+in at once,
+in one big chunk,
+
+879
+00:35:07,572 --> 00:35:10,075
+and suddenly you
+go from having
+
+880
+00:35:10,075 --> 00:35:13,244
+very non-professional acting
+to very professional acting.
+
+881
+00:35:13,244 --> 00:35:15,714
+And it--and it just, uh...
+
+882
+00:35:15,714 --> 00:35:19,050
+I think it just reminds
+you it's real.
+
+883
+00:35:19,050 --> 00:35:20,785
+Schafer: A huge difference.
+
+884
+00:35:20,785 --> 00:35:22,620
+It's--it's huge.
+I mean, we've been looking
+
+885
+00:35:22,620 --> 00:35:24,522
+at these temporary cut scenes
+for so long where
+
+886
+00:35:24,522 --> 00:35:26,558
+the characters are all moving--
+'cause they don't wanna put
+
+887
+00:35:26,558 --> 00:35:28,560
+a lot of work into it
+until they have the final VO.
+
+888
+00:35:28,560 --> 00:35:30,795
+Now that we have the final VO,
+they can just go to town.
+
+889
+00:35:30,795 --> 00:35:32,731
+And so we're gonna see, um,
+
+890
+00:35:32,731 --> 00:35:34,499
+a whole different
+game experience
+
+891
+00:35:34,499 --> 00:35:37,135
+where it just feels
+so much more polished.
+
+892
+00:35:37,135 --> 00:35:41,172
+Rice: And in a game that's so much
+about character and story, um,
+
+893
+00:35:41,172 --> 00:35:43,274
+like, it's gonna be
+really important
+
+894
+00:35:43,274 --> 00:35:45,777
+that that is sold correctly
+
+895
+00:35:45,777 --> 00:35:47,679
+and those actors
+are selling it right.
+
+896
+00:35:47,679 --> 00:35:50,015
+So, you know,
+Tim's an awesome writer,
+
+897
+00:35:50,015 --> 00:35:52,250
+and now to have, like,
+people who are able
+
+898
+00:35:52,250 --> 00:35:55,320
+to take what he wrote
+and, like, even make it better
+
+899
+00:35:55,320 --> 00:35:58,423
+is pretty amazing.
+
+900
+00:35:58,423 --> 00:36:01,826
+Schafer: And "Act 1" of our game is now
+in alpha, which is exciting.
+
+901
+00:36:01,826 --> 00:36:03,128
+[Offscreen] Woo!
+And--woo!
+
+902
+00:36:03,128 --> 00:36:04,829
+But it's lookin' good.
+
+903
+00:36:04,829 --> 00:36:06,464
+Rice: Cheers.
+
+904
+00:36:10,480 --> 00:36:22,520
+[Music]
+
+905
+00:36:23,014 --> 00:36:26,384
+Schafer: It's gonna be fun
+when we can actually, um,
+
+906
+00:36:26,384 --> 00:36:29,254
+celebrate, you know, shipping.
+
+907
+00:36:29,254 --> 00:36:31,122
+And--but it'll be kind of sad,
+
+908
+00:36:31,122 --> 00:36:34,092
+'cause it's been kind of fun
+to do all this and...
+
+909
+00:36:34,280 --> 00:36:40,060
+[Music]
+
+910
+00:36:40,265 --> 00:36:43,101
+I'm not gonna celebrate
+till the whole thing ships.
+
+911
+00:36:43,101 --> 00:36:45,236
+I suppose we'll have
+some sort of celebration
+
+912
+00:36:45,236 --> 00:36:47,005
+on shipping "Act 1."
+
+913
+00:36:47,005 --> 00:36:48,707
+Then I'm like, don't talk to me
+until it's done.
+
+914
+00:36:48,707 --> 00:36:50,275
+April/May.
+April/M--
+
+915
+00:36:50,275 --> 00:36:53,344
+Definitely between
+April and November.
+
+916
+00:36:53,344 --> 00:36:55,280
+Depends on how many
+the first act sells.
+
+917
+00:36:55,280 --> 00:36:58,583
+If it sells a lot, we'll just go
+all the way into 2016.
+
+918
+00:37:00,618 --> 00:37:02,187
+Just kidding.
+
+919
+00:37:03,700 --> 00:37:43,280
+[Music]
+
+920
+00:37:44,629 --> 00:37:46,297
+Kaufman: Okay, that's all we can do.
+
+921
+00:37:46,297 --> 00:37:48,099
+We're pulling out.
+
+922
+00:37:48,099 --> 00:37:52,203
+Don't make the same mistake
+you did last time, boy.
+
+923
+00:37:52,203 --> 00:37:53,738
+I-I don't understand.
+
+924
+00:37:53,738 --> 00:37:56,341
+What is it about this creature?
+
+925
+00:37:58,309 --> 00:38:00,512
+Brown: Excellent.
+
+926
+00:38:00,512 --> 00:38:02,881
+Schafer: Let's throw in for the fans--
+edit together the lines
+
+927
+00:38:02,881 --> 00:38:04,282
+to make a big dirty, like,
+
+928
+00:38:04,282 --> 00:38:06,117
+"Spock and Kirk having sex" video.
+
+929
+00:38:06,117 --> 00:38:10,054
+I like to put stuff
+in there for them.
+
+930
+00:38:10,054 --> 00:38:11,990
+"Pull out now, boy."
+
+931
+00:38:13,825 --> 00:38:14,859
+Brown: I just...
+
+932
+00:38:17,061 --> 00:38:18,596
+Schafer: "Think about baseball."
+

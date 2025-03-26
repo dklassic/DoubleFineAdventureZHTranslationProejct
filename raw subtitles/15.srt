@@ -1,0 +1,4128 @@
+1
+00:00:25,347 --> 00:00:27,281
+Cameraman: How are we going to 
+continue making this documentary
+
+2
+00:00:27,281 --> 00:00:29,341
+without spoiling anything?
+
+3
+00:00:30,192 --> 00:00:31,249
+Schafer: I don't know.
+
+4
+00:00:31,249 --> 00:00:34,749
+People know now if they've, hopefully 
+they're not watching this episode
+
+5
+00:00:34,749 --> 00:00:36,089
+before they finish Act One.
+
+6
+00:00:37,403 --> 00:00:39,143
+You really shouldn't watch this episode.
+
+7
+00:00:41,100 --> 00:00:42,379
+Should we you shoot that now?
+
+8
+00:00:42,379 --> 00:00:43,248
+Hi. I'm Tim Schafer.
+
+9
+00:00:43,248 --> 00:00:46,808
+Please don't watch this episode until 
+you finish Act One of Broken Age.
+
+10
+00:00:50,451 --> 00:00:51,668
+Offscreen Voice: Backers that play it,
+
+11
+00:00:51,668 --> 00:00:53,663
+or are you more nervous 
+about the money,
+
+12
+00:00:53,663 --> 00:00:55,380
+like how much it's going to sell?
+
+13
+00:00:55,380 --> 00:00:57,900
+Schafer: No. I mean, I feel 
+like it's tense about the money
+
+14
+00:00:57,900 --> 00:01:02,323
+because we want it to do well, 
+because I have big plans for Act Two.
+
+15
+00:01:02,323 --> 00:01:04,280
+And if we don't do well, 
+Justin will be like,
+
+16
+00:01:04,280 --> 00:01:07,457
+look, look, we can't, 
+we got to, you know.
+
+17
+00:01:07,457 --> 00:01:11,916
+Because basically, just spending our 
+own money from here on out.
+
+18
+00:01:11,916 --> 00:01:14,499
+And probably like a few months back.
+
+19
+00:01:14,499 --> 00:01:17,012
+So if no one buys the game tomorrow,
+
+20
+00:01:17,012 --> 00:01:20,212
+maybe Act Two will be a 
+much smaller than Act One.
+
+21
+00:01:22,322 --> 00:01:25,409
+I hope one person buys it.
+
+22
+00:01:25,409 --> 00:01:27,800
+If no one buys it, it's 
+going to be really awkward.
+
+23
+00:01:27,800 --> 00:01:29,847
+But I guess that's a good clear, 
+I can say that to the backers.
+
+24
+00:01:29,847 --> 00:01:33,282
+Look, nobody bought it, 
+except for you guys.
+
+25
+00:01:33,282 --> 00:01:34,722
+I'm sorry.
+
+26
+00:01:36,210 --> 00:01:38,941
+But it serves me right for 
+investing our own money in a game.
+
+27
+00:01:38,941 --> 00:01:40,801
+I should have just 
+played with their money.
+
+28
+00:01:42,664 --> 00:02:08,446
+[Music]
+
+29
+00:02:08,446 --> 00:02:10,928
+Schafer: We are 
+launching Red's tomorrow.
+
+30
+00:02:10,928 --> 00:02:14,182
+Crazy times.
+
+31
+00:02:14,182 --> 00:02:16,802
+All of our backers.
+
+32
+00:02:18,382 --> 00:02:21,044
+Thank you to our team 
+for working so hard.
+
+33
+00:02:21,044 --> 00:02:26,039
+We are going to the backers tomorrow 
+and the rest of the general population,
+
+34
+00:02:26,039 --> 00:02:30,000
+future backers, if you will on the 28th.
+
+35
+00:02:30,000 --> 00:02:31,751
+Rice: The game is up.
+
+36
+00:02:31,751 --> 00:02:33,002
+Preorders are up.
+
+37
+00:02:33,002 --> 00:02:35,156
+Schafer: Whoohoo! Rice: Yeah.
+
+38
+00:02:35,156 --> 00:02:36,873
+Schafer: All right, next game.
+
+39
+00:02:36,873 --> 00:02:38,773
+Rice: I will send the press release.
+
+40
+00:02:43,696 --> 00:02:49,699
+One of the reviewers 
+said he didn't go to bed.
+
+41
+00:02:49,699 --> 00:02:51,047
+Finished the game last night.
+
+42
+00:02:51,047 --> 00:02:52,040
+Remo: Finished it last night?
+
+43
+00:02:52,040 --> 00:02:53,309
+Rice: Yeah. Remo: Wow.
+
+44
+00:02:53,309 --> 00:02:55,628
+Rice: Yeah, I sent the codes at like...
+
+45
+00:02:55,628 --> 00:02:57,237
+Remo: Did he say how long it took him?
+
+46
+00:02:57,237 --> 00:02:58,613
+Rice: 4:00 or 5:00 p.m. Remo: Oh, right.
+
+47
+00:02:58,613 --> 00:03:00,222
+Rice: So I mean, I guess there's time.
+
+48
+00:03:00,222 --> 00:03:02,469
+But yeah, he just didn't stop.
+
+49
+00:03:02,469 --> 00:03:03,309
+That's kind of awesome.
+
+50
+00:03:05,103 --> 00:03:05,947
+Schafer: Man, this is weird.
+
+51
+00:03:05,947 --> 00:03:07,187
+People are playing Broken Age.
+
+52
+00:03:11,270 --> 00:03:13,910
+Seven people watching 
+him and I'm one of them.
+
+53
+00:03:15,781 --> 00:03:17,465
+I don't want them to 
+know this is what I do.
+
+54
+00:03:17,465 --> 00:03:18,469
+I've never done this before.
+
+55
+00:03:18,469 --> 00:03:21,672
+We've never been able to do 
+this before and have live streams,
+
+56
+00:03:21,672 --> 00:03:23,692
+like after Grim Fandango.
+
+57
+00:03:26,467 --> 00:03:30,159
+Remo: People are already 
+posting screenshots.
+
+58
+00:03:30,159 --> 00:03:31,314
+Bailey: I'm still waiting.
+
+59
+00:03:31,314 --> 00:03:34,470
+I'm just curious who's going to 
+be the first one to like post a review.
+
+60
+00:03:34,470 --> 00:03:35,682
+Remo: Yeah, right.
+
+61
+00:03:35,682 --> 00:03:37,349
+Rice: Tim, did you hear that? 
+Schafer: What?
+
+62
+00:03:37,349 --> 00:03:44,191
+Rice: Digital Trends posted an article, 
+"Why We're Breaking the Broken Age Embargo."
+
+63
+00:03:44,191 --> 00:03:46,864
+And how they're going to review it.
+
+64
+00:03:46,864 --> 00:03:49,142
+Schafer: Well, what 
+embargo are they breaking?
+
+65
+00:03:49,142 --> 00:03:49,933
+Rice: The review embargo.
+
+66
+00:03:49,933 --> 00:03:52,123
+They're going to put a review up.
+
+67
+00:03:52,123 --> 00:03:53,525
+Schafer: They're just announcing 
+they're going to break it?
+
+68
+00:03:53,525 --> 00:03:55,761
+Rice: Yeah. 
+Schafer: Why?
+
+69
+00:03:55,761 --> 00:03:58,666
+Rice: Because they paid for 
+the game and they're a backer.
+
+70
+00:03:58,666 --> 00:04:02,784
+And they're getting it 
+because they paid for it.
+
+71
+00:04:02,784 --> 00:04:06,267
+Schafer: But we, but they're not, 
+they're in the Beta...
+
+72
+00:04:06,267 --> 00:04:08,488
+Rice: They haven't reviewed it yet, 
+but Digital Trends, I know.
+
+73
+00:04:08,488 --> 00:04:10,748
+They emailed me about this yesterday 
+and that's what I told them.
+
+74
+00:04:10,748 --> 00:04:12,292
+Remo: Technically no one signed anything
+
+75
+00:04:12,292 --> 00:04:14,453
+so there's nothing we can actually 
+do about it now. Rice: Yeah.
+
+76
+00:04:14,453 --> 00:04:16,046
+Schafer: What do you think about that? 
+Bailey: I'm sorry?
+
+77
+00:04:16,046 --> 00:04:17,637
+Rice: Yeah, I don't think there's 
+anything we can about it.
+
+78
+00:04:17,637 --> 00:04:18,743
+Bailey: Well, unless we 
+have something in writing.
+
+79
+00:04:18,744 --> 00:04:21,375
+Remo: No, we don't. Embargoes 
+are not really enforceable.
+
+80
+00:04:21,375 --> 00:04:23,451
+Bailey: Exactly. 
+It's a professional...
+
+81
+00:04:23,451 --> 00:04:24,738
+Remo: I know, I know. It's a courtesy.
+
+82
+00:04:24,738 --> 00:04:26,324
+A professional courtesy, yeah.
+
+83
+00:04:26,324 --> 00:04:29,565
+Schafer: Well, maybe he didn't agree to 
+anything but he knows he's being a shit.
+
+84
+00:04:29,565 --> 00:04:32,373
+Schafer: It's like people don't 
+realize that everything's embargo.
+
+85
+00:04:32,373 --> 00:04:34,535
+Like every review they read 
+has usually been embargoed,
+
+86
+00:04:34,535 --> 00:04:38,223
+because your game's coming out and 
+people want the press for the game
+
+87
+00:04:38,223 --> 00:04:41,706
+to come up on launch day or 
+around that time people can buy it.
+
+88
+00:04:41,706 --> 00:04:45,049
+'Cause if it comes out before, then 
+all that energy, people see that article,
+
+89
+00:04:45,049 --> 00:04:45,944
+they can't go buy it.
+
+90
+00:04:45,944 --> 00:04:46,837
+So anyway.
+
+91
+00:04:46,837 --> 00:04:49,351
+You want your, you want to 
+time your press to that day,
+
+92
+00:04:49,351 --> 00:04:52,697
+but different reporters can 
+come in at different times
+
+93
+00:04:52,697 --> 00:04:55,519
+and they're like hey, 
+I want to, you know,
+
+94
+00:04:55,519 --> 00:04:57,213
+just because this guy 
+came in a week early,
+
+95
+00:04:57,213 --> 00:04:59,515
+does that mean his review 
+gets to go up a week earlier?
+
+96
+00:04:59,515 --> 00:05:01,308
+So you say it's embargoed, 
+so that all the press
+
+97
+00:05:01,308 --> 00:05:05,252
+has a fair chance of getting their story, 
+not getting scooped or whatever.
+
+98
+00:05:05,252 --> 00:05:08,807
+And they also have time 
+with the build to do a thoughtful build
+
+99
+00:05:08,807 --> 00:05:10,191
+instead of racing to 
+like getting it out early.
+
+100
+00:05:10,191 --> 00:05:14,196
+But we were going out to backers 
+and 90,000 people had the build
+
+101
+00:05:14,196 --> 00:05:15,874
+and I think most of the 
+regular backers were like,
+
+102
+00:05:15,874 --> 00:05:17,330
+OK, yeah, this is private information.
+
+103
+00:05:17,330 --> 00:05:19,963
+I won't spoil it for people 
+who can't buy it yet.
+
+104
+00:05:19,963 --> 00:05:21,990
+And the press understood it.
+
+105
+00:05:21,990 --> 00:05:25,207
+But there's kind of this grey area 
+of people between backers and press,
+
+106
+00:05:25,207 --> 00:05:28,983
+like a, kind of like a blogger, 
+you know, who's a backer,
+
+107
+00:05:28,983 --> 00:05:30,964
+who's like, hey, I paid money for this.
+
+108
+00:05:30,964 --> 00:05:33,198
+This guy's amazed to see 
+consumers suggest the press
+
+109
+00:05:33,198 --> 00:05:36,677
+should stick their heads in the sand 
+because Double Fine asked them to nicely.
+
+110
+00:05:36,677 --> 00:05:39,999
+For the evening crowd, the 
+Broken Age embargo's a bit of a joke.
+
+111
+00:05:39,999 --> 00:05:44,495
+Has anyone else contacted you 
+from actual news outlet? Rice: IGN.
+
+112
+00:05:44,495 --> 00:05:46,553
+Schafer: Do they want to review 
+it or just, what'd they say?
+
+113
+00:05:46,553 --> 00:05:47,647
+Rice: Yeah, it was just yesterday.
+
+114
+00:05:47,647 --> 00:05:49,981
+It's like I just want to be 
+clear on what's expected.
+
+115
+00:05:49,981 --> 00:05:51,371
+He says like I feel like 
+there's so many people
+
+116
+00:05:51,371 --> 00:05:53,856
+that are going to be having the game.
+
+117
+00:05:53,856 --> 00:05:55,744
+Like if other people start 
+running their reviews,
+
+118
+00:05:55,744 --> 00:05:58,535
+we're going to feel like we're 
+going to have to run ours.
+
+119
+00:05:58,535 --> 00:06:00,075
+That's basically what they said.
+
+120
+00:06:03,864 --> 00:06:05,070
+Schafer: Why don't we 
+just let the people
+
+121
+00:06:05,070 --> 00:06:07,804
+who are not being jerks 
+about it break the embargo?
+
+122
+00:06:07,804 --> 00:06:08,829
+Rice: We can't do that.
+
+123
+00:06:08,829 --> 00:06:12,127
+Schafer: And that would scoop all the 
+people who are being jerks about it.
+
+124
+00:06:12,127 --> 00:06:14,763
+Why, we can't do that?
+
+125
+00:06:14,763 --> 00:06:17,674
+Rice: I don't know how to enforce that.
+
+126
+00:06:17,674 --> 00:06:18,931
+Schafer: Just pick the ones 
+that are being nice about it
+
+127
+00:06:18,931 --> 00:06:21,544
+and just tell them they can.
+
+128
+00:06:21,544 --> 00:06:24,986
+Then one day later tell everyone else.
+
+129
+00:06:24,986 --> 00:06:27,682
+Rice: Yeah. I think that only 
+serves to inflate the issue,
+
+130
+00:06:27,682 --> 00:06:31,815
+because then they think 
+the embargo is still there
+
+131
+00:06:31,815 --> 00:06:34,906
+and then it's being broken 
+and then it's a mess.
+
+132
+00:06:34,906 --> 00:06:37,972
+So I think we have to, 
+Schafer: It's kind of a mess, though, I think now.
+
+133
+00:06:37,972 --> 00:06:42,272
+Rice: Well, then, that's the case and 
+I think we have to talk about lifting it.
+
+134
+00:06:44,521 --> 00:06:47,560
+And then I'm fine like, 
+I've been saving the list of people
+
+135
+00:06:47,560 --> 00:06:49,523
+I've emailed all the review stuff
+
+136
+00:06:49,523 --> 00:06:54,163
+so it would really be like a two second 
+Kickstarter update and emailing them all,
+
+137
+00:06:54,163 --> 00:06:56,443
+if you want to just totally lift things.
+
+138
+00:06:59,595 --> 00:07:02,635
+Schafer: Maybe we could just 
+open it in a couple days, kind of.
+
+139
+00:07:02,635 --> 00:07:04,052
+Rice: Just sit on it 
+for a second and see.
+
+140
+00:07:04,052 --> 00:07:06,161
+Schafer: Yeah. Rice: OK.
+
+141
+00:07:06,161 --> 00:07:08,528
+Schafer: God, that embargo's a disaster.
+
+142
+00:07:08,528 --> 00:07:11,847
+Schafer: And so because like one or two 
+people were threatening to like break it,
+
+143
+00:07:11,847 --> 00:07:15,534
+that all of a sudden made everybody 
+else who wasn't breaking it like a chump.
+
+144
+00:07:15,534 --> 00:07:18,725
+And I didn't want them, you know, 
+to feel, so we just like, look, OK.
+
+145
+00:07:18,725 --> 00:07:21,147
+We take back our request 
+that no one's, go ahead.
+
+146
+00:07:21,147 --> 00:07:22,716
+Post all the reviews and stuff.
+
+147
+00:07:22,716 --> 00:07:26,153
+So a bunch of our reviews went up 
+when people couldn't buy the game.
+
+148
+00:07:26,153 --> 00:07:28,457
+So that was kind, 
+it took away a lot of our,
+
+149
+00:07:28,457 --> 00:07:31,208
+like our press hit for the 
+launch day, which is too bad.
+
+150
+00:07:31,208 --> 00:07:34,760
+But it seemed like it was, it would, 
+we just couldn't, it was out of control.
+
+151
+00:07:34,760 --> 00:07:37,181
+There was just like 90,000 people,
+
+152
+00:07:37,181 --> 00:07:41,862
+even if like 80,000 of them 
+are totally like, yeah, it's cool.
+
+153
+00:07:41,862 --> 00:07:43,377
+But if like just a few 
+took one or two breaks,
+
+154
+00:07:43,377 --> 00:07:44,637
+then the whole thing just falls apart.
+
+155
+00:07:46,251 --> 00:07:47,505
+Schafer: All our backers are so cool,
+
+156
+00:07:47,505 --> 00:07:50,998
+but the backers who are in 
+the press feel a little differently.
+
+157
+00:07:50,998 --> 00:07:52,878
+They feel they have 
+the option to not be cool.
+
+158
+00:07:54,575 --> 00:07:56,393
+It's an awkward situation.
+
+159
+00:07:56,393 --> 00:08:00,653
+Next time we wouldn't, I think actually 
+have private forums for that reason.
+
+160
+00:08:01,933 --> 00:08:03,433
+Schafer: I mean, I feel in 
+end that I just don't,
+
+161
+00:08:03,433 --> 00:08:07,713
+I just don't want to have this fight 
+any more about private stuff and all.
+
+162
+00:08:08,944 --> 00:08:09,995
+It just puts, I mean,
+
+163
+00:08:09,995 --> 00:08:14,228
+being in this antagonist relationship 
+with the press is just not comfortable,
+
+164
+00:08:14,228 --> 00:08:18,740
+'cause you need them and they're 
+usually really good friends of ours.
+
+165
+00:08:18,740 --> 00:08:20,084
+I'm just getting mad at them one by one
+
+166
+00:08:20,084 --> 00:08:24,944
+for breaking the faith 
+of the backer agreement.
+
+167
+00:08:25,926 --> 00:08:27,707
+It's annoying.
+
+168
+00:08:27,707 --> 00:08:30,328
+Bailey: You know, one third 
+of our, of all the articles
+
+169
+00:08:30,328 --> 00:08:33,110
+that were written about Broken 
+Age were about the embargo.
+
+170
+00:08:33,110 --> 00:08:34,856
+And then another third were about us
+
+171
+00:08:34,856 --> 00:08:38,077
+going from early access 
+changing it to a regular release.
+
+172
+00:08:38,077 --> 00:08:43,697
+And then one third were 
+about the game. Yeah. So.
+
+173
+00:08:43,697 --> 00:08:47,272
+Rice: If we're saying backer Beta's 
+the 14th and public release is the 28th,
+
+174
+00:08:47,272 --> 00:08:50,926
+that would give the press builds 
+like the 12th or something.
+
+175
+00:08:50,926 --> 00:08:54,892
+And embargo them, 
+Bailey: This is an interesting one,
+
+176
+00:08:54,892 --> 00:08:57,932
+because I think this is the next one 
+that could lead to a PR blowup.
+
+177
+00:08:59,766 --> 00:09:01,852
+Bailey: Yeah. I was not 
+in favor of the embargo.
+
+178
+00:09:01,852 --> 00:09:03,824
+Rice: But preorders 
+are there like you said.
+
+179
+00:09:03,824 --> 00:09:06,944
+So people can still at least 
+go and get the preorder.
+
+180
+00:09:09,383 --> 00:09:13,188
+Bailey: So the preorders are, 
+they're less than we expected.
+
+181
+00:09:13,188 --> 00:09:17,431
+They are, we were hoping 
+that they'd come in higher.
+
+182
+00:09:17,431 --> 00:09:22,071
+If I had to project off the 
+preorders we received so far,
+
+183
+00:09:22,071 --> 00:09:27,959
+that would be a kind of bleak outlook 
+as far as how many we'd actually sell,
+
+184
+00:09:27,959 --> 00:09:30,040
+you know, for the 
+lifetime of Broken Age.
+
+185
+00:09:30,040 --> 00:09:35,607
+But I'm basing everything off if 
+different historicals for other games
+
+186
+00:09:35,607 --> 00:09:39,328
+that Tim has sold and none of those 
+have had this kind of Kickstarter story.
+
+187
+00:09:39,328 --> 00:09:41,748
+So this is definitely unique.
+
+188
+00:09:41,748 --> 00:09:43,978
+I don't think it's time 
+for us to panic right now,
+
+189
+00:09:43,978 --> 00:09:49,445
+but it puts a whole lot more emphasis 
+and importance on January 28th
+
+190
+00:09:49,445 --> 00:09:50,887
+when it comes out for real.
+
+191
+00:09:50,887 --> 00:09:55,007
+'Cause I think it will do well in the long-run, 
+but it's like how long is that run.
+
+192
+00:09:57,102 --> 00:09:59,714
+The other piece that I think 
+is kind of silver-lining
+
+193
+00:09:59,714 --> 00:10:04,209
+in all this is the reviews 
+are coming in really good.
+
+194
+00:10:04,209 --> 00:10:09,677
+You know, I foresee that the game's 
+going to have a great word-of-mouth buzz.
+
+195
+00:10:09,677 --> 00:10:11,531
+Most of Tim's games actually do.
+
+196
+00:10:11,531 --> 00:10:14,510
+And they have a, 
+it has a very long tail.
+
+197
+00:10:14,510 --> 00:10:16,859
+There're games, what 
+people call "evergreen games",
+
+198
+00:10:16,859 --> 00:10:20,900
+they keep on selling at a certain, 
+certain level and they just keep on,
+
+199
+00:10:20,900 --> 00:10:25,586
+which keeps on accumulating over the years, 
+which is different than most games.
+
+200
+00:10:25,586 --> 00:10:28,825
+Most games have that huge spike, 
+that hump, that six-weeks hump.
+
+201
+00:10:28,825 --> 00:10:30,875
+Tim's are different.
+
+202
+00:10:30,875 --> 00:10:34,324
+So that's one good thing to take 
+into account with all the good reviews
+
+203
+00:10:34,324 --> 00:10:38,067
+and all the social media and the 
+good word of mouth we're having.
+
+204
+00:10:38,067 --> 00:10:39,489
+You know, it's like we 
+can't get to a place
+
+205
+00:10:39,489 --> 00:10:41,183
+where we could sell 
+this game quick enough,
+
+206
+00:10:41,183 --> 00:10:44,768
+because that's where we're really going 
+to be able to see and project, you know,
+
+207
+00:10:44,768 --> 00:10:47,472
+what the success of 
+the game's going to be.
+
+208
+00:10:47,472 --> 00:10:49,661
+Rice: So the other thing 
+Tim was talking about is just that
+
+209
+00:10:49,661 --> 00:10:51,808
+now that we have to move the 
+embargo up and reviews are out now,
+
+210
+00:10:51,808 --> 00:10:56,916
+the idea of flipping the 
+switch on Steam earlier.
+
+211
+00:10:56,916 --> 00:10:58,672
+Schafer: Releasing it a, a week earlier.
+
+212
+00:10:58,672 --> 00:10:59,770
+Like next Tuesday.
+
+213
+00:11:01,149 --> 00:11:03,283
+Schafer: Sure, whatever.
+
+214
+00:11:05,926 --> 00:11:07,007
+and like, you know, 
+Schafer: Well, that's the question.
+
+215
+00:11:07,007 --> 00:11:09,407
+I mean, and there's, I mean 
+there's a legitimate business reason,
+
+216
+00:11:09,407 --> 00:11:10,728
+I think about it just 
+because it's out there,
+
+217
+00:11:10,728 --> 00:11:12,115
+it's getting a lot 
+of attention right now
+
+218
+00:11:12,115 --> 00:11:14,503
+and there's a lot of press 
+I'm going to do in the next week.
+
+219
+00:11:14,503 --> 00:11:20,977
+And it'd be nice if people, I mean can 
+go pre-purchase it, but they can't buy it.
+
+220
+00:11:20,977 --> 00:11:25,270
+Rice: It'd be nice to have a story 
+about the game being pushed forward.
+
+221
+00:11:25,270 --> 00:11:27,980
+Franzke: I voiced my 
+concern about this plan.
+
+222
+00:11:27,980 --> 00:11:30,451
+I mean technically it does 
+make like, like just looking at how
+
+223
+00:11:30,451 --> 00:11:34,957
+the long the things take, just 
+doesn't really make all that much sense.
+
+224
+00:11:34,957 --> 00:11:36,643
+Franzke: And you know, 
+I explained like that.
+
+225
+00:11:36,643 --> 00:11:39,827
+That we can certainly do it 
+but it will be very unadvisable,
+
+226
+00:11:39,827 --> 00:11:43,198
+especially considering that time 
+when that was first proposed.
+
+227
+00:11:43,198 --> 00:11:44,701
+We still had big problems with crashes
+
+228
+00:11:44,701 --> 00:11:46,757
+and people not being able 
+to play the game at all.
+
+229
+00:11:46,757 --> 00:11:49,522
+So that was my main 
+worry, that you know,
+
+230
+00:11:49,522 --> 00:11:54,311
+we were still like trying to find 
+the really big issues and so.
+
+231
+00:11:54,311 --> 00:11:57,477
+So we didn't feel like it 
+was ready to ship it then.
+
+232
+00:11:57,477 --> 00:12:02,083
+But I think now, basically I don't 
+think anything will have changed
+
+233
+00:12:02,083 --> 00:12:04,773
+if we final release it on the 
+planned day we had initially,
+
+234
+00:12:04,773 --> 00:12:06,764
+just because technically time-wise
+
+235
+00:12:06,764 --> 00:12:09,384
+it doesn't really work out 
+any other way, anyways.
+
+236
+00:12:12,233 --> 00:12:13,388
+Schafer: But it's good.
+
+237
+00:12:13,388 --> 00:12:16,160
+So now the official reviews, 
+now they are rolling in.
+
+238
+00:12:16,160 --> 00:12:18,024
+The great thing is that 
+they're all really great.
+
+239
+00:12:18,024 --> 00:12:21,484
+I mean, that Polygon one was 
+nine out of ten, which is great.
+
+240
+00:12:21,484 --> 00:12:25,407
+I mean, I would give it a ten, 
+but I'll accept a nine.
+
+241
+00:12:25,407 --> 00:12:28,109
+Polygon Review: Broken Age 
+may be unfinished,
+
+242
+00:12:28,109 --> 00:12:31,422
+but it's also delightful, 
+beautiful, utterly charming
+
+243
+00:12:31,422 --> 00:12:35,690
+and you really should 
+play it right this second.
+
+244
+00:12:35,690 --> 00:12:36,537
+Stapley: No, it's cool.
+
+245
+00:12:36,537 --> 00:12:40,587
+It's awesome that it sounded like, 
+that we all made an awesome thing now.
+
+246
+00:12:40,587 --> 00:12:42,526
+Like this is the cool part, you know.
+
+247
+00:12:42,526 --> 00:12:43,639
+Like we made this awesome thing
+
+248
+00:12:43,639 --> 00:12:48,226
+and now it's out in the 
+world for everybody to look at.
+
+249
+00:12:48,226 --> 00:12:52,510
+Rice: Yeah, I guess. 
+Stapley: OK. How many reviews are there now.
+
+250
+00:12:52,510 --> 00:12:53,416
+Crook: But it feels good.
+
+251
+00:12:53,416 --> 00:12:57,166
+And people seem to be 
+really responding to the game.
+
+252
+00:12:57,166 --> 00:13:00,591
+The reviews have been really good.
+
+253
+00:13:00,591 --> 00:13:05,778
+And even comments about animation, 
+which you don't get that often.
+
+254
+00:13:05,778 --> 00:13:08,810
+It seems like in games a lot of times, 
+maybe you will a couple of times.
+
+255
+00:13:08,810 --> 00:13:12,110
+But there's been several other reviews 
+that have mentioned the animation,
+
+256
+00:13:12,110 --> 00:13:14,903
+that they really, 
+that they really liked it.
+
+257
+00:13:14,903 --> 00:13:17,146
+And that's, that's rewarding.
+
+258
+00:13:17,146 --> 00:13:18,741
+Oh, yeah. Yeah.
+
+259
+00:13:18,741 --> 00:13:20,358
+I saw a nine today; that's nice.
+
+260
+00:13:20,358 --> 00:13:23,161
+But you know, I actually, 
+I feel kind of bad I don't really,
+
+261
+00:13:23,161 --> 00:13:27,272
+I try not to read a lot of the reviews
+
+262
+00:13:27,272 --> 00:13:30,565
+because the bad ones do 
+kind of make me, put me down.
+
+263
+00:13:30,565 --> 00:13:32,173
+You know, they kind of, you know,
+
+264
+00:13:32,173 --> 00:13:34,271
+when you're kind of on this 
+high that you've released it
+
+265
+00:13:34,271 --> 00:13:36,783
+and then suddenly, even though if 
+there's like six good reviews
+
+266
+00:13:36,783 --> 00:13:40,717
+and one bad one, that 
+bad one kind of affects me.
+
+267
+00:13:40,717 --> 00:13:46,405
+So I try not to read a lot of 
+the comments until a little bit later on.
+
+268
+00:13:46,405 --> 00:13:48,939
+Heatseeker Review: Broken Age gets by 
+on the strength of its storytelling.
+
+269
+00:13:48,939 --> 00:13:51,035
+The puzzles aren't particularly complex
+
+270
+00:13:51,035 --> 00:13:56,603
+or compelling with the exception 
+of a certain vomiting tree.
+
+271
+00:13:56,603 --> 00:13:59,997
+And serve as a reason to 
+explore the environments.
+
+272
+00:13:59,997 --> 00:14:01,737
+I can't say I recommend this to people
+
+273
+00:14:01,737 --> 00:14:05,243
+who don't already have 
+a fondness for this genre.
+
+274
+00:14:05,243 --> 00:14:09,729
+Compared to modern entries in the 
+genre like those from Telltale Games,
+
+275
+00:14:09,729 --> 00:14:13,066
+it may seem a little 
+simple or even boring.
+
+276
+00:14:13,066 --> 00:14:16,704
+Schafer: This is actually just 
+new posts, for new posts today.
+
+277
+00:14:16,704 --> 00:14:18,925
+Oh God. The guy wants a refund.
+
+278
+00:14:18,925 --> 00:14:22,162
+It's like, ah. This is a jerk.
+
+279
+00:14:22,162 --> 00:14:23,004
+I'm just going to say it.
+
+280
+00:14:23,004 --> 00:14:24,270
+This is a jerk.
+
+281
+00:14:24,270 --> 00:14:26,514
+Thanks for backing, jerk.
+
+282
+00:14:26,514 --> 00:14:28,458
+Franzke: You know, it's 
+unrealistic to expect that people
+
+283
+00:14:28,458 --> 00:14:32,427
+will be able to please 
+everybody, obviously.
+
+284
+00:14:32,427 --> 00:14:35,877
+Unfortunately very often the people 
+who are the most dissatisfied
+
+285
+00:14:35,877 --> 00:14:39,120
+are also the loudest ones, 
+you know, which can be difficult,
+
+286
+00:14:39,120 --> 00:14:41,603
+especially if you're pouring a 
+lot of effort and a lot of work
+
+287
+00:14:41,603 --> 00:14:44,394
+and a lot of your like, 
+like "soul's" the wrong word,
+
+288
+00:14:44,394 --> 00:14:47,604
+but like a lot of your personal 
+kind of effort into the game.
+
+289
+00:14:47,604 --> 00:14:51,099
+Like to see somebody come in 
+and like just completely smash it.
+
+290
+00:14:51,099 --> 00:14:54,416
+I did the mistake and I should know 
+better after so many years in games.
+
+291
+00:14:54,416 --> 00:14:59,367
+I think I went in Kotaku where they 
+had an article about the "Retro Mode".
+
+292
+00:14:59,367 --> 00:15:02,348
+And like one of the comments, and you 
+should never do that if you work in games.
+
+293
+00:15:02,348 --> 00:15:03,331
+Never read the comments.
+
+294
+00:15:03,331 --> 00:15:05,580
+Actually, generally don't 
+read any internet comments.
+
+295
+00:15:05,580 --> 00:15:08,749
+I scroll down and somebody 
+was like, this just look shit.
+
+296
+00:15:08,749 --> 00:15:11,381
+Like this is, you know, 
+here, here's a comparison
+
+297
+00:15:11,381 --> 00:15:14,594
+to a hand painted, 
+hand painted sprites, versus down-res
+
+298
+00:15:14,594 --> 00:15:15,547
+It's like, yes, obviously.
+
+299
+00:15:15,547 --> 00:15:19,967
+And then backers immediately jumped in
+"Well they just put it in as a little add on"
+
+300
+00:15:20,100 --> 00:15:23,135
+Still the person was not 
+satisfied with that at all.
+
+301
+00:15:23,135 --> 00:15:25,090
+And then he's like, well, if you 
+were a backer you would see that,
+
+302
+00:15:25,090 --> 00:15:27,999
+you know, they just put in during 
+the weekend as a little side project.
+
+303
+00:15:27,999 --> 00:15:29,356
+I'm not a backer but this is shit.
+
+304
+00:15:29,356 --> 00:15:30,496
+I'm not going to buy this.
+
+305
+00:15:30,500 --> 00:15:32,105
+It gets, [throws hands up, exasperated].
+
+306
+00:15:32,220 --> 00:15:34,400
+Having said all that, overall 
+I think people are very happy.
+
+307
+00:15:34,400 --> 00:15:37,711
+I've got a lot of Tweets from people 
+who are super happy with the project.
+
+308
+00:15:37,711 --> 00:15:40,673
+On the forums people 
+are very happy, you know.
+
+309
+00:15:40,673 --> 00:15:44,327
+We saw someplace where some people 
+like really, really enjoying the game.
+
+310
+00:15:44,327 --> 00:15:47,819
+And like, you know, it's good 
+to see super-positive reactions
+
+311
+00:15:47,819 --> 00:15:50,950
+of somebody just like laughing 
+about all the jokes in the game.
+
+312
+00:15:50,950 --> 00:15:53,290
+And just generally like finding the 
+game very beautiful and stuff like that.
+
+313
+00:15:53,290 --> 00:15:54,110
+So it's good.
+
+314
+00:15:58,360 --> 00:15:59,240
+Web Streamer: Fuck yeah!
+
+315
+00:16:00,720 --> 00:16:02,720
+Web Streamer: I don't know!  Which one!
+What do I pick!
+
+316
+00:16:05,280 --> 00:16:06,160
+Oohh.
+
+317
+00:16:07,620 --> 00:16:09,300
+Shay: This must be where Marek sleeps.
+
+318
+00:16:09,300 --> 00:16:13,685
+Web Streamer: So he keeps 
+the costume on while he sleeps.
+
+319
+00:16:14,597 --> 00:16:15,457
+That's funny.
+
+320
+00:16:15,820 --> 00:16:18,360
+Man, this is a genius 
+game, genius story.
+
+321
+00:16:22,852 --> 00:16:25,777
+Schafer: I'm super happy that no one
+
+322
+00:16:25,777 --> 00:16:28,194
+seems to have guessed 
+the big spoiler at the end of it.
+
+323
+00:16:28,194 --> 00:16:29,814
+I really thought that 
+was going to get out.
+
+324
+00:16:29,900 --> 00:16:34,120
+And actually long ago on 
+the forums, one guy guessed it.
+
+325
+00:16:34,611 --> 00:16:36,397
+And no one followed up on it.
+
+326
+00:16:36,397 --> 00:16:40,006
+Like no one, he just said his 
+little thing, hey, what if this is the case?
+
+327
+00:16:40,006 --> 00:16:41,584
+And no one answered him.
+
+328
+00:16:41,584 --> 00:16:43,178
+I was like, oh man.
+
+329
+00:16:43,178 --> 00:16:45,109
+I feel, oh God.
+
+330
+00:16:45,109 --> 00:16:49,759
+You know, I hate that guy for guessing it, 
+but I'm really, it's worth something.
+
+331
+00:16:49,759 --> 00:16:51,459
+We should send him some chocolate.
+
+332
+00:16:52,828 --> 00:16:56,630
+But everyone else has just had the exact 
+like experience that I was hoping for,
+
+333
+00:16:56,630 --> 00:16:58,107
+which is that they were 
+really like, oh my God!
+
+334
+00:16:58,107 --> 00:16:59,487
+I didn't see that coming, that's crazy.
+
+335
+00:17:00,700 --> 00:17:02,537
+Web Streamer: It's Shay!
+
+336
+00:17:02,677 --> 00:17:04,777
+Shay was controlling Mog Chothra.
+
+337
+00:17:08,210 --> 00:17:11,970
+Web Streamer: Uhhh, Shay?
+
+338
+00:17:14,545 --> 00:17:15,625
+Web Streamer: What the heck?
+
+339
+00:17:19,058 --> 00:17:19,898
+What the heck?
+
+340
+00:17:21,708 --> 00:17:22,868
+That's Shay!
+
+341
+00:17:25,848 --> 00:17:28,512
+Schafer: But they all seemed 
+to really be enjoying the ending.
+
+342
+00:17:28,512 --> 00:17:30,580
+And so I'm really happy with that.
+
+343
+00:17:30,580 --> 00:17:36,288
+And I'm really happy with people's 
+response to like the story, the characters.
+
+344
+00:17:36,288 --> 00:17:41,285
+And a lot of people, I think, will 
+actually appreciate the difficulty level
+
+345
+00:17:41,285 --> 00:17:46,884
+in the game once we get out of 
+the most hardcore part of the audience.
+
+346
+00:17:46,884 --> 00:17:51,029
+I think they'll like that, 
+that it flows more as opposed to
+
+347
+00:17:51,029 --> 00:17:55,302
+hitting a series of really, 
+really hard stops, for most people.
+
+348
+00:17:59,275 --> 00:18:01,332
+Schafer: I mean, you can tell 
+they already anticipated that.
+
+349
+00:18:01,332 --> 00:18:04,051
+After play-testing the first part, 
+I was like, I think this is a little easy,
+
+350
+00:18:04,051 --> 00:18:09,893
+but I think rather than just throwing 
+a monkey wrench, Monkey Island joke,
+
+351
+00:18:09,893 --> 00:18:15,533
+in there, I'm really focusing on Act
+Two and making Act Two a little more,
+
+352
+00:18:16,677 --> 00:18:20,357
+instead of things being one step, 
+having them be a little more complex.
+
+353
+00:18:21,411 --> 00:18:23,631
+So I'm way ahead of them, 
+way ahead of them on that.
+
+354
+00:18:25,274 --> 00:18:27,363
+Petty: You know, I think, 
+yeah, it's interesting.
+
+355
+00:18:27,363 --> 00:18:28,874
+Like the, I don't, 
+I don't think I read anything
+
+356
+00:18:28,874 --> 00:18:33,320
+that I felt was unfair and it 
+all seemed pretty balanced.
+
+357
+00:18:33,320 --> 00:18:36,555
+There were, I think, you know,
+
+358
+00:18:36,555 --> 00:18:39,653
+there's some comments about 
+length, maybe a couple of them.
+
+359
+00:18:39,653 --> 00:18:42,011
+And that's kind of difficult, 
+because you know, I mean,
+
+360
+00:18:42,011 --> 00:18:43,787
+this was the same on Stacking.
+
+361
+00:18:43,787 --> 00:18:48,254
+You know, you can, you can burn 
+through an adventure game and,
+
+362
+00:18:48,254 --> 00:18:50,492
+and that can really shorten
+your play experience.
+
+363
+00:18:50,492 --> 00:18:54,503
+But I don't know if that's the best 
+way to evaluate that particular game.
+
+364
+00:18:54,503 --> 00:18:58,263
+You know, it's not a game that has a 
+mechanic that just like is endlessly playable.
+
+365
+00:18:58,263 --> 00:19:01,323
+So it's a little, I don't know, 
+you know, it's just, it's just something
+
+366
+00:19:01,323 --> 00:19:04,363
+that happens with adventure games 
+that, I've seen that come up.
+
+367
+00:19:04,363 --> 00:19:06,112
+I don't necessarily disagree with it,
+
+368
+00:19:06,112 --> 00:19:09,602
+but I guess I don't know what 
+to say about it, you know.
+
+369
+00:19:09,602 --> 00:19:12,727
+But I think, you know, in some other stuff 
+is stuff that we discussed early on
+
+370
+00:19:12,727 --> 00:19:15,905
+that I've seen like, you know, 
+the lack of a verb coin or a verb page.
+
+371
+00:19:15,905 --> 00:19:18,091
+And I think that's just a choice Tim,
+
+372
+00:19:18,091 --> 00:19:20,529
+and I think the correct choice 
+Tim made early on, you know.
+
+373
+00:19:20,529 --> 00:19:23,750
+I don't think there's probably people 
+played Machinarium that also was like,
+
+374
+00:19:23,750 --> 00:19:27,152
+this would be better if I could have 
+a look and examine and verb link.
+
+375
+00:19:27,152 --> 00:19:29,440
+But I don't really feel like 
+the experience needed it
+
+376
+00:19:29,440 --> 00:19:31,292
+in any way and I don't really feel 
+like Broken Age needs it in anyway.
+
+377
+00:19:31,292 --> 00:19:33,619
+And I don't really feel like 
+that's where we puzzle depth,
+
+378
+00:19:33,619 --> 00:19:35,574
+mechanical depth anyways.
+
+379
+00:19:35,574 --> 00:19:39,695
+So you know, I mean, I wouldn't 
+oppose it if someone really, really, like
+
+380
+00:19:39,695 --> 00:19:42,485
+we had started the game and we really, 
+really wanted to take that approach.
+
+381
+00:19:42,485 --> 00:19:47,271
+But I just like the idea of you 
+know, I think Tim's initial vision
+
+382
+00:19:47,271 --> 00:19:49,919
+for the game would be like, well, 
+what if adventure games just kept going?
+
+383
+00:19:49,919 --> 00:19:51,512
+And we just were keeping it working.
+
+384
+00:19:51,512 --> 00:19:53,587
+We wouldn't keep making 
+the exact same thing.
+
+385
+00:19:53,587 --> 00:19:56,338
+We'd try and mess with the 
+formula and advance things
+
+386
+00:19:56,338 --> 00:19:57,883
+and I think that's what 
+we tried to do with visuals.
+
+387
+00:19:57,883 --> 00:19:59,987
+We didn't want to 
+make retro visuals, right.
+
+388
+00:19:59,987 --> 00:20:02,993
+We wanted to make visuals 
+that were 2D and charming,
+
+389
+00:20:02,993 --> 00:20:07,227
+but also took advantage of modern 
+methodologies and technologies and resolutions.
+
+390
+00:20:07,227 --> 00:20:11,067
+And I think the approach to the 
+game play is consistent with that.
+
+391
+00:20:12,595 --> 00:20:13,613
+And this is a choice.
+
+392
+00:20:13,613 --> 00:20:17,265
+You know, and some people will 
+want that exact Monkey Island moment
+
+393
+00:20:17,265 --> 00:20:21,294
+and some people are like, thank God, 
+the puzzles aren't that confusing, you know.
+
+394
+00:20:21,294 --> 00:20:23,709
+It's hard, it's hard to get the right.
+
+395
+00:20:23,709 --> 00:20:27,989
+Petty: So what I would like to do is 
+next week, since Bagel's out for two weeks
+
+396
+00:20:27,989 --> 00:20:31,877
+and I wanted him to come out at 
+this time so we could kick off Act Two.
+
+397
+00:20:31,877 --> 00:20:35,646
+So I would like to kind of, at the 
+very least, we'll see who has time.
+
+398
+00:20:35,646 --> 00:20:37,522
+At the very least Bagel 
+and Levi and myself
+
+399
+00:20:37,522 --> 00:20:41,650
+to start concept jamming next 
+week on early Act Two stuff.
+
+400
+00:20:41,650 --> 00:20:44,971
+And Tim hasn't delivered the 
+final design or dialogue yet,
+
+401
+00:20:44,971 --> 00:20:46,701
+but I already know 
+some of high level stuff
+
+402
+00:20:46,701 --> 00:20:49,306
+and then hopefully we 
+can get him to kind of,
+
+403
+00:20:49,306 --> 00:20:51,660
+I can kind of like mention all that 
+and he can kind of correct me
+
+404
+00:20:51,660 --> 00:20:53,528
+where he's changed things 
+and just get us going.
+
+405
+00:20:53,528 --> 00:20:55,775
+So there's definitely a new, 
+at least one new area
+
+406
+00:20:55,775 --> 00:20:59,948
+that has no presence at all in 
+the current act that we have to design.
+
+407
+00:20:59,948 --> 00:21:01,863
+And we had some very 
+early stuff on it from before,
+
+408
+00:21:01,863 --> 00:21:04,638
+but we haven't thought 
+about it in 18 months.
+
+409
+00:21:04,638 --> 00:21:07,042
+So we'll probably start there.
+
+410
+00:21:07,042 --> 00:21:08,150
+Stapley: So are these the only new,
+
+411
+00:21:08,150 --> 00:21:10,946
+this is like pretty much all we have 
+to worry, really worry about, right?
+
+412
+00:21:10,946 --> 00:21:12,860
+I mean, those only new things?
+
+413
+00:21:12,860 --> 00:21:15,742
+Petty: Well, this is the new 
+stuff we know about for sure.
+
+414
+00:21:15,742 --> 00:21:17,582
+So I thought we'd start there. OK.
+
+415
+00:21:17,582 --> 00:21:20,820
+So the thing that Tim, like 
+he's going to be here after lunch,
+
+416
+00:21:20,820 --> 00:21:21,912
+we can him some more questions
+
+417
+00:21:21,912 --> 00:21:27,374
+but the thing that we know for sure 
+is that we need a monster lands area.
+
+418
+00:21:27,374 --> 00:21:30,425
+It's probably also a good 
+chance for us to think about
+
+419
+00:21:30,425 --> 00:21:33,096
+where we want to go with, 
+you know, as we're developing him,
+
+420
+00:21:33,096 --> 00:21:35,472
+if we want to go anyplace 
+different with Marek.
+
+421
+00:21:35,472 --> 00:21:37,065
+Here's another concept 
+that we can think about.
+
+422
+00:21:37,065 --> 00:21:40,497
+Is we talked about, OK, 
+what Alex's is.
+
+423
+00:21:40,497 --> 00:21:42,731
+And originally Tim kept 
+saying, well, it's, oh,
+
+424
+00:21:42,731 --> 00:21:44,516
+this'll be a copy of 
+Mog Chothra to save time.
+
+425
+00:21:44,516 --> 00:21:46,606
+And I was saying, well, that's not 
+really going to save us much time.
+
+426
+00:21:46,606 --> 00:21:50,662
+I mean, it'll save a week or 
+so of production time, but...
+
+427
+00:21:50,662 --> 00:21:52,362
+Stapley: It's got to 
+be like older version.
+
+428
+00:21:52,362 --> 00:21:53,426
+Petty: Right. Like it's been buried.
+
+429
+00:21:53,426 --> 00:21:55,233
+It's not going to look the same.
+
+430
+00:21:55,233 --> 00:21:57,180
+I'd love to see it like 
+a previous generation.
+
+431
+00:21:57,180 --> 00:21:58,997
+Because when we 
+were starting to draw like,
+
+432
+00:21:58,997 --> 00:22:00,916
+I don't know, maybe, like some 
+of these older ones or whatever,
+
+433
+00:22:00,916 --> 00:22:02,243
+like remember we 
+had all those ideas like,
+
+434
+00:22:02,243 --> 00:22:05,187
+oh, it's got diamond-shape 
+eyes instead of hex eyes.
+
+435
+00:22:05,187 --> 00:22:08,361
+Ryken: Yeah, just 
+like changes with times.
+
+436
+00:22:08,361 --> 00:22:12,360
+400 years, like, oh yeah, but then 
+he came around to hexes again.
+
+437
+00:22:12,360 --> 00:22:14,121
+And then it went away 
+for another 100 years.
+
+438
+00:22:14,121 --> 00:22:15,504
+Petty: We added two 
+sides to our windows.
+
+439
+00:22:15,504 --> 00:22:16,707
+Stapley: That's awesome. 
+That's always the best.
+
+440
+00:22:16,707 --> 00:22:18,492
+Like in Star Wars, 
+you're like, well, that's R2D2,
+
+441
+00:22:18,492 --> 00:22:21,650
+but it's a fucking red 
+R2D2 and it's like different.
+
+442
+00:22:21,650 --> 00:22:23,836
+Awesome. I always love that.
+
+443
+00:22:23,836 --> 00:22:26,173
+Petty: Well plus it would be cool, 
+too, like this one doesn't have,
+
+444
+00:22:26,173 --> 00:22:27,773
+it's been buried for however long
+
+445
+00:22:27,773 --> 00:22:30,779
+so it doesn't have to look 
+as purely organic, you know.
+
+446
+00:22:30,779 --> 00:22:34,011
+Like we're not, we're no longer trying 
+to make people believe it's just a monster.
+
+447
+00:22:34,011 --> 00:22:38,479
+So being able to see some combination 
+of the mechanical and the monster...
+
+448
+00:22:38,479 --> 00:22:42,474
+Ryken: Yeah, like the outer hull is just 
+like ripped away and most of the parts.
+
+449
+00:22:42,474 --> 00:22:45,859
+Stapley: But it'll still be the same 
+like rig kind of set up, right?
+
+450
+00:22:45,859 --> 00:22:48,155
+Petty: I mean, it could 
+be whatever we want.
+
+451
+00:22:48,155 --> 00:22:49,790
+Bog Chothra.
+
+452
+00:22:49,790 --> 00:22:52,121
+Stapley: Bog Chothra?
+
+453
+00:22:52,121 --> 00:22:53,147
+Bog, I like that one.
+
+454
+00:22:53,147 --> 00:22:54,464
+I like Bog.
+
+455
+00:22:54,464 --> 00:22:55,883
+Ryken: Just Bob.
+
+456
+00:22:55,883 --> 00:22:58,938
+Stapley: Bob Chothra? Awesome.
+
+457
+00:22:58,938 --> 00:23:00,338
+That would be fucking sweet.
+
+458
+00:23:03,217 --> 00:23:05,559
+Stapley: All right. Should we 
+call Scott and get pumped?
+
+459
+00:23:05,559 --> 00:23:12,593
+Stapley: Yeah! Look, whoo!
+
+460
+00:23:12,593 --> 00:23:14,244
+Hey, bro, get us pumped up!
+
+461
+00:23:14,244 --> 00:23:16,881
+Get us pumped up!
+
+462
+00:23:16,881 --> 00:23:19,600
+We're all like, boo, drawing is stupid.
+
+463
+00:23:19,600 --> 00:23:20,827
+He still in bed?
+
+464
+00:23:20,827 --> 00:23:22,276
+Campbell: Chilling on the couch.
+
+465
+00:23:22,276 --> 00:23:25,053
+Stapley: Oh, man.
+
+466
+00:23:25,053 --> 00:23:28,052
+Campbell: I was just, I was 
+just watching Triplets of Belleville.
+
+467
+00:23:28,052 --> 00:23:30,055
+Stapley: Oh, sweet, dude.
+
+468
+00:23:30,055 --> 00:23:31,386
+Campbell: What are you guys, 
+what are you guys doing?
+
+469
+00:23:31,386 --> 00:23:32,479
+Stapley: We're doing an art jam, dude.
+
+470
+00:23:32,479 --> 00:23:34,840
+We're doing an art jam and 
+nobody's pumped up and like,
+
+471
+00:23:34,840 --> 00:23:37,321
+like nobody fucking 
+is as psyched as you.
+
+472
+00:23:37,321 --> 00:23:38,981
+You got to get us psyched.
+
+473
+00:23:38,981 --> 00:23:43,226
+You know, when you and Peter are 
+here, you guys are like, ooh, ooh, ooh!
+
+474
+00:23:43,226 --> 00:23:45,040
+So come on, bro, do it, go for it.
+
+475
+00:23:45,040 --> 00:23:46,141
+Ryken: We need some art cheerleading.
+
+476
+00:23:46,141 --> 00:23:47,320
+Campbell: Get psyched, man.
+
+477
+00:23:47,320 --> 00:23:48,810
+What are you guys 
+working on? Tell me about it.
+
+478
+00:23:48,810 --> 00:23:50,348
+Stapley: All right, check it out. 
+Rice: What are you doing?
+
+479
+00:23:50,348 --> 00:23:52,916
+Stapley: Monster lands. 
+Uh oh, look who it is.
+
+480
+00:23:52,916 --> 00:23:57,000
+What, tall man. 
+Petty: Scott!
+
+481
+00:23:57,000 --> 00:24:03,471
+Stapley: Yeah, we're all 
+getting pumped. OK, cool.
+
+482
+00:24:03,471 --> 00:24:04,702
+This is one monster, man.
+
+483
+00:24:04,702 --> 00:24:06,605
+Schafer: Who are you talking to?
+
+484
+00:24:06,605 --> 00:24:08,489
+Hi! Scott Campbell!
+
+485
+00:24:08,489 --> 00:24:10,068
+Hi! Everybody's at the art jam.
+
+486
+00:24:10,068 --> 00:24:11,322
+Stapley: I'm excited to hear 
+about what we're going to do,
+
+487
+00:24:11,322 --> 00:24:15,447
+because, 'cause I know 
+that we all like, this is like,
+
+488
+00:24:15,447 --> 00:24:19,602
+not really trial and error but 
+I got pretty much trial and error.
+
+489
+00:24:19,602 --> 00:24:22,144
+You get closer to the end, everything 
+started working really smoothly.
+
+490
+00:24:22,144 --> 00:24:26,172
+So you know, it's going to be 
+way better for sure, you know,
+
+491
+00:24:26,172 --> 00:24:28,614
+'cause we learned so much.
+
+492
+00:24:28,614 --> 00:24:31,111
+But I'm, I'm actually excited to see
+
+493
+00:24:31,111 --> 00:24:34,111
+how we take all the things 
+that we learned, trial and error-wise
+
+494
+00:24:34,111 --> 00:24:38,838
+and try to get it, you know,
+see what happens with the next,
+
+495
+00:24:38,838 --> 00:24:40,878
+how organized we are, what we learned.
+
+496
+00:24:41,476 --> 00:24:43,764
+Schafer: OK.
+
+497
+00:24:43,764 --> 00:24:44,990
+Stapley: Those 
+are the new things.
+
+498
+00:24:44,990 --> 00:24:46,690
+Schafer: Monster lands and the gate
+
+499
+00:24:46,690 --> 00:24:49,720
+Stapley: And there's only the 
+pollution inside like the kingdom.
+
+500
+00:24:50,224 --> 00:24:52,485
+Schafer: Don't film his armpits.
+
+501
+00:24:52,485 --> 00:24:54,625
+Stapley: Oh God, are they like, oh God!
+
+502
+00:24:54,625 --> 00:24:56,265
+Fuck. It's horrible.
+
+503
+00:24:59,792 --> 00:25:00,772
+Hey, bro.
+
+504
+00:25:02,145 --> 00:25:04,385
+Schafer: Aren't you glad 
+you're not here right now?
+
+505
+00:25:04,385 --> 00:25:08,038
+It would be nice to get the main 
+characters some different outfits,
+
+506
+00:25:08,040 --> 00:25:12,020
+just to make the game feel...
+Petty: So would she put on a space suit?
+
+507
+00:25:12,020 --> 00:25:15,304
+Schafer: I see her with the radiation 
+suit and I don't know necessarily if he,
+
+508
+00:25:15,867 --> 00:25:18,146
+I can't think of, I haven't 
+thought of a puzzle.
+
+509
+00:25:18,146 --> 00:25:18,746
+What?
+
+510
+00:25:18,746 --> 00:25:19,986
+Stapley: He could be in a cake dress.
+
+511
+00:25:20,800 --> 00:25:22,711
+Petty: We should do a transgender thing 
+where he starts dressing like a girl,
+
+512
+00:25:22,720 --> 00:25:23,862
+'cause he gets the maiden,
+
+513
+00:25:23,862 --> 00:25:26,898
+leftover maiden's outfits 
+and she dresses like a boy.
+
+514
+00:25:27,198 --> 00:25:29,732
+Schafer: I mean, he could put 
+a druid cloak or he could,
+
+515
+00:25:29,732 --> 00:25:33,012
+but he could put on 
+a preener outfit.
+
+516
+00:25:33,020 --> 00:25:34,680
+remember we have those artworks,
+
+517
+00:25:34,680 --> 00:25:36,180
+you had him masquerade 
+as a preener for a while.
+
+518
+00:25:36,800 --> 00:25:38,588
+He could possibly have to do that.
+
+519
+00:25:38,588 --> 00:25:39,834
+I just think it would be 
+more fun for the player
+
+520
+00:25:39,840 --> 00:25:41,288
+to have them look really different.
+
+521
+00:25:41,436 --> 00:25:43,264
+Petty: He needs like a 
+traveling cloak or something.
+
+522
+00:25:43,264 --> 00:25:45,577
+Piece it together. Yeah.
+
+523
+00:25:46,320 --> 00:26:06,880
+[Music]
+
+524
+00:26:06,888 --> 00:26:08,115
+Franzke: Other than 
+doing some concept artwork,
+
+525
+00:26:08,115 --> 00:26:10,919
+nobody has to get started working 
+on the second act anyways,
+
+526
+00:26:10,919 --> 00:26:14,553
+so a lot of us are still working 
+on bug fixes for this release.
+
+527
+00:26:14,553 --> 00:26:18,366
+And it's, you know, it's incremental 
+update to the backer release.
+
+528
+00:26:18,366 --> 00:26:23,674
+So you know, I'm really optimistic that 
+this is all like minor fixes to be put in.
+
+529
+00:26:23,674 --> 00:26:27,435
+But we're pretty solid, solid release.
+
+530
+00:26:27,435 --> 00:26:30,944
+Peck : We are 
+investigating an issue with
+
+531
+00:26:30,944 --> 00:26:36,293
+the track pad on Linux for 
+laptops with track pads.
+
+532
+00:26:36,293 --> 00:26:38,181
+There's a little issue there.
+
+533
+00:26:38,181 --> 00:26:40,255
+A little oversensitive, you might say.
+
+534
+00:26:40,255 --> 00:26:41,327
+Franzke: You make a change and like,
+
+535
+00:26:41,327 --> 00:26:42,649
+oh, it works on Windows 
+and then you go into Linux.
+
+536
+00:26:42,649 --> 00:26:44,834
+Aaah! Gosh, it's broken.
+
+537
+00:26:44,834 --> 00:26:46,115
+What the hell is going on?
+
+538
+00:26:46,115 --> 00:26:48,364
+Franzke: It was good to a 
+have Beta release for sure,
+
+539
+00:26:48,364 --> 00:26:52,020
+to kind of find a lot of issues 
+and all the things we ran into,
+
+540
+00:26:52,020 --> 00:26:54,797
+we were not unprepared 
+for, but we didn't expect.
+
+541
+00:26:54,797 --> 00:26:58,982
+Like a lot of Window compatibility 
+issue than we expected, for example.
+
+542
+00:26:58,982 --> 00:27:01,116
+And you know, that's 
+why I have those guys here,
+
+543
+00:27:01,116 --> 00:27:02,978
+like we had a lot of 
+issues with compatibility,
+
+544
+00:27:02,978 --> 00:27:05,794
+so we ordered a lot of 
+graphics cards just to kind of,
+
+545
+00:27:05,794 --> 00:27:09,536
+trying to reproduce some of the 
+issues that users were running into.
+
+546
+00:27:09,536 --> 00:27:11,565
+Franzke: Oh, this is what 
+compatibility is all about.
+
+547
+00:27:11,565 --> 00:27:12,980
+Finding really, really old hardware
+
+548
+00:27:12,980 --> 00:27:17,055
+and putting in your machine 
+and see what happens.
+
+549
+00:27:17,055 --> 00:27:18,817
+Franzke: You know, 
+where here in the studio
+
+550
+00:27:18,817 --> 00:27:20,547
+we didn't really have any 
+problems running the game
+
+551
+00:27:20,547 --> 00:27:22,454
+and like our external 
+QA partner
+
+552
+00:27:22,454 --> 00:27:23,871
+didn't have any problem 
+running the game,
+
+553
+00:27:23,871 --> 00:27:28,119
+but then as soon as we, you know, 
+we launched it on, you know,
+
+554
+00:27:28,119 --> 00:27:30,951
+on the day for the backers, 
+like immediately people came back,
+
+555
+00:27:30,951 --> 00:27:34,438
+oh, the game is crashing or sending 
+out a black screen and stuff like that.
+
+556
+00:27:34,438 --> 00:27:35,538
+That's always like, crap.
+
+557
+00:27:35,538 --> 00:27:37,781
+If we would not have done it like that,
+
+558
+00:27:37,781 --> 00:27:40,276
+we would have eventually run
+into this issues so you know,
+
+559
+00:27:40,276 --> 00:27:42,962
+on the 28th we would 
+have released the game
+
+560
+00:27:42,962 --> 00:27:45,714
+and people would have had 
+big problems with it and like,
+
+561
+00:27:45,714 --> 00:27:48,543
+while crashes are not great,
+
+562
+00:27:48,543 --> 00:27:50,120
+but at least acceptable during a Beta,
+
+563
+00:27:50,120 --> 00:27:53,060
+like once the game is out there, 
+you know, it becomes very less acceptable.
+
+564
+00:27:54,680 --> 00:27:58,468
+Franzke: This VGA out. 
+Haven't seen that in a while.
+
+565
+00:27:58,468 --> 00:28:00,947
+I don't know if it's even still possible.
+
+566
+00:28:00,947 --> 00:28:04,355
+Franzke: I had, I think 
+two crashes on Windows 98.
+
+567
+00:28:04,355 --> 00:28:06,494
+I mean, I was surprised 
+that you managed to
+
+568
+00:28:06,494 --> 00:28:09,507
+download Steam on that machine, I guess.
+
+569
+00:28:09,507 --> 00:28:12,220
+But yeah, unfortunately the game 
+does not run on Windows 98
+
+570
+00:28:12,220 --> 00:28:15,470
+and I don't think it's part of 
+the minimum requirement.
+
+571
+00:28:15,470 --> 00:28:19,592
+But yeah, that was, that was certainly 
+very funny and surprising for sure.
+
+572
+00:28:23,256 --> 00:28:25,539
+Franzke: I knock on the 
+graphics card right here.
+
+573
+00:28:25,539 --> 00:28:30,040
+Romero: And for right now we're 
+in shooting crashes and blockers
+
+574
+00:28:30,040 --> 00:28:33,607
+and people's progress is lost, 
+saved and corrupted stuff like that.
+
+575
+00:28:33,607 --> 00:28:37,344
+I mean, for now it's like the 
+forum is the bug list pretty much,
+
+576
+00:28:37,344 --> 00:28:39,135
+'cause there's so much coming in.
+
+577
+00:28:39,135 --> 00:28:43,294
+So before I was in, you know, 
+I was looking through our bugs
+
+578
+00:28:43,294 --> 00:28:47,012
+and now I'm looking 
+through all these bugs.
+
+579
+00:28:47,012 --> 00:28:48,127
+Now they're the testers.
+
+580
+00:28:48,127 --> 00:28:49,601
+They're reporting the bugs to us.
+
+581
+00:28:49,601 --> 00:28:54,562
+We're merely the conduit through which, 
+you know, we get the bugs to developer.
+
+582
+00:28:54,562 --> 00:28:56,014
+Lui: It's nice, I think,
+
+583
+00:28:56,014 --> 00:29:01,586
+for the team to have an overview 
+of how the overall progress is going.
+
+584
+00:29:01,586 --> 00:29:04,933
+So it's nice to be able to see, 
+like look at the chart and be like,
+
+585
+00:29:04,933 --> 00:29:08,286
+oh, we are constantly going down.
+
+586
+00:29:08,286 --> 00:29:13,582
+And there are spikes, like this spike 
+over there is when Tim played through
+
+587
+00:29:13,582 --> 00:29:19,872
+the game twice and submitted 
+about fifteen pages of bug fixes.
+
+588
+00:29:19,872 --> 00:29:22,466
+Schafer: Should realize 
+that it's gotta be done this week.
+
+589
+00:29:22,466 --> 00:29:24,839
+So if there's anything that 
+I really care about getting fixed,
+
+590
+00:29:24,839 --> 00:29:27,379
+I have to make a big 
+stink about it right now.
+
+591
+00:29:29,016 --> 00:29:31,735
+But making big stinks 
+is what I'm all about.
+
+592
+00:29:31,735 --> 00:29:37,456
+The camera's here and then 
+when I click, ah, the camera moves.
+
+593
+00:29:37,456 --> 00:29:40,377
+So annoying.
+
+594
+00:29:40,377 --> 00:29:44,696
+Vella's first step makes camera twitch.
+
+595
+00:29:44,696 --> 00:29:46,400
+At the end of the game, 
+there's just a million bugs
+
+596
+00:29:46,400 --> 00:29:49,211
+with things flashing or 
+twitching for one frame.
+
+597
+00:29:49,211 --> 00:29:50,576
+Drives me nuts.
+
+598
+00:29:50,576 --> 00:29:51,735
+When she gives him the cupcake,
+
+599
+00:29:51,735 --> 00:29:54,735
+that's where the cupcake appears 
+floating in midair for one frame.
+
+600
+00:29:54,735 --> 00:29:57,836
+Yep. The average player 
+can't say what happened,
+
+601
+00:29:57,836 --> 00:29:59,374
+but they'll just get 
+this weird twitchy feeling
+
+602
+00:29:59,374 --> 00:30:01,041
+when they're playing 
+the game of like, aaah,
+
+603
+00:30:01,041 --> 00:30:03,990
+something was just, it's like, 
+just a feeling of it not being polished.
+
+604
+00:30:03,990 --> 00:30:07,393
+But I can see, like OK, that 
+camera was wrong for one frame.
+
+605
+00:30:07,393 --> 00:30:09,009
+Sometimes I can't even 
+tell if I saw a flash.
+
+606
+00:30:09,009 --> 00:30:11,029
+Like at the end of that cutscene, 
+I swear I saw a flash.
+
+607
+00:30:12,694 --> 00:30:14,181
+I'm trying to fix everything.
+
+608
+00:30:14,181 --> 00:30:16,149
+You can't fix everything.
+
+609
+00:30:16,149 --> 00:30:18,229
+The mouse sensitivity 
+is weird, though.
+
+610
+00:30:23,254 --> 00:30:29,884
+Peck: Myself, I've been, I got 
+a couple of small little crashes in the UI,
+
+611
+00:30:29,884 --> 00:30:32,686
+stuff like that, that I've been fixing.
+
+612
+00:30:32,686 --> 00:30:36,034
+And but yeah, mostly like, 
+these are my bugs right now.
+
+613
+00:30:36,034 --> 00:30:41,475
+They all fit on one span of the window, 
+so it's like, things are going well.
+
+614
+00:30:41,475 --> 00:30:44,254
+Schafer: How many 
+bugs are left in Bugzilla?
+
+615
+00:30:44,254 --> 00:30:46,486
+Is it really a sizeable amount still?
+
+616
+00:30:48,363 --> 00:30:51,588
+Crook: Yeah. I mean these are all, 
+they're all, they're, most of them are minor.
+
+617
+00:30:51,588 --> 00:30:53,236
+Schafer: Who's making all these bugs?
+
+618
+00:30:53,236 --> 00:30:54,134
+Crook: I mean they're just minor
+
+619
+00:30:54,134 --> 00:30:57,344
+but we know the game's coming 
+out again, you know, as the final.
+
+620
+00:30:57,344 --> 00:31:00,894
+So, so we just want to 
+make it as good as we can.
+
+621
+00:31:00,894 --> 00:31:04,646
+We're going to be, most of 
+us will roll off on Monday,
+
+622
+00:31:04,646 --> 00:31:07,153
+onto other things for a while.
+
+623
+00:31:07,153 --> 00:31:08,124
+And come back.
+
+624
+00:31:08,124 --> 00:31:09,167
+Schafer: OK, great.
+
+625
+00:31:09,167 --> 00:31:10,411
+Crook: We're going to have to 
+assess at the end of the month,
+
+626
+00:31:10,411 --> 00:31:18,493
+we got to figure out how much 
+work is ready to just start doing.
+
+627
+00:31:19,654 --> 00:31:24,352
+Crook: Sorry. So yeah.
+
+628
+00:31:24,352 --> 00:31:27,785
+Which, you know, some of the script 
+is written but there's still more to go.
+
+629
+00:31:27,785 --> 00:31:32,418
+So I'm not sure how much work 
+there will be, just for the first,
+
+630
+00:31:32,418 --> 00:31:33,785
+you know, couple weeks.
+
+631
+00:31:33,785 --> 00:31:36,159
+So we got to keep people busy, though.
+
+632
+00:31:36,159 --> 00:31:39,234
+We had three of our animators 
+actually go off the project now,
+
+633
+00:31:39,234 --> 00:31:41,359
+so they've moved onto other projects.
+
+634
+00:31:41,359 --> 00:31:43,137
+Roberts: I'm leaving Broken Age.
+
+635
+00:31:43,137 --> 00:31:47,528
+Because I'm moving onto 
+another unannounced project.
+
+636
+00:31:47,528 --> 00:31:54,033
+And they'll be, the rest of the Broken 
+Age team that's left on that project,
+
+637
+00:31:54,033 --> 00:31:57,205
+they're going to continue 
+on Broken Age Part Two.
+
+638
+00:31:57,205 --> 00:32:00,834
+So yeah, the nature of 
+this new project is such
+
+639
+00:32:00,834 --> 00:32:06,887
+that I don't see myself going over 
+and helping out on Act Two at all.
+
+640
+00:32:06,887 --> 00:32:11,725
+But you know, that's famous 
+last words, so it could happen.
+
+641
+00:32:11,725 --> 00:32:13,942
+I would love to, at 
+least animate something,
+
+642
+00:32:13,942 --> 00:32:17,348
+but we are getting pretty busy 
+around here with other things
+
+643
+00:32:17,348 --> 00:32:23,410
+so yeah, that, that 
+I can't see happening.
+
+644
+00:32:23,410 --> 00:32:24,844
+Offscreen Voice: 
+Was it nice while it lasted?
+
+645
+00:32:24,844 --> 00:32:26,257
+Roberts: It was, yeah, yeah.
+
+646
+00:32:26,257 --> 00:32:31,356
+It was a nice, I wasn't really 
+expecting to work on this project at all,
+
+647
+00:32:31,356 --> 00:32:32,785
+so it was kind of a nice surprise.
+
+648
+00:32:32,785 --> 00:32:35,920
+And it was something 
+that I wanted to work on.
+
+649
+00:32:35,920 --> 00:32:39,476
+Of course, you know, everyone here 
+wanted to, well, most people here,
+
+650
+00:32:39,476 --> 00:32:40,752
+I can't say everyone,
+
+651
+00:32:40,752 --> 00:32:42,389
+but most people here 
+wanted to, you know,
+
+652
+00:32:42,389 --> 00:32:44,477
+at least put their 
+hands on this because,
+
+653
+00:32:44,477 --> 00:32:48,399
+just because it made 
+history for you know,
+
+654
+00:32:48,399 --> 00:32:52,589
+not to sound too grandiose about 
+it, but that's what it did, right?
+
+655
+00:32:52,589 --> 00:32:55,332
+I mean, there is history 
+that was made here.
+
+656
+00:32:55,332 --> 00:32:59,365
+And so everyone that saw that, 
+you know, thinks wow, yeah,
+
+657
+00:32:59,365 --> 00:33:04,721
+that's something I at least want 
+to put something in there.
+
+658
+00:33:04,721 --> 00:33:12,447
+So OK. Goodbye, Broken Age.
+
+659
+00:33:12,447 --> 00:33:19,498
+Goodbye 2HB. Goodbye, Maya.
+
+660
+00:33:19,498 --> 00:33:23,148
+Goodbye Double Fine.
+
+661
+00:33:23,148 --> 00:33:25,389
+Schafer: So we'll launch the 
+game tomorrow and hopefully
+
+662
+00:33:25,389 --> 00:33:29,653
+if we're not all here fixing bugs, 
+we'll get to go out and have another,
+
+663
+00:33:29,653 --> 00:33:31,982
+we'll go back to Red's, I hope.
+
+664
+00:33:31,982 --> 00:33:33,994
+If it's still standing.
+
+665
+00:33:33,994 --> 00:33:35,829
+And take the team out for drinks.
+
+666
+00:33:35,829 --> 00:33:39,012
+And before they all roll off, 
+temporarily, onto other projects,
+
+667
+00:33:39,012 --> 00:33:41,230
+I'd like to have them all hang out.
+
+668
+00:33:41,230 --> 00:33:44,125
+Go have a drink and celebrate.
+
+669
+00:33:44,125 --> 00:33:47,052
+'Cause it's weird, it's like, you wish 
+these launches were super-clean,
+
+670
+00:33:47,052 --> 00:33:49,622
+like everyone could just 
+say, everything was great!
+
+671
+00:33:49,622 --> 00:33:52,466
+So hopefully, I mean, time 
+usually just washes away
+
+672
+00:33:52,466 --> 00:33:53,864
+all the smaller things that happened,
+
+673
+00:33:53,864 --> 00:33:58,428
+like that embargo thing and all 
+that other stuff will be forgotten.
+
+674
+00:33:58,428 --> 00:34:03,160
+And people will just remember how 
+we didn't have mouse sensitivity
+
+675
+00:34:03,160 --> 00:34:05,440
+when we launched and now we do.
+
+676
+00:34:05,440 --> 00:34:07,960
+No, that won't be the thing. Maybe.
+
+677
+00:34:09,835 --> 00:34:13,161
+Rice: It's Elijah Wood's birthday today. 
+Bailey: Oh wow.
+
+678
+00:34:13,161 --> 00:34:16,020
+Rice: So this is a good birthday present, right? 
+Bailey: Yeah.
+
+679
+00:34:16,021 --> 00:34:19,190
+Rice: Tim, call Elijah and wish 
+and wish him a happy birthday.
+
+680
+00:34:19,190 --> 00:34:21,978
+Schafer: Call him? Rice: Yeah, 
+like you do with your mom.
+
+681
+00:34:21,978 --> 00:34:25,118
+Schafer: Hey, Elijah! 
+Happy birthday. Oh, shoot.
+
+682
+00:34:25,120 --> 00:34:26,340
+[Phone rings]
+
+683
+00:34:29,443 --> 00:34:31,458
+Bailey: Yeah. It's interesting, though.
+
+684
+00:34:31,458 --> 00:34:34,336
+You think about Tim, like he's been 
+working on this game for two years.
+
+685
+00:34:34,337 --> 00:34:37,802
+It's now being commercially 
+released but so much goes into,
+
+686
+00:34:37,802 --> 00:34:39,829
+you know, the lead up to this.
+
+687
+00:34:39,829 --> 00:34:40,949
+And I guess I could understand.
+
+688
+00:34:40,949 --> 00:34:43,287
+It's a little anti-climactic 
+when you sit here
+
+689
+00:34:43,288 --> 00:34:47,525
+and you just kind of like refresh 
+the webpage and look at numbers.
+
+690
+00:34:47,525 --> 00:34:52,177
+The interesting thing about price, though, 
+is you know, we can charge 29 bucks
+
+691
+00:34:52,178 --> 00:34:55,686
+and because I used to 
+actually work with, you know,
+
+692
+00:34:55,686 --> 00:35:00,145
+at a publisher who did, you 
+know, significant retail presence,
+
+693
+00:35:00,145 --> 00:35:03,479
+I know the PNLs and like, 
+literally our profit margin
+
+694
+00:35:03,479 --> 00:35:08,178
+and the profit margin we 
+have for like a $59 box product,
+
+695
+00:35:08,178 --> 00:35:11,399
+are the same thing, because with 
+the box product you got to like,
+
+696
+00:35:11,399 --> 00:35:12,469
+you got preprint the stuff.
+
+697
+00:35:12,469 --> 00:35:17,349
+You got all the materials, you got to 
+ship it and you got to store it, you know.
+
+698
+00:35:17,349 --> 00:35:19,094
+The extra store will take their cut.
+
+699
+00:35:19,094 --> 00:35:21,623
+There will be price protection involved.
+
+700
+00:35:21,623 --> 00:35:24,156
+There's a huge amount of 
+expense that goes into it.
+
+701
+00:35:24,156 --> 00:35:27,612
+That like, yeah.
+
+702
+00:35:27,612 --> 00:35:29,449
+Profit margins are equal.
+
+703
+00:35:29,449 --> 00:35:34,569
+So we just got a lot, 
+we got rid of a lot of waste.
+
+704
+00:35:34,569 --> 00:35:36,689
+Oh, there it is.
+
+705
+00:35:36,689 --> 00:35:38,447
+Rice: All right, Justin. We're live.
+
+706
+00:35:38,447 --> 00:35:39,749
+Bailey: I see it.
+
+707
+00:35:39,749 --> 00:35:41,454
+Rice: I'm going to push the update.
+
+708
+00:35:41,454 --> 00:35:45,065
+Bailey: Good. Do it.
+
+709
+00:35:45,065 --> 00:35:47,663
+Bailey: And it's interesting, 'cause they'd 
+like, when you get in a top position,
+
+710
+00:35:47,663 --> 00:35:49,425
+it's probably at least a 
+hundred, a hundred thousand,
+
+711
+00:35:49,425 --> 00:35:51,133
+a hundred fifty thousand dollars.
+
+712
+00:35:51,133 --> 00:35:54,408
+But it actually could be way north 
+of that and I'd have no idea,
+
+713
+00:35:54,408 --> 00:35:56,937
+because you're number one, right?
+
+714
+00:35:56,937 --> 00:35:59,655
+So you could be very, very high up.
+
+715
+00:35:59,655 --> 00:36:01,716
+But that would be, that would 
+be an amazing day for us,
+
+716
+00:36:01,716 --> 00:36:03,926
+we could, we get in that top position.
+
+717
+00:36:03,926 --> 00:36:06,846
+Schafer: Sitting at my desk, looking at 
+a picture of me sitting at my desk.
+
+718
+00:36:09,420 --> 00:36:13,600
+[Hums to self]
+
+719
+00:36:15,532 --> 00:36:18,745
+Bailey: It's about an hour 
+and twenty minutes delayed.
+
+720
+00:36:20,850 --> 00:36:25,516
+Bailey: Yeah. That will be when 
+we actually see something.
+
+721
+00:36:25,516 --> 00:36:29,181
+I'll know at 11:00, 11:30 
+I'll have like the first indication.
+
+722
+00:36:29,181 --> 00:36:32,801
+I think the hour of celebration 
+or reckoning or both has come.
+
+723
+00:36:35,144 --> 00:36:36,401
+Schafer: No, it's not Raz.
+
+724
+00:36:36,401 --> 00:36:39,092
+I don't see any boobs 
+or penises on anything.
+
+725
+00:36:39,092 --> 00:36:40,312
+Choy: You have to look more closely.
+
+726
+00:36:42,700 --> 00:36:44,020
+Are you guys doing a standup?
+
+727
+00:36:44,020 --> 00:36:47,000
+Schafer: We are going to do 
+standups. Standups? Rice: Yeah.
+
+728
+00:36:47,100 --> 00:36:50,141
+Schafer: Whoever's left, whoever's left 
+on the team, come on to standups.
+
+729
+00:36:50,399 --> 00:36:55,357
+We're now live for everybody in the 
+world to buy the game on Steam.
+
+730
+00:36:55,357 --> 00:36:56,818
+That's it. That's all I 
+had to say today.
+
+731
+00:36:56,818 --> 00:36:59,368
+OK. So Part Two.
+
+732
+00:36:59,368 --> 00:37:00,248
+It's like a back massage.
+
+733
+00:37:00,248 --> 00:37:01,620
+Bailey: Oh yeah, it's pretty good.
+That's not bad.
+
+734
+00:37:03,600 --> 00:37:05,920
+It's not, it's not as good now.
+
+735
+00:37:08,060 --> 00:37:10,084
+Schafer: It feels nice, yeah.
+
+736
+00:37:10,084 --> 00:37:12,997
+Schafer: So if the sales aren't good, 
+I'll immediately smash your head with this
+
+737
+00:37:13,000 --> 00:37:15,825
+so that you won't ever feel 
+the pain of seeing bad sales.
+
+738
+00:37:15,825 --> 00:37:17,376
+Bailey: That's good. Deal.
+
+739
+00:37:17,480 --> 00:37:19,383
+All right, we doing this?
+
+740
+00:37:19,528 --> 00:37:25,688
+Let's do, let's first just look 
+at the, let's see, Top Ten List.
+
+741
+00:37:25,949 --> 00:37:27,103
+Schafer: I'm not going to look.
+
+742
+00:37:27,103 --> 00:37:28,083
+Bailey: Not looking at Top Ten List?
+
+743
+00:37:28,083 --> 00:37:29,120
+Schafer: I don't care.
+
+744
+00:37:29,120 --> 00:37:30,319
+I'm not going to look.
+
+745
+00:37:30,319 --> 00:37:32,019
+Oh, oh! Look at that! Schafer: Holy cow!
+
+746
+00:37:32,019 --> 00:37:35,034
+Bailey: You're number 
+two on new releases.
+
+747
+00:37:35,034 --> 00:37:37,483
+That has no component to sales.
+
+748
+00:37:37,483 --> 00:37:41,257
+But top sellers, we are number four.
+
+749
+00:37:41,257 --> 00:37:43,871
+All right. Whoa!
+
+750
+00:37:43,871 --> 00:37:45,271
+Oh, this is refreshed, the new releases.
+
+751
+00:37:45,280 --> 00:37:48,500
+Still number four. OK, cool. Sweet!
+
+752
+00:37:51,735 --> 00:37:54,496
+Fifty thousand, five ninety-nine.
+
+753
+00:37:54,496 --> 00:37:57,885
+That is 2,000 units on Steam. 
+Schafer: Hm?
+
+754
+00:37:57,885 --> 00:38:00,023
+Bailey: That's 2,000 units on Steam.
+
+755
+00:38:00,023 --> 00:38:01,158
+Yeah, this is good.
+
+756
+00:38:01,158 --> 00:38:02,567
+This will, this will be good.
+
+757
+00:38:02,567 --> 00:38:05,687
+If we get over 100K today, 
+I think that's a, it's a very good day
+
+758
+00:38:05,687 --> 00:38:09,722
+and I expect that European 
+sales usually hit overnight.
+
+759
+00:38:09,722 --> 00:38:11,782
+So I would expect that to double.
+
+760
+00:38:13,736 --> 00:38:15,671
+Schafer: Double today. Bailey: Yeah.
+
+761
+00:38:15,671 --> 00:38:16,814
+Schafer: By the end of the day.
+
+762
+00:38:16,814 --> 00:38:18,178
+Bailey: Between now 
+and the end of the day.
+
+763
+00:38:18,178 --> 00:38:19,479
+Probably more than double.
+
+764
+00:38:19,479 --> 00:38:23,723
+This'll probably be like, 
+I would say like 125 to 150,
+
+765
+00:38:23,723 --> 00:38:28,554
+which means that would take us over 
+nine million for Double Fine lifetime revenue.
+
+766
+00:38:28,554 --> 00:38:31,840
+Schafer: Hm. 
+Bailey: It should be very, very cool.
+
+767
+00:38:31,840 --> 00:38:35,627
+And I actually expect, I do 
+expect the trend of the game to,
+
+768
+00:38:35,627 --> 00:38:38,338
+to stay, we'll have a spike right now,
+
+769
+00:38:38,338 --> 00:38:41,778
+but I think it'll actually be pretty 
+steady after that, so that's good.
+
+770
+00:38:45,052 --> 00:38:47,314
+Schafer: OK. Now pretend the 
+cameras are off now. Bailey: Now pretend?
+
+771
+00:38:47,314 --> 00:38:48,789
+Schafer: Tell me what you really think.
+
+772
+00:38:48,789 --> 00:38:50,416
+Bailey: It's, it is what I expected.
+
+773
+00:38:50,416 --> 00:38:55,916
+Schafer: OK. All right. Exciting. Cool.
+
+774
+00:38:57,852 --> 00:38:59,178
+Now I don't want anyone to look at it.
+
+775
+00:38:59,178 --> 00:39:01,838
+I guess I'll go deisgn 
+Act Two. Bailey: Yeah.
+
+776
+00:39:02,840 --> 00:39:03,995
+Offscreen Voice: It's 
+not earth shattering.
+
+777
+00:39:04,588 --> 00:39:08,581
+Bailey: It's not earth shattering, but it's 
+on track to do what we need it to do,
+
+778
+00:39:08,581 --> 00:39:11,901
+you know, to get the 
+game finished this year.
+
+779
+00:39:13,812 --> 00:39:15,941
+The only unfortunate part 
+about this whole thing is that
+
+780
+00:39:15,941 --> 00:39:18,628
+I was looking at 
+all of our news broadcasts
+
+781
+00:39:18,628 --> 00:39:21,341
+and basically, you know, 
+basic, all the news,
+
+782
+00:39:21,341 --> 00:39:25,488
+all the exposure went out when 
+the backers got it, like two weeks ago.
+
+783
+00:39:25,488 --> 00:39:28,977
+And people didn't have a 
+chance to literally like, you know,
+
+784
+00:39:28,977 --> 00:39:32,648
+hey, I'll, I'll buy it now 
+and I can play it now.
+
+785
+00:39:32,648 --> 00:39:39,577
+You know, that's hard to, as like a, 
+you know, value proposition for consumer,
+
+786
+00:39:39,577 --> 00:39:41,600
+it's hard to see everybody 
+talking about this and be like,
+
+787
+00:39:41,600 --> 00:39:45,963
+oh, I can pay for it and 
+still not get to play it.
+
+788
+00:39:45,963 --> 00:39:48,063
+But it'll hopefully come out in the wash.
+
+789
+00:39:55,221 --> 00:39:59,801
+Rice: It was the last, 
+I think it was very last bar.
+
+790
+00:40:03,886 --> 00:40:08,052
+Schafer: I think we can confirm now 
+that we chose the right code name.
+
+791
+00:40:08,052 --> 00:40:11,299
+It didn't sound like the right code 
+name, but now look at it; Red's.
+
+792
+00:40:11,299 --> 00:40:32,887
+[Music]
+
+793
+00:40:32,887 --> 00:40:35,980
+Schafer: Yeah. Let's talk about that.
+
+794
+00:40:35,980 --> 00:40:37,483
+We shipped Red's last week.
+
+795
+00:40:37,483 --> 00:40:38,544
+I don't know if you guys noticed that.
+
+796
+00:40:38,544 --> 00:40:40,193
+We shipped the game, it was awesome.
+
+797
+00:40:40,193 --> 00:40:41,364
+Yah, Red's.
+
+798
+00:40:41,364 --> 00:40:43,079
+[Applause].
+
+799
+00:40:43,079 --> 00:40:46,121
+It has, everybody 
+claps just for shipping it.
+
+800
+00:40:46,121 --> 00:40:48,891
+I think I've gotten claps 
+out of you guys for like...
+
+801
+00:40:49,420 --> 00:40:50,406
+Schafer: Yeah, yeah, yeah.
+
+802
+00:40:50,406 --> 00:40:52,235
+And next week we're shipping Red's.
+
+803
+00:40:52,815 --> 00:40:56,644
+Next week it'll mean two 
+weeks since we shipped Red's.
+
+804
+00:40:56,644 --> 00:41:02,279
+It has, it has made about $800,000 
+so far on the old Steam thing, which is fun.
+
+805
+00:41:02,279 --> 00:41:06,038
+And so that is an interesting number,
+
+806
+00:41:06,038 --> 00:41:09,578
+because it was kind of a relief in 
+one hand because we were like,
+
+807
+00:41:09,578 --> 00:41:12,504
+get a lot of possibilities here, one of 
+them is that we don't make any money.
+
+808
+00:41:12,504 --> 00:41:14,275
+No one buys the game, 
+we can't make Part Two.
+
+809
+00:41:14,275 --> 00:41:17,554
+But I think we, luckily, because that would 
+have been an easy update, though.
+
+810
+00:41:17,554 --> 00:41:19,166
+We would have called 
+all the haters on Twitter
+
+811
+00:41:19,166 --> 00:41:23,240
+and just been like, you 
+guys were totally right.
+
+812
+00:41:23,240 --> 00:41:25,804
+I'm a huge a-hole and we're 
+not going to do Part Two.
+
+813
+00:41:25,804 --> 00:41:28,701
+But that doesn't seem 
+to be a risk anymore.
+
+814
+00:41:28,701 --> 00:41:31,257
+We are also kind of hoping like, 
+what if it made so much money
+
+815
+00:41:31,257 --> 00:41:33,370
+that we didn't ever have 
+to make games anymore?
+
+816
+00:41:33,370 --> 00:41:35,881
+We could just hang around and 
+play games all day in the office.
+
+817
+00:41:37,520 --> 00:41:39,314
+Schafer: And we also don't make Act Two.
+
+818
+00:41:39,320 --> 00:41:41,280
+Yeah, either way Act Two is like.
+
+819
+00:41:43,591 --> 00:41:49,213
+Yeah, I mean, that's not a big enough 
+number that we're going to be immediately,
+
+820
+00:41:49,213 --> 00:41:52,019
+completely independent 
+of publishers this year,
+
+821
+00:41:52,019 --> 00:41:54,438
+like it was a secret back 
+in my head, kind of hope.
+
+822
+00:41:54,438 --> 00:41:57,043
+Where all my hopes are 
+in the back of my head.
+
+823
+00:41:57,043 --> 00:41:58,554
+Any other questions?
+
+824
+00:42:04,485 --> 00:42:10,028
+Schafer: It's just under 
+20,000, I think. So, so far.
+
+825
+00:42:11,424 --> 00:42:14,084
+Schafer: We are. Yeah, so that's 
+just to finish the whole Red's update.
+
+826
+00:42:14,084 --> 00:42:17,308
+What the team is working on now is 
+a lot of, instead of diving into Part Two,
+
+827
+00:42:17,308 --> 00:42:18,499
+is actually platform work.
+
+828
+00:42:18,499 --> 00:42:25,139
+You get it out on more platforms to sell 
+it on like IOS and the other platforms.
+
+829
+00:42:29,658 --> 00:42:32,215
+Schafer: Sooner than we had 
+previously thought we were going to do it.
+
+830
+00:42:32,215 --> 00:42:35,012
+Skillman: So it would be 
+Act One available on iOS.
+
+831
+00:42:35,012 --> 00:42:37,613
+Schafer: Yeah. OK. Let's talk about PR.
+
+832
+00:42:37,613 --> 00:42:39,345
+PR. What happened in 
+the world of PR last week?
+
+833
+00:42:39,345 --> 00:42:41,246
+Rice: Well, like you said 
+we launched Broken Age.
+
+834
+00:42:41,246 --> 00:42:43,308
+So it's been a lot of, yay! Yay!
+
+835
+00:42:43,308 --> 00:42:46,411
+[Applause].
+
+836
+00:42:46,411 --> 00:42:48,001
+Yeah. So it's been trying to keep
+
+837
+00:42:48,001 --> 00:42:50,917
+that conversation going in 
+the public as much as possible.
+
+838
+00:42:50,917 --> 00:42:53,463
+So those are ongoing 
+kind of conversations.
+
+839
+00:42:53,463 --> 00:42:57,172
+But yeah, now we're kind 
+of shifting focus to AF stuff
+
+840
+00:42:57,172 --> 00:43:00,561
+and getting everything ready 
+to announce and launch that thing.
+
+841
+00:43:02,540 --> 00:43:04,860
+Schafer: Yeah, OK, that's it.
+
+842
+00:43:04,860 --> 00:43:08,540
+I think all of you would agree with 
+me that Chris Remo's a big jerk.
+
+843
+00:43:08,943 --> 00:43:10,548
+I think, yeah.
+
+844
+00:43:10,548 --> 00:43:13,305
+[Scattered applause]
+
+845
+00:43:13,305 --> 00:43:16,043
+And furthermore we were all talking 
+about it and decided we didn't like him.
+
+846
+00:43:16,043 --> 00:43:20,164
+So I don't want that to influence you 
+at all, but I think we need to have,
+
+847
+00:43:20,164 --> 00:43:24,103
+Chris Remo is moving onto 
+hang out with his friends,
+
+848
+00:43:24,103 --> 00:43:26,873
+which is bad news for all of 
+his, whatever you guys are.
+
+849
+00:43:31,160 --> 00:43:32,500
+But, I've been saving that one all week.
+
+850
+00:43:35,078 --> 00:43:37,426
+So, but you're still here right now so,
+
+851
+00:43:37,426 --> 00:43:41,663
+what happened last week in the world 
+of the community of Double Fine?
+
+852
+00:43:41,663 --> 00:43:43,570
+Remo: An important 
+thing for our community
+
+853
+00:43:43,570 --> 00:43:49,410
+is that we launched 
+Broken Age [applause].
+
+854
+00:43:52,472 --> 00:43:55,852
+That actually has been a cool thing 
+to see because I'm seeing a lot of stuff
+
+855
+00:43:55,852 --> 00:43:59,756
+from people who have never even 
+necessarily played adventure games before.
+
+856
+00:43:59,756 --> 00:44:01,349
+Schafer: I love all those people.
+
+857
+00:44:01,349 --> 00:44:03,382
+Remo: Yeah. I mean there's, it's 
+actually been kind of awesome to see,
+
+858
+00:44:03,382 --> 00:44:06,657
+because a lot of them, you know, 
+like with adventure game fans,
+
+859
+00:44:06,657 --> 00:44:10,420
+people come to, people come 
+to it with like preconceptions
+
+860
+00:44:10,420 --> 00:44:13,159
+and like all the, you know, the history 
+that they have with the genre.
+
+861
+00:44:13,159 --> 00:44:14,616
+And that's cool 
+because that's the people
+
+862
+00:44:14,616 --> 00:44:16,765
+that the game was 
+inspired by in the first place.
+
+863
+00:44:16,765 --> 00:44:19,579
+But it's also really cool to see 
+all the reactions from people
+
+864
+00:44:19,579 --> 00:44:24,070
+who don't have those preconceptions, 
+because they'll be like, yeah,
+
+865
+00:44:24,070 --> 00:44:25,033
+so I was playing this thing
+
+866
+00:44:25,033 --> 00:44:26,778
+and like I didn't know what it 
+was and it seemed pretty cool.
+
+867
+00:44:26,778 --> 00:44:29,450
+You just kind of walk around 
+and like cool stuff happens.
+
+868
+00:44:29,450 --> 00:44:31,370
+And like it was actually really awesome.
+
+869
+00:44:31,370 --> 00:44:34,511
+And that kind of thing 
+is surprisingly cool to read.
+
+870
+00:44:34,511 --> 00:44:36,241
+So I've been trying to 
+keep up with that stuff,
+
+871
+00:44:36,241 --> 00:44:40,426
+just around the web and it's 
+been really inspiring and awesome.
+
+872
+00:44:40,426 --> 00:44:41,046
+Schafer: Anything else?
+
+873
+00:44:41,046 --> 00:44:45,026
+Mr. Remo? Anything? Anything else.
+
+874
+00:44:45,026 --> 00:44:46,913
+Remo: I will miss you guys a lot.
+
+875
+00:44:46,920 --> 00:44:49,829
+I really loved working here a 
+lot and I'm bummed to be leaving.
+
+876
+00:44:49,829 --> 00:44:51,479
+Schafer: Well, we'll 
+miss you, wish you well
+
+877
+00:44:51,480 --> 00:44:53,531
+and we still think you're a big jerk.
+
+878
+00:44:55,780 --> 00:44:56,691
+Who agrees with me?
+
+879
+00:44:56,691 --> 00:45:01,401
+[Applause]
+
+880
+00:45:01,401 --> 00:45:38,341
+[Music]
+
+881
+00:45:42,140 --> 00:45:46,942
+Offscreen Voice: [singing] I guess 
+he's not a monster, but he's so far away.
+
+882
+00:45:47,060 --> 00:45:56,160
+Shay, we're meant to 
+be for longer than forever.
+
+883
+00:45:56,300 --> 00:45:57,683
+Offscreen Voice: Who cares about Shay?
+
+884
+00:45:57,683 --> 00:45:59,339
+I have evil deeds to do.
+
+885
+00:45:59,340 --> 00:46:03,072
+I used to be good like 
+everyone else and Shay, but no!
+
+886
+00:46:03,335 --> 00:46:05,475
+I am actually evil.
+
+887
+00:46:05,720 --> 00:46:09,111
+Offscreen Voice: [singing] 
+for longer than forever.
+
+888
+00:46:09,780 --> 00:46:12,434
+As constant as the stars.
+
+889
+00:46:12,434 --> 00:46:18,734
+I close my eyes and I am where you are.
+

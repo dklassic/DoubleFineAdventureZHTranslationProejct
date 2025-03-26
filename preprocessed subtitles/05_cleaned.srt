@@ -1,0 +1,1412 @@
+1
+00:00:00,440 --> 00:00:24,840
+[Music] Petty: So I can double-check that he put everything up.
+
+2
+00:00:25,380 --> 00:00:30,660
+The rest of them, I'm going to scan them all, yeah, so we can have them.
+
+3
+00:00:30,660 --> 00:00:32,560
+We have a, you know, our concept art directory.
+
+4
+00:00:32,560 --> 00:00:41,640
+You know, in theory if all the puzzles were done and the things were decided on, we could actually make a pretty functional game with really rough art early on
+
+5
+00:00:41,640 --> 00:00:45,966
+to sort of unblock the puzzle design or implementation.
+
+6
+00:00:45,966 --> 00:00:49,054
+And some of the systems work, which would be nice.
+
+7
+00:00:49,060 --> 00:00:49,838
+I'm not sure.
+
+8
+00:00:49,840 --> 00:00:53,580
+I'm a big fan of working that way, but I'm not sure if we'll be able to do it for this project or not.
+
+9
+00:00:53,580 --> 00:00:56,800
+We'll have to see how that works out.
+
+10
+00:01:04,340 --> 00:01:32,316
+[Music] Rice: Yep.
+
+11
+00:01:32,320 --> 00:01:36,317
+If you're always showing this board, won't they get spoilers from the board?
+
+12
+00:01:36,320 --> 00:01:41,300
+So just to bring us up to date, I need another location for the cloud nest.
+
+13
+00:01:41,300 --> 00:01:43,360
+Things that came up from the art jam.
+
+14
+00:01:43,880 --> 00:01:45,580
+Cloud nests.
+
+15
+00:01:45,840 --> 00:01:48,160
+Rice: You can tell that that's going to look awesome.
+
+16
+00:01:49,060 --> 00:01:51,120
+Schafer: The first thing Peter mentioned, too.
+
+17
+00:01:51,820 --> 00:01:53,680
+Rice: Yeah, I think he drew that the first day.
+
+18
+00:01:57,000 --> 00:01:59,980
+Schafer: And then the other one is the dead-eye pyramid.
+
+19
+00:02:02,020 --> 00:02:03,440
+Rice: Why is it dead-eye?
+
+20
+00:02:04,560 --> 00:02:06,860
+Schafer: Spoiler. Can't tell you.
+
+21
+00:02:07,400 --> 00:02:09,760
+Rice: I have to play the game to find out?
+
+22
+00:02:13,960 --> 00:02:18,940
+Schafer: These things all still work but maybe this becomes his story.
+
+23
+00:02:19,320 --> 00:02:22,580
+The monster lands move over here.
+
+24
+00:02:23,300 --> 00:02:25,160
+Maybe that moves over there.
+
+25
+00:02:25,720 --> 00:02:34,840
+Rice: What I still am not clear on is, and I don't know if you are, is switching back and forth between these stories
+
+26
+00:02:35,060 --> 00:02:36,460
+and how we're going to handle that.
+
+27
+00:02:36,700 --> 00:02:37,780
+Schafer: Yeah.
+
+28
+00:02:38,540 --> 00:02:39,840
+I'm putting that off.
+
+29
+00:02:39,840 --> 00:02:42,102
+Rice: Yeah. Start thinking about it.
+
+30
+00:02:42,260 --> 00:02:47,913
+So I'm just wondering then, like if I'm here, here and here and I jump back to this, then what's the world like?
+
+31
+00:02:47,920 --> 00:02:54,220
+Like why can't I do this and what happens that makes me so I can do this?
+
+32
+00:02:55,400 --> 00:02:57,680
+Schafer: I don't know. I don't know yet.
+
+33
+00:03:00,760 --> 00:03:02,420
+Schafer: I've been a little behind.
+
+34
+00:03:02,420 --> 00:03:09,663
+It's frustrating because I, when the team is waiting for you, that's always frustrating, so.
+
+35
+00:03:09,663 --> 00:03:10,463
+It's always been that way.
+
+36
+00:03:10,463 --> 00:03:16,080
+Like having an absolutely terrifying deadline is the only thing that, makes me get it done.
+
+37
+00:03:16,420 --> 00:03:24,007
+There's just so many other things going on with the company right now that, you know, The Cave is getting to this point where it needs, you know,
+
+38
+00:03:24,007 --> 00:03:26,047
+it has a dialogue deadline of its own.
+
+39
+00:03:26,047 --> 00:03:30,227
+You know, and do I help with that or do I work on this game?
+
+40
+00:03:31,560 --> 00:03:32,480
+Suck it!
+
+41
+00:03:32,480 --> 00:03:48,943
+[Monster Roar] Schafer: Peter McConnell's here today.
+
+42
+00:03:48,943 --> 00:03:51,034
+It's fun to see what he's going to add to it.
+
+43
+00:03:51,040 --> 00:03:52,480
+Schafer: So the game.
+
+44
+00:03:52,480 --> 00:03:53,460
+You see, we did some art already.
+
+45
+00:03:53,460 --> 00:03:59,234
+We had art jam with Peter Chan and Scott Campbell and Nathan came to town and hung out with Lee, and did some art.
+
+46
+00:03:59,360 --> 00:04:00,140
+And that's cool.
+
+47
+00:04:00,140 --> 00:04:01,445
+And that corkboard is kind of up-to-date.
+
+48
+00:04:01,445 --> 00:04:07,111
+I could add some as we talk, but we're doing a point and click graphic adventure.
+
+49
+00:04:07,120 --> 00:04:10,560
+I don't know if you heard that. McConnell: Very cool.
+
+50
+00:04:11,160 --> 00:04:15,249
+Schafer: So it doesn't have a high concept in terms of like a heavy metal fantasy world or the Day of the Dead.
+
+51
+00:04:15,249 --> 00:04:19,386
+It's really like a new world that we're making up based on Nathan Stapley's art.
+
+52
+00:04:19,386 --> 00:04:26,500
+You know, just having that cool look and having it be about themes that are different, maybe than other themes.
+
+53
+00:04:26,500 --> 00:04:28,161
+McConnell: Yeah. I've got questions.
+
+54
+00:04:28,960 --> 00:04:31,736
+Schafer: There'll be no questions during this meeting.
+
+55
+00:04:31,900 --> 00:04:35,160
+Schafer: Is Peter McConnell excited to be on the project?
+
+56
+00:04:35,160 --> 00:04:37,397
+You're asking me if he's excited?
+
+57
+00:04:37,500 --> 00:04:38,321
+I think so.
+
+58
+00:04:38,321 --> 00:04:39,441
+We always enjoyed working together.
+
+59
+00:04:39,441 --> 00:04:44,521
+You know, he's worked on everything I've done since Day of the Tentacle, Monkey II, Monkey II.
+
+60
+00:04:44,521 --> 00:04:45,701
+Offscreen Voice: He's like your Danny Elfman.
+
+61
+00:04:45,701 --> 00:04:46,521
+Schafer: He's what?
+
+62
+00:04:46,521 --> 00:04:47,572
+Offscreen Voice: He's like your Danny Elfman.
+
+63
+00:04:47,640 --> 00:04:49,000
+Schafer: He's like my Danny Elfman.
+
+64
+00:04:49,000 --> 00:04:50,321
+He can do Danny Elfman if you ask him to.
+
+65
+00:04:50,940 --> 00:04:53,140
+McConnell: I'm just thinking about instruments, you know.
+
+66
+00:04:53,140 --> 00:04:56,278
+I'm thinking about styles and I'm probably going to have to think quite a bit about it,
+
+67
+00:04:56,280 --> 00:04:59,900
+because it's, I mean, I have some things that are popping into my head.
+
+68
+00:04:59,900 --> 00:05:03,935
+I don't know if they're probably way jumping the gun at this point.
+
+69
+00:05:03,940 --> 00:05:16,340
+But what comes to mind about, about a world where things are being made for you and it's like a playroom a little bit, is a music box.
+
+70
+00:05:18,460 --> 00:05:21,040
+And you know, a little bit like Mr. Roger's Neighborhood, which…
+
+71
+00:05:21,040 --> 00:05:22,887
+Schafer: It also has that repetitive quality to it.
+
+72
+00:05:23,160 --> 00:05:27,790
+Because the game is going to start in this like, his routine is the same every day, even though it's drastically different.
+
+73
+00:05:27,790 --> 00:05:30,625
+It's really like he wakes up, the robots dress him.
+
+74
+00:05:30,625 --> 00:05:34,141
+You know, the arms just come out of nowhere and make him dinner, food.
+
+75
+00:05:34,141 --> 00:05:38,678
+And then when he busts out and he's doing actual 90's, 80's creepy space adventure.
+
+76
+00:05:38,980 --> 00:05:40,888
+Or 2001 like.
+
+77
+00:05:40,888 --> 00:05:42,488
+McConnell: Yeah. Schafer: Yeah.
+
+78
+00:05:42,488 --> 00:05:51,260
+McConnell: Then 2001 would be, 2001 will be hard to do, you know, without a great big orchestra.
+
+79
+00:05:51,260 --> 00:05:52,900
+And I don't think we have that.
+
+80
+00:05:52,900 --> 00:05:55,608
+But I don't think, you know.
+
+81
+00:05:56,000 --> 00:05:59,551
+Schafer: And now it's like a little more like now we're running our own actual budget.
+
+82
+00:05:59,560 --> 00:06:04,738
+Schafer: It's like we have a certain amount of money in the budget for Peter, which means a certain amount of time.
+
+83
+00:06:04,740 --> 00:06:08,975
+And we have to like wait until we're ready for him to be really effective in working.
+
+84
+00:06:08,980 --> 00:06:13,080
+So we've got to be at a point where we can just tell him, here's a list of characters that need themes.
+
+85
+00:06:13,080 --> 00:06:18,523
+Here's a list of areas, 'cause he's got to spread out his time so he doesn't just score the first two acts and then run out of time.
+
+86
+00:06:18,523 --> 00:06:22,245
+So he's got to like spread it out, look at the whole game, think about the game play.
+
+87
+00:06:22,500 --> 00:06:26,880
+Then think about how much of that money he should save to pay for things like live musicians.
+
+88
+00:06:27,340 --> 00:06:28,560
+Studio time.
+
+89
+00:06:28,560 --> 00:06:32,780
+McConnell: Yeah, I think there is going to have to be a signature piece, for sure.
+
+90
+00:06:32,780 --> 00:06:39,660
+And that is, or you know, or two halves of the signature piece because you got these two worlds.
+
+91
+00:06:39,660 --> 00:06:41,510
+Min: Yeah, yeah, that, too.
+
+92
+00:06:41,720 --> 00:06:43,360
+Rice: It'll be interesting to see how we can handle that.
+
+93
+00:06:43,360 --> 00:06:50,020
+You know, like if there're themes that persist in both their worlds or you know, funny little things to do to connect their two.
+
+94
+00:06:50,020 --> 00:06:53,340
+Min: I think that Pete's going to be able to knock that out pretty easily.
+
+95
+00:06:53,340 --> 00:06:59,380
+I think it's more the initial, but then it's the same thing with Tim, you know, I mean you go crazy for two days
+
+96
+00:06:59,380 --> 00:07:02,860
+and then on the third day you just kind of come up with something.
+
+97
+00:07:02,860 --> 00:07:04,858
+You know, that's how creative magic happens.
+
+98
+00:07:04,860 --> 00:07:09,622
+I mean, and I think it's almost like you have to be patient with yourself and not, not panic.
+
+99
+00:07:10,320 --> 00:07:12,760
+McConnell: You know, that backer money don't last forever.
+
+100
+00:07:13,140 --> 00:07:14,680
+Rice: That's the truth.
+
+101
+00:07:14,880 --> 00:07:24,260
+Music Lumberjack: That's not a word, is it?
+
+102
+00:07:24,260 --> 00:07:25,700
+Tree: No. We're done here.
+
+103
+00:07:25,800 --> 00:07:29,740
+Kipnis: Yes! Schafer: Awesome. Done. Rice: Yeah.
+
+104
+00:07:29,740 --> 00:07:39,270
+For the last four months we've spent in preproduction mode and it's been kind of exploratory phase of trying to figure out what the game is
+
+105
+00:07:39,270 --> 00:07:44,300
+and both in terms of design, but also in how we're going to actually make that happen.
+
+106
+00:07:45,600 --> 00:07:52,247
+But yeah, everyone's kind of had their own separate little tasks and those are all starting to converge now to where
+
+107
+00:07:52,247 --> 00:07:55,867
+we're ready to start actually building a puzzle in the engine.
+
+108
+00:07:55,980 --> 00:07:58,180
+Crook: Actual production work is awesome.
+
+109
+00:07:58,180 --> 00:08:01,740
+Like we're going to go, this could get shipped.
+
+110
+00:08:01,740 --> 00:08:02,340
+Like this work.
+
+111
+00:08:02,340 --> 00:08:03,480
+Schafer: We'll see how it turns out.
+
+112
+00:08:03,480 --> 00:08:04,760
+Crook: Yeah, we'll see.
+
+113
+00:08:04,760 --> 00:08:08,220
+Rice: Ray Crook, Double Fine animator.
+
+114
+00:08:08,340 --> 00:08:15,242
+Yeah, Ray started on the project and he's been someone who's been at the company since like essentially the beginning.
+
+115
+00:08:15,242 --> 00:08:21,181
+Crook: I was excited to work with Tim again, because Brutal Legend was the last game that,
+
+116
+00:08:21,181 --> 00:08:24,454
+you know, we'd worked closely together on.
+
+117
+00:08:24,460 --> 00:08:27,985
+And so I was most excited just to work with him.
+
+118
+00:08:27,985 --> 00:08:32,025
+But you know, I knew there would be cameras.
+
+119
+00:08:33,260 --> 00:08:36,320
+Crook: So I'm actually excited to be starting on that.
+
+120
+00:08:36,980 --> 00:08:42,299
+Crook: You know, the beginning of preproduction is really exciting and then it seems like eventually it gets kind of like,
+
+121
+00:08:42,299 --> 00:08:43,979
+you're just kind of churning.
+
+122
+00:08:43,980 --> 00:08:49,050
+You know, I guess just, let's just get this show on the road, you know, is sort of the way that it feels.
+
+123
+00:08:49,050 --> 00:08:50,830
+And that's where we are.
+
+124
+00:08:53,340 --> 00:08:54,815
+Schafer: Awesome. Bye.
+
+125
+00:08:54,940 --> 00:09:00,956
+Crook: Tim has picked a puzzle, which we're calling First Playable.
+
+126
+00:09:00,960 --> 00:09:03,960
+Petty: So these are some of the stuff Peter gave me on Friday, right?
+
+127
+00:09:03,960 --> 00:09:09,020
+And so I think this is the stuff we talked about when he was here, which is the idea of them having this little sacrificial island, which is awesome.
+
+128
+00:09:09,020 --> 00:09:14,334
+Cakes, in a U. But I was still worried about like if you put this into game camera mode, game layout mode,
+
+129
+00:09:14,340 --> 00:09:15,940
+that'd be kind of blocked up.
+
+130
+00:09:15,940 --> 00:09:18,260
+And I did this real rough thing.
+
+131
+00:09:18,260 --> 00:09:19,940
+I just got Peter's revision, right.
+
+132
+00:09:19,940 --> 00:09:24,331
+And so this was the idea like from a game camera you would be, you would kind of start here.
+
+133
+00:09:24,340 --> 00:09:27,260
+So we could start with a pan and we kind of move up and we kind of…
+
+134
+00:09:27,260 --> 00:09:35,217
+Rice: But yeah, it's the scene where the main character, I mean main female character is being offered up for sacrifice to a monster.
+
+135
+00:09:35,260 --> 00:09:37,320
+Schafer: Could it show up just behind the princess?
+
+136
+00:09:37,320 --> 00:09:39,330
+You just see something like feet?
+
+137
+00:09:39,330 --> 00:09:41,050
+Like what the fuck is it!? Petty: Yeah.
+
+138
+00:09:41,050 --> 00:09:43,201
+Schafer: You can't see it all, then it comes between, like oh my God!
+
+139
+00:09:43,201 --> 00:09:44,234
+And it's gone.
+
+140
+00:09:44,600 --> 00:09:48,882
+You just never see it up close until it gets, comes in here and like eats that one.
+
+141
+00:09:49,240 --> 00:09:55,006
+Rice: Yeah, it's going to be a lot of work, for sure, because it's just a lot of animation and cut scenes.
+
+142
+00:09:55,006 --> 00:09:57,306
+So it's going to be a tough one.
+
+143
+00:09:57,580 --> 00:10:09,023
+Stapley: So you're saying for the end of this sprint we're really going to try to get the, get the sacrifice feast all set up?
+
+144
+00:10:09,023 --> 00:10:16,740
+'Cause that's the thing, like if every puzzle's going to have like say five or so new characters, that's like, kind of a lot of time.
+
+145
+00:10:16,740 --> 00:10:21,490
+Petty: Well, and that's exactly why we want to take this to finals, because it's just conjecture
+
+146
+00:10:21,490 --> 00:10:23,912
+until we kind of get an area to really know exactly how long.
+
+147
+00:10:23,920 --> 00:10:25,909
+I made estimates based on our progress.
+
+148
+00:10:25,909 --> 00:10:31,769
+Petty: Like there's always this period that when you start any game where you're trying to, you're trying to build it,
+
+149
+00:10:31,769 --> 00:10:39,138
+you're trying to build something both at like artistically you're like yeah, it's the right mood, that's the right game play, that's the right look.
+
+150
+00:10:39,140 --> 00:10:46,082
+But you're also trying to build something to get an idea of how long it takes you to build the rest of the game.
+
+151
+00:10:46,082 --> 00:10:49,338
+And part of that is you need, you need enough information about the rest of the game,
+
+152
+00:10:49,340 --> 00:10:52,534
+like you know, there's always this theoretical ideal that you never get.
+
+153
+00:10:52,540 --> 00:10:57,100
+Like the whole game is written, every puzzle's designed, you know, all the art direction's completely done.
+
+154
+00:10:57,100 --> 00:11:02,336
+I've never in my whatever years I've worked in the game industry, ever seen that happen.
+
+155
+00:11:02,340 --> 00:11:05,063
+Some projects are closer to that than others.
+
+156
+00:11:05,063 --> 00:11:07,543
+So there's a lot of uncertainty at that point.
+
+157
+00:11:07,600 --> 00:11:09,700
+Stapley: Yeah, sounds good and scary.
+
+158
+00:11:11,400 --> 00:11:13,279
+Schafer: Bagel, why you so scared?
+
+159
+00:11:13,280 --> 00:11:16,996
+Stapley: I think because I haven't seen anything like in the game yet, you know.
+
+160
+00:11:17,000 --> 00:11:18,880
+Like it's still the lumberjack dude.
+
+161
+00:11:18,880 --> 00:11:26,471
+I'd just love to see how easy it's going to be reshape things and put things in and take things out and change things and add things.
+
+162
+00:11:26,620 --> 00:11:31,049
+Petty: What you really have to do, I think, is lay the best foundation you can.
+
+163
+00:11:31,049 --> 00:11:35,599
+Be mindful of what you're making and then just be clever as you're making the game.
+
+164
+00:11:35,600 --> 00:11:42,324
+Look for opportunities to save time or to reuse things or to go in new directions that are just more efficient
+
+165
+00:11:42,324 --> 00:11:46,324
+or take some of the lessons you've learned from the earlier areas and adapt your later areas to it.
+
+166
+00:11:46,324 --> 00:11:52,044
+So, that's, and that's, that's what I try and do and I think most people on the team try to do it in any game.
+
+167
+00:11:52,300 --> 00:12:03,064
+[Music] Offscreen Voice: She wants to be skinny, right?
+
+168
+00:12:03,064 --> 00:12:03,744
+And look skinny.
+
+169
+00:12:03,744 --> 00:12:06,507
+So maybe it's something that helps her look slimmer sometime?
+
+170
+00:12:06,507 --> 00:12:08,527
+Schafer: Corset. Offscreen Voice: Yeah.
+
+171
+00:12:08,527 --> 00:12:10,427
+Schafer: But you put corset on the buzzard.
+
+172
+00:12:11,900 --> 00:12:13,659
+Oh, wait. That could be awesome.
+
+173
+00:12:13,660 --> 00:12:15,100
+Offscreen Voice: That could be totally awesome.
+
+174
+00:12:15,100 --> 00:12:18,720
+Schafer: So strange. A corset buzzard with a drumstick in his arm.
+
+175
+00:12:18,720 --> 00:12:20,521
+This is where I start getting interested.
+
+176
+00:12:21,060 --> 00:12:27,316
+Schafer: Like I haven't seen like the maiden feast thing all wired up yet, but that is in the game, I hear.
+
+177
+00:12:27,320 --> 00:12:28,461
+Have you seen that?
+
+178
+00:12:28,461 --> 00:12:30,001
+I've been out of it in meetings.
+
+179
+00:12:30,940 --> 00:12:32,821
+Things are happening so fast.
+
+180
+00:12:32,900 --> 00:12:36,344
+Petty: You know what did so far in it, is you know, we had this sort of layout drawing that we did.
+
+181
+00:12:36,344 --> 00:12:39,707
+And we took those layout drawings and cut them up.
+
+182
+00:12:39,707 --> 00:12:43,390
+And you can sort of see things exist in the tool here in parallax.
+
+183
+00:12:43,620 --> 00:12:48,706
+We don't have the game camera authored or anything, like you know, you could rough in the game play right now if you wanted to.
+
+184
+00:12:48,706 --> 00:12:50,455
+This isn't the, a real monster design.
+
+185
+00:12:50,460 --> 00:12:51,957
+That's not a real bird design.
+
+186
+00:12:51,960 --> 00:12:59,382
+Those aren't real character designs, but they are, you know, they have the underlying script components to them.
+
+187
+00:12:59,382 --> 00:13:03,985
+And so, you know, once those, you can sort of see here this is just, if we run the game at this scene at the moment
+
+188
+00:13:03,985 --> 00:13:05,814
+we don't actually have a main character.
+
+189
+00:13:06,040 --> 00:13:11,524
+So you know, one could hookup dialogue and have proxy object dragging and all that sort of stuff.
+
+190
+00:13:11,524 --> 00:13:17,332
+So that's the biggest thing I want to do with it, was put enough of it together that Bagel could do some painting and learn from the painting.
+
+191
+00:13:17,340 --> 00:13:20,740
+And if the programmers want to script that one first they can.
+
+192
+00:13:21,380 --> 00:13:25,800
+Franzke: Stuff should go time-wise like, well, at least roughly, right, you need those animations
+
+193
+00:13:25,800 --> 00:13:27,832
+Kipnis: Think of the sound guys, that's what they use as well.
+
+194
+00:13:28,200 --> 00:13:31,185
+Petty: Well, this happened but their workflow, all they do, is they take…
+
+195
+00:13:31,185 --> 00:13:35,520
+Kipnis: Oh! [Power out] Schafer: Well, it is lunchtime.
+
+196
+00:13:36,620 --> 00:13:38,000
+Offscreen Voice: It could have been worse.
+
+197
+00:13:39,433 --> 00:13:41,974
+Offscreen Voice: Do you see yourself having a huge workload on this?
+
+198
+00:13:41,974 --> 00:13:48,827
+Crook: Yes. Yeah, we started going through it and I figure, I mean it's a Tim Schafer game.
+
+199
+00:13:48,827 --> 00:13:51,187
+He likes characters, he likes dialogue.
+
+200
+00:13:51,187 --> 00:13:52,390
+And there'll be cut scenes.
+
+201
+00:13:52,460 --> 00:13:53,429
+Crook: I don't know.
+
+202
+00:13:53,429 --> 00:13:55,485
+I'm not sure what Tim wants as far as fidelity on cut scenes.
+
+203
+00:13:55,485 --> 00:13:56,765
+Like I don't know.
+
+204
+00:13:56,765 --> 00:13:58,336
+Petty: The question is how Full Throttle are we?
+
+205
+00:13:58,340 --> 00:13:59,876
+Crook: Right. Right.
+
+206
+00:13:59,880 --> 00:14:04,800
+For an animator this is horrible. But, Franzke: I mean, like what if you could just do all that stuff in Maya
+
+207
+00:14:04,800 --> 00:14:09,920
+Crook: We'll see how much of it we can auto-gen as far as like lip-sync and that sort of thing.
+
+208
+00:14:10,500 --> 00:14:14,620
+I just, I just hope, you know, sometimes you do something, you think, oh, we'll just automate it.
+
+209
+00:14:14,620 --> 00:14:16,548
+And then you do it and like ah, it's not going to work.
+
+210
+00:14:16,548 --> 00:14:20,246
+You know, we need to just have, you know, artists go in and do this.
+
+211
+00:14:20,246 --> 00:14:26,851
+Crook: So this was sort of a test animation that I did yesterday.
+
+212
+00:14:26,860 --> 00:14:28,998
+And so she's stuck in this cake.
+
+213
+00:14:29,000 --> 00:14:35,771
+And then this just shows you her turning, just to see what kind of, if we can get a quick turn out of her.
+
+214
+00:14:35,780 --> 00:14:43,406
+And so we already have the composition decided on so we know what the position of each of these characters will be in.
+
+215
+00:14:43,406 --> 00:14:49,804
+So when Bagel did the initial designs, which is here, he took that into consideration.
+
+216
+00:14:49,804 --> 00:14:54,990
+And so we know that she will never have to turn any more than what she does right there.
+
+217
+00:14:55,060 --> 00:15:00,663
+Rice: Just because that's kind of a whole new process, the 2D animation is something we haven't done here at Double Fine.
+
+218
+00:15:01,500 --> 00:15:07,700
+And we're doing it in a way that is similar to how we animate in 3D so that helps.
+
+219
+00:15:07,700 --> 00:15:12,904
+But that could easily be something that's a lot more work than we're expecting.
+
+220
+00:15:13,060 --> 00:15:18,739
+Petty: Yeah, I'm not sure how we're going to handle the tentacles because when we talked about maybe doing them purely as flip book animation,
+
+221
+00:15:18,740 --> 00:15:25,884
+because we are, we don't have, we can't have enough joints in this engine to do, to like animate them all freely.
+
+222
+00:15:26,200 --> 00:15:28,686
+Schafer: Is there a special close-up monster different than the...?
+
+223
+00:15:28,800 --> 00:15:30,370
+Petty: We don't do any special close-up.
+
+224
+00:15:30,370 --> 00:15:34,740
+We do one version for everything unless we have to do it, because it's just a lot more work.
+
+225
+00:15:34,740 --> 00:15:37,029
+Schafer: Maybe not to joint everything that you don't want to joint.
+
+226
+00:15:37,029 --> 00:15:40,149
+Or is it the painting of the details or is the mouth shapes and all that stuff?
+
+227
+00:15:40,149 --> 00:15:41,829
+Petty: All the above.
+
+228
+00:15:43,780 --> 00:15:47,298
+Rice: We're still working on like our first playable puzzle from the actual game.
+
+229
+00:15:47,300 --> 00:15:49,393
+We kind of bit off a big one.
+
+230
+00:15:49,400 --> 00:15:51,423
+So that's happening now.
+
+231
+00:15:51,880 --> 00:15:56,500
+Crook: So you know, when I was creating lists and I've been working with Lee on schedule
+
+232
+00:15:56,500 --> 00:16:01,946
+and it's, it's, it's going to get hairy, I think.
+
+233
+00:16:02,060 --> 00:16:09,880
+Petty: And then his overall layout of that area, I think this shows, this shows where it is relative to the village.
+
+234
+00:16:10,640 --> 00:16:11,960
+Schafer: Things look great.
+
+235
+00:16:11,960 --> 00:16:13,580
+Schafer: So we'll meet with Peter.
+
+236
+00:16:13,900 --> 00:16:22,776
+Chan: This is kind of the square, but I, you know, it could be a lot bigger, but I wanted to just show what it might look like down the street.
+
+237
+00:16:22,780 --> 00:16:27,900
+Schafer: I guess I'd like, I haven't seen any, I mean, I like the...
+
+238
+00:16:29,800 --> 00:16:31,360
+Schafer: Yeah, some things are bugging me about those mushroom houses.
+
+239
+00:16:31,360 --> 00:16:32,557
+For one, I hate mushrooms.
+
+240
+00:16:32,560 --> 00:16:34,453
+But two, it's like, oh, mushroom houses.
+
+241
+00:16:34,460 --> 00:16:36,398
+What is that making me think of?
+
+242
+00:16:36,400 --> 00:16:38,594
+And I thought Smurfs.
+
+243
+00:16:38,700 --> 00:16:47,279
+Schafer: You know, my only worry about the mushroom town is if it invokes Smurfdom, you know, because there is that kind of Smurf shape with mushrooms a little bit.
+
+244
+00:16:47,555 --> 00:16:55,119
+So when I see the big castle's one big mushroom, you know, there's parts, there's shapes of mushrooms that don't evoke that and there's shapes that do.
+
+245
+00:16:55,119 --> 00:16:57,119
+Petty: Like this doesn't really, right? Chan: OK.
+
+246
+00:16:57,120 --> 00:16:58,340
+Schafer: No, that looks more like a…
+
+247
+00:16:58,340 --> 00:17:02,474
+Chan: Greg? When is my last day?
+
+248
+00:17:02,480 --> 00:17:04,262
+Petty: August tenth. August tenth.
+
+249
+00:17:04,262 --> 00:17:08,347
+Chan: Wow. OK.
+
+250
+00:17:08,347 --> 00:17:11,307
+So then we are, it's... Rice: Getting there.
+
+251
+00:17:11,307 --> 00:17:12,406
+Chan: We're running out of time.
+
+252
+00:17:12,406 --> 00:17:14,126
+Schafer: Get drawing right now.
+
+253
+00:17:15,700 --> 00:17:20,960
+Chan: We've only just scratched the surface really, by that. We're still...
+
+254
+00:17:21,520 --> 00:17:23,680
+Schafer: We'll get more money later and have you back.
+
+255
+00:17:24,819 --> 00:17:32,116
+Rice: You know, we got a lot of money but that money goes a lot of places and it's expensive to run a studio like Double Fine in San Francisco.
+
+256
+00:17:32,120 --> 00:17:37,285
+So there's only so long we can have this many people on the project without running out of money.
+
+257
+00:17:37,285 --> 00:17:40,389
+We've got to make sure that we make something great in that amount of time.
+
+258
+00:17:40,740 --> 00:17:41,440
+Schafer: OK.
+
+259
+00:17:41,920 --> 00:17:44,060
+Chan: Anything else? Schafer: Not me.
+
+260
+00:17:44,480 --> 00:17:45,920
+Petty: No, no. I'll call you soon.
+
+261
+00:17:46,340 --> 00:17:47,780
+Chan: OK, cool. I'm going to hang up.
+
+262
+00:17:47,780 --> 00:17:49,320
+You guys have a great rest of the day.
+
+263
+00:17:49,620 --> 00:17:51,448
+Schafer: Thanks, you too Peter. Bye.
+
+264
+00:17:51,448 --> 00:17:53,008
+Chan: OK, thank you, bye-bye.
+
+265
+00:17:53,760 --> 00:17:56,460
+Schafer: So like I really do like all this stuff, and this stuff.
+
+266
+00:17:56,460 --> 00:17:57,861
+And that all works, too.
+
+267
+00:17:57,861 --> 00:18:01,374
+Like I was, I hope I didn't hurt his feelings by saying Smurfs.
+
+268
+00:18:01,380 --> 00:18:03,321
+Sometimes you never know...Smurfs..
+
+269
+00:18:03,321 --> 00:18:05,521
+Petty: It's really hard not to offend artists all the time.
+
+270
+00:18:05,521 --> 00:18:07,345
+Schafer: But that's my only worry about some of this stuff.
+
+271
+00:18:07,345 --> 00:18:12,562
+Because I, I mean, I like it but he did go, like the very first thing that he ever talked about
+
+272
+00:18:12,562 --> 00:18:16,354
+was this Japanese/Scandinavian combination mushroom thing.
+
+273
+00:18:16,360 --> 00:18:21,949
+And so it's really hard to say like I like it, but I had seen anything else, except I did also like
+
+274
+00:18:21,949 --> 00:18:26,091
+some of Bagel's crazy geometric weird thing that he was doing, too.
+
+275
+00:18:26,100 --> 00:18:28,218
+That was kind of a unique look for the castle.
+
+276
+00:18:28,440 --> 00:18:33,780
+Yeah, I mean I know Bagel's got a lot of backgrounds to do but I would like to see if he could come up with any ideas about the buzzard.
+
+277
+00:18:33,780 --> 00:18:39,900
+Petty: So is Bagel, yeah, I mean, so what we have to do, like with, I guess we can talk about this in the reviews or review meeting,
+
+278
+00:18:39,900 --> 00:18:46,848
+but Bagel right now, just, just to paint what we already designed for just the sacrifice puzzle will take him this entire sprint.
+
+279
+00:18:47,020 --> 00:18:51,080
+He doesn't, he really doesn't have time for, for any concept art at all.
+
+280
+00:18:51,240 --> 00:18:55,530
+He has time to interpret it like when he gets to like paint it and that's sort of built into the time.
+
+281
+00:18:55,530 --> 00:19:00,300
+And if, we can certainly do any of that but it comes at the cost of we either need to come up with another solution for painting that-
+
+282
+00:19:00,300 --> 00:19:04,750
+Schafer: The problem with that is that doesn't really solve the problem of like having a game be in Bagel's style.
+
+283
+00:19:04,750 --> 00:19:10,950
+'Cause if he isn't doing the concept part of it, then it's not really, Petty: well I dissagree... Schafer: it's his rendering style but it's not his like...
+
+284
+00:19:10,950 --> 00:19:12,021
+Petty: But that's what his painting is.
+
+285
+00:19:12,021 --> 00:19:13,512
+You're not using the content from his painting.
+
+286
+00:19:13,520 --> 00:19:15,840
+You're not using the "Bob's Big Boy" Schafer: When I talked about like wanting to capture
+
+287
+00:19:15,840 --> 00:19:20,740
+some of the crazy stuff from his fine art show, there was a little guy on the table or the woman with the mouth in her hair.
+
+288
+00:19:20,740 --> 00:19:23,362
+Like those are more ideas than about a rendering style.
+
+289
+00:19:23,880 --> 00:19:29,621
+So like I wanted to capture some of Bagel's, some more surreal ideas in the game concept, too.
+
+290
+00:19:30,140 --> 00:19:33,340
+Not just, not just his rendering style, for sure.
+
+291
+00:19:33,920 --> 00:19:37,148
+Petty: Well then we need to come up with another plan, because right now it's not possible.
+
+292
+00:19:38,740 --> 00:19:39,815
+Schafer: But, 'cause I'm torn.
+
+293
+00:19:39,820 --> 00:19:43,340
+Because I also want Bagel to do concepts, like come up with crazy ideas.
+
+294
+00:19:43,340 --> 00:19:49,860
+That's one of the things I like about his art, is that he has these, you know, kind of crazy surreal ideas in his painting.
+
+295
+00:19:49,860 --> 00:19:52,060
+Not just the rendering style of it.
+
+296
+00:19:52,820 --> 00:19:59,727
+Rice: But yeah, I mean it was a hard choice, you know, when Tim decided that he wanted the game to reflect Bagel's style.
+
+297
+00:19:59,727 --> 00:20:04,060
+Ultimately that means that he's going to have to paint a lot of the game, if not all of the game.
+
+298
+00:20:04,060 --> 00:20:09,900
+And it's going to be what makes the game have kind of a cohesive feel and look.
+
+299
+00:20:10,180 --> 00:20:11,700
+Petty: I don't see how it's going to work.
+
+300
+00:20:11,700 --> 00:20:15,680
+So we could either do something like, you know, someone else could render the characters
+
+301
+00:20:15,680 --> 00:20:18,232
+to give him time to do concept design or someone, I don't know.
+
+302
+00:20:18,240 --> 00:20:23,931
+Something like that, some hybrid sort of rendering style solution that can work in a very similar style.
+
+303
+00:20:24,000 --> 00:20:26,786
+That's the only, you know, we'll have to figure something like that out.
+
+304
+00:20:26,960 --> 00:20:31,040
+Because there just isn't time for one person to do all that.
+
+305
+00:20:32,520 --> 00:20:34,997
+Schafer: I love this meeting wherein we talk about can't be done.
+
+306
+00:20:35,000 --> 00:20:42,040
+Because those are always like, those are kind of a drag, 'cause you're like trying, you're trying to invent stuff.
+
+307
+00:20:42,040 --> 00:20:45,413
+You know, you're having this problem with nothing to something, like OK, I got an idea.
+
+308
+00:20:45,420 --> 00:20:47,260
+And someone says that'll take three years; you can't do it.
+
+309
+00:20:47,260 --> 00:20:48,560
+And you're like oh.
+
+310
+00:20:48,900 --> 00:20:50,348
+Do you know how hard that was to have that idea?
+
+311
+00:20:50,780 --> 00:20:52,360
+Schafer: OK, I have to go do something.
+
+312
+00:20:53,100 --> 00:20:55,200
+Petty: OK. So...
+
+313
+00:20:55,520 --> 00:21:00,180
+Schafer: As much as I would like to talk about how we can't make this awesome game in time.
+
+314
+00:21:02,060 --> 00:21:04,440
+Petty: I thought I was coming up with ways that we could.
+
+315
+00:21:06,620 --> 00:21:13,020
+Schafer: I know. I'm going to check out that inventory stuff.
+
+316
+00:21:15,000 --> 00:21:15,620
+Rice: Bye.
+
+317
+00:21:18,440 --> 00:21:19,936
+Schafer: Hey, Anna. Kipnis: Yeah?
+
+318
+00:21:19,940 --> 00:21:22,020
+Can I see all that cool inventory stuff I missed?
+
+319
+00:21:26,340 --> 00:21:29,380
+Petty: We're just going to wind up shipping a game about a red bot and a fucking lumberjack.
+
+320
+00:21:30,120 --> 00:21:31,159
+Sorry, Tim.
+
+321
+00:21:31,160 --> 00:21:33,088
+We decided to ship these instead.
+
+322
+00:21:33,088 --> 00:21:34,090
+Crook: Ran out of time.
+
+323
+00:21:34,090 --> 00:21:37,430
+Franzke: We ran out of time. We did create all kind of tech for it...
+
+324
+00:21:37,820 --> 00:21:39,719
+Thank God it's up to you to make a game.
+
+325
+00:21:39,720 --> 00:21:41,960
+Here's a tool set, go do whatever you want.
+
+326
+00:21:42,520 --> 00:21:48,241
+Rice: Yeah, I think there's always a point in a project where everything kind of gets real and you see the amount of work
+
+327
+00:21:48,241 --> 00:21:50,005
+that you have in front of you.
+
+328
+00:21:50,005 --> 00:21:56,920
+There was a bit of an eye-opener just through the docs and the processes as far as how much work is left.
+
+329
+00:21:56,920 --> 00:21:59,607
+And how much we can, we can do.
+
+330
+00:21:59,607 --> 00:22:02,167
+And the amount of time we have left.
+
+331
+00:22:03,840 --> 00:22:10,207
+Rice: It was an eye-opener that we needed to get to the moment where we're like OK, we need to start building this game.
+
+332
+00:22:10,207 --> 00:22:15,280
+And we're getting to the point where yeah, where now the real work is beginning.
+
+333
+00:22:17,200 --> 00:22:18,860
+Schafer: Who was it, it was like Miyamoto.
+
+334
+00:22:18,860 --> 00:22:23,340
+He said that famous quote about like it only hurts until it's done, but if it sucks, it sucks forever, you know.
+
+335
+00:22:23,340 --> 00:22:27,179
+Schafer: So like OK, we'll suffer now, we'll put the extra work in to make this great,
+
+336
+00:22:27,180 --> 00:22:32,948
+because no one's going to remember, you know, no one ever says about a game like, oh you know, that game had a really reasonable production cycle.
+
+337
+00:22:32,948 --> 00:22:34,260
+That was, I really enjoyed that game.
+
+338
+00:22:34,260 --> 00:22:37,860
+It was really moderately scheduled.
+
+339
+00:22:37,860 --> 00:22:40,073
+Rice: This was our fourth milestone of 13.
+
+340
+00:22:40,080 --> 00:22:49,061
+So we need to start kind of pushing forward, getting some content together if we're going to stay on track.
+
+341
+00:22:49,061 --> 00:22:52,557
+Schafer: I mean, off of what I'm pushing for is like we should just think about this problem longer,
+
+342
+00:22:52,560 --> 00:22:57,316
+because we're going to have a creative solution that's going to allow us to have the great thing that I want,
+
+343
+00:22:57,320 --> 00:22:59,918
+but have it not take 20 years to put together.
+
+344
+00:22:59,920 --> 00:23:01,767
+It'll take, we'll think of the cheap.
+
+345
+00:23:01,960 --> 00:23:05,522
+You know, Lee and those guys are really smart and they could probably think of a clever way to, you know,
+
+346
+00:23:05,522 --> 00:23:07,202
+cut the work in half and get it done.
+
+347
+00:23:08,100 --> 00:23:09,280
+Schafer: But it's hard to commit to that in advance.
+
+348
+00:23:09,280 --> 00:23:14,606
+Like OK, I'll have a clever idea and it'll cut this work in half, 'cause you know, those things you don't know they're going to come.
+
+349
+00:23:15,500 --> 00:23:17,680
+But they always come.
+
+350
+00:23:17,980 --> 00:23:29,609
+[Music] Offscreen Voice: Bye, guys. See you tomorrow.
+
+351
+00:23:29,720 --> 00:23:58,153
+[Music] Rice: Potentially getting some art interns from the Institute.
+
+352
+00:23:58,160 --> 00:24:02,880
+That could do, you know, like the menial tasks nobody wants to do.
+
+353
+00:24:02,880 --> 00:24:04,880
+Franzke: Well not even menial, like, I mean all of my plans...
+

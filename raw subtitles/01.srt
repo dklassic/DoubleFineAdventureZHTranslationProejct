@@ -1,0 +1,1879 @@
+1
+00:00:32,655 --> 00:00:35,274
+Schafer: I need to get accustomed
+to money being around.
+
+2
+00:00:35,274 --> 00:00:37,002
+That's the thing.
+
+3
+00:00:37,002 --> 00:00:38,851
+This is for the therapy,
+the physical therapy
+
+4
+00:00:38,851 --> 00:00:41,029
+of getting me used to actually
+not being afraid of money.
+
+5
+00:00:41,029 --> 00:00:43,249
+Offscreen voice: Richard Branson
+does the same thing.
+
+6
+00:00:43,249 --> 00:00:46,755
+Schafer: Ah! You guys, what is
+this stuff that's all over me?
+
+7
+00:00:46,755 --> 00:00:48,287
+Offscreen voice: Beautiful.
+
+8
+00:00:48,287 --> 00:00:49,552
+Schafer: I can't apply it to myself..
+
+9
+00:00:49,552 --> 00:00:50,632
+Offscreen voice: Oh my God.
+
+10
+00:00:50,632 --> 00:00:52,113
+Schafer: I can't self-terminate.
+
+11
+00:00:52,113 --> 00:00:53,470
+Offscreen voice: Help me apply money.
+
+12
+00:00:53,470 --> 00:00:55,872
+Schafer: I can't self-monetize.
+
+13
+00:01:23,360 --> 00:01:27,120
+Schafer: So this is a more recent,
+uh point-and-click adventure game.
+
+14
+00:01:27,186 --> 00:01:28,697
+I have to show you someone else's,
+
+15
+00:01:28,697 --> 00:01:29,962
+because I haven't made
+one in a long time.
+
+16
+00:01:29,962 --> 00:01:31,565
+I used to make them back in the '90s.
+
+17
+00:01:31,565 --> 00:01:33,569
+This is Machinarium.
+
+18
+00:01:33,569 --> 00:01:35,512
+You role play this little
+robot and you click around.
+
+19
+00:01:35,512 --> 00:01:37,546
+And these kind of games,
+you walk the character around
+
+20
+00:01:37,546 --> 00:01:41,245
+by clicking on the ground somewhere
+and pull on this handle here.
+
+21
+00:01:41,245 --> 00:01:43,987
+And then I can make this mine
+cart come through the room.
+
+22
+00:01:43,987 --> 00:01:45,529
+Shahani: I'm sorry. What's that?
+
+23
+00:01:45,529 --> 00:01:47,657
+Schafer: I pulled this handle,
+oh, that's right.
+
+24
+00:01:47,657 --> 00:01:49,968
+This doesn't work until I do this.
+
+25
+00:01:49,968 --> 00:01:52,188
+That's what a lot of adventure
+game playing is like.
+
+26
+00:01:52,188 --> 00:01:54,622
+You're like, oh, this doesn't,
+why doesn't this work?
+
+27
+00:01:54,622 --> 00:01:56,166
+Oh, I need this gear first.
+
+28
+00:01:56,166 --> 00:01:57,984
+I need to get the gear on the sprocket.
+
+29
+00:01:57,984 --> 00:01:59,710
+And so they're, they
+move at a slower pace.
+
+30
+00:01:59,710 --> 00:02:01,775
+And some people really like that.
+
+31
+00:02:01,775 --> 00:02:05,782
+But it also means they're not
+exactly as attention-getting
+
+32
+00:02:05,782 --> 00:02:10,126
+and as visceral and maybe as a
+big block buster action game.
+
+33
+00:02:10,126 --> 00:02:12,745
+And it led us to this point
+now where it's really hard
+
+34
+00:02:12,745 --> 00:02:14,565
+to get one of these games
+made these days,
+
+35
+00:02:14,565 --> 00:02:17,308
+or at least get funding
+for it from a publisher.
+
+36
+00:02:17,308 --> 00:02:20,513
+Shahani: Before getting into all that,
+what put you on the map?
+
+37
+00:02:20,513 --> 00:02:24,919
+Like, just describe the game
+that got you into game famous.
+
+38
+00:02:24,919 --> 00:02:26,615
+Schafer: Game famous.
+
+39
+00:02:26,615 --> 00:02:29,142
+You know, we just, each
+game we made in the '90s,
+
+40
+00:02:29,142 --> 00:02:30,807
+we got a little more recognition for it.
+
+41
+00:02:30,807 --> 00:02:33,417
+And we were always pretty savvy
+about getting our names on the box,
+
+42
+00:02:33,417 --> 00:02:34,995
+you know, so we're, hey.
+
+43
+00:02:34,995 --> 00:02:39,305
+You know, you have to kind of act
+like you're famous before you're famous.
+
+44
+00:02:41,800 --> 00:02:42,520
+That sounds funny.
+
+45
+00:02:42,660 --> 00:02:45,280
+I learned that from an interview with
+David Lee Roth about Van Halen.
+
+46
+00:02:45,287 --> 00:02:47,230
+Like we always acted
+like we were hot shit.
+
+47
+00:02:47,230 --> 00:02:49,357
+We had a big hit, Full Throttle,
+
+48
+00:02:49,357 --> 00:02:51,145
+it's called Full Throttle and
+it sold a million copies
+
+49
+00:02:51,145 --> 00:02:54,257
+and that was really big for
+those PC graphic adventures.
+
+50
+00:02:54,257 --> 00:02:56,385
+And then I made a game
+called Grim Fandango
+
+51
+00:02:56,385 --> 00:02:58,941
+and that won Game of
+the Year with Game Spot
+
+52
+00:02:58,941 --> 00:03:01,347
+and that was the big
+thing that helped a lot.
+
+53
+00:03:01,347 --> 00:03:05,978
+Grim Fandango is set in the
+Land of the Dead, yeah.
+
+54
+00:03:05,978 --> 00:03:09,215
+And it was, it sold
+about half a million units
+
+55
+00:03:09,215 --> 00:03:12,050
+and it was seen as not
+being commercially successful.
+
+56
+00:03:12,050 --> 00:03:14,792
+And it was one of the reasons
+ that adventure games died.
+
+57
+00:03:14,792 --> 00:03:17,413
+I mean, I heard a friend of mine,
+who worked in another game company,
+
+58
+00:03:17,413 --> 00:03:19,468
+saying we tried to get
+an adventure game made
+
+59
+00:03:19,468 --> 00:03:23,350
+and they said, well look, you know,
+Grim Fandango didn't do that well.
+
+60
+00:03:23,350 --> 00:03:26,493
+So obviously, you know, it was
+a good game, it won Game of the Year.
+
+61
+00:03:26,493 --> 00:03:28,313
+And if Game of the Year can't sell,
+
+62
+00:03:28,313 --> 00:03:31,610
+you know, as many copies as it
+needs to, then maybe that genre's dead.
+
+63
+00:03:31,610 --> 00:03:37,750
+So I feel some responsibility to make
+a good game and make it do well.
+
+64
+00:03:39,020 --> 00:03:40,180
+Rice: He's been excited about it.
+
+65
+00:03:40,180 --> 00:03:42,720
+I mean, he's wanted to return to
+adventure games for a while
+
+66
+00:03:42,725 --> 00:03:46,947
+and it's just been a matter of not
+knowing how to make that happen.
+
+67
+00:03:46,947 --> 00:03:50,398
+Schafer: But fans are always saying
+they would want, they want one,
+
+68
+00:03:50,398 --> 00:03:53,756
+but a publisher would say, we
+can't make money doing those.
+
+69
+00:03:53,756 --> 00:03:56,777
+So something like Kickstarter shows up,
+
+70
+00:03:56,777 --> 00:04:00,773
+which is this crowd sourcing website,
+where everybody can back a project.
+
+71
+00:04:00,773 --> 00:04:04,367
+You pitch your project and you get
+backers and then if you meet your goals,
+
+72
+00:04:04,367 --> 00:04:06,310
+you get the money and
+you build your project.
+
+73
+00:04:06,310 --> 00:04:08,401
+Doing an adventure game is interesting,
+
+74
+00:04:08,401 --> 00:04:10,468
+because it's the only, like the
+only way you could do that,
+
+75
+00:04:10,468 --> 00:04:14,319
+letting the fans like, kind of put
+their money where their mouth is.
+
+76
+00:04:14,319 --> 00:04:15,738
+Is it that? Wait a second.
+
+77
+00:04:15,738 --> 00:04:17,219
+Did I get that backwards? Yeah.
+
+78
+00:04:17,219 --> 00:04:18,267
+Host: No, you're right. Yeah.
+
+79
+00:04:18,267 --> 00:04:19,994
+Some loud mouth fan, no,
+I don't want to buy Trenched,
+
+80
+00:04:19,995 --> 00:04:21,476
+but what about an adventure game?
+
+81
+00:04:21,476 --> 00:04:23,541
+Schafer: Exactly.
+
+82
+00:04:23,541 --> 00:04:24,837
+Shahani: Explain your
+Kickstarter campaign.
+
+83
+00:04:24,837 --> 00:04:26,596
+What have you just done?
+
+84
+00:04:26,596 --> 00:04:29,676
+Schafer: Yeah. What have we done?
+
+85
+00:04:29,676 --> 00:04:31,835
+Schafer: Oh, sorry.
+I didn't see you there.
+
+86
+00:04:31,835 --> 00:04:35,184
+You caught me indulging in one
+of my many impressive hobbies.
+
+87
+00:04:35,184 --> 00:04:36,727
+I'm Tim Schafer.
+
+88
+00:04:36,727 --> 00:04:39,223
+Schafer: And so we put a pitch video
+up where we said we want to make a game.
+
+89
+00:04:39,223 --> 00:04:42,027
+And the idea was, what if we made
+one of these adventure games
+
+90
+00:04:42,027 --> 00:04:44,402
+that most publishers don't
+want to fund these days?
+
+91
+00:04:44,402 --> 00:04:47,380
+And one of my favorite types of
+games to make is adventure games.
+
+92
+00:04:47,380 --> 00:04:49,230
+But these days, it seems
+like adventure games
+
+93
+00:04:49,230 --> 00:04:51,851
+are almost a bit of a lost art form.
+
+94
+00:04:51,851 --> 00:04:56,339
+They exist in our dreams and
+our memories and in Germany.
+
+95
+00:04:56,339 --> 00:04:58,067
+Schafer: Maybe that would
+get people excited about
+
+96
+00:04:58,067 --> 00:05:00,872
+getting a chance to do something
+that couldn't be funded any other way.
+
+97
+00:05:00,872 --> 00:05:02,168
+Schafer: It's perfect.
+
+98
+00:05:02,168 --> 00:05:03,863
+We got the perfect team here
+at Double Fine to make it.
+
+99
+00:05:03,863 --> 00:05:06,386
+We got the inventor of the
+genre here, Ron Gilbert.
+
+100
+00:05:06,386 --> 00:05:08,668
+Oh, look! There he is right now.
+
+101
+00:05:08,668 --> 00:05:11,438
+Maybe he'll help us.
+
+102
+00:05:12,960 --> 00:05:13,920
+He'll help us.
+
+103
+00:05:13,969 --> 00:05:16,158
+Gilbert: You know, we've always
+talked about wanting to do,
+
+104
+00:05:16,158 --> 00:05:18,686
+you know, more classic adventure stuff.
+
+105
+00:05:18,686 --> 00:05:20,752
+And so doing the
+Kickstarter thing, it's like,
+
+106
+00:05:20,752 --> 00:05:24,665
+yeah, that sounds, I mean, that
+sounds really like an interesting idea.
+
+107
+00:05:24,665 --> 00:05:29,210
+I think we were both very
+skeptical about the amount of money.
+
+108
+00:05:29,210 --> 00:05:32,354
+Schafer: So, we are asking for
+this much to make the game
+
+109
+00:05:32,354 --> 00:05:34,327
+and this much to film it.
+
+110
+00:05:34,327 --> 00:05:35,961
+And that may seem like a lot of money,
+
+111
+00:05:35,961 --> 00:05:38,079
+but it's really not that much for
+a game budget these days.
+
+112
+00:05:38,079 --> 00:05:39,683
+It's pretty small, actually.
+
+113
+00:05:39,683 --> 00:05:41,399
+Schafer: And I just never thought
+you could get the kind of money
+
+114
+00:05:41,399 --> 00:05:43,496
+that would actually pay for
+a whole game budget.
+
+115
+00:05:43,496 --> 00:05:45,715
+Schafer: Hello, potential backers.
+
+116
+00:05:45,715 --> 00:05:47,166
+I could do all three options.
+
+117
+00:05:47,166 --> 00:05:49,724
+Thank you for donating well
+over the amount we asked for.
+
+118
+00:05:49,724 --> 00:05:50,989
+That's so great.
+
+119
+00:05:50,989 --> 00:05:53,085
+We have too much money now.
+
+120
+00:05:53,085 --> 00:05:54,288
+Damn you!
+
+121
+00:05:54,288 --> 00:05:56,755
+Why haven't anyone given us any money?
+
+122
+00:05:56,755 --> 00:05:58,297
+I'm so sad.
+
+123
+00:05:58,297 --> 00:06:00,733
+That doesn't seem believable.
+
+124
+00:06:00,733 --> 00:06:02,265
+Yeah, we're not going to use that one.
+
+125
+00:06:02,265 --> 00:06:03,684
+Or just moderately, hello.
+
+126
+00:06:03,684 --> 00:06:07,013
+Thank you for dedicating
+the appropriate amount of...
+
+127
+00:06:07,013 --> 00:06:09,880
+Schafer: Because the previous
+projects in Kickstarter had only been,
+
+128
+00:06:09,880 --> 00:06:11,514
+I don't know what the
+maximum was before then,
+
+129
+00:06:11,514 --> 00:06:13,796
+but it looked like
+they're like forty grand.
+
+130
+00:06:13,796 --> 00:06:17,494
+You know, I mean, we're used to making
+projects that were like, you know, Brütal.
+
+131
+00:06:17,494 --> 00:06:19,990
+Like 20 million dollars and these
+smaller games, like two million.
+
+132
+00:06:19,990 --> 00:06:22,733
+It was like, no way you can get
+two million from Kickstarter.
+
+133
+00:06:22,733 --> 00:06:24,031
+Could you?
+
+134
+00:06:24,031 --> 00:06:25,480
+Schafer: I hope this works out,
+because it is kind of,
+
+135
+00:06:25,480 --> 00:06:27,238
+that enough people got together,
+
+136
+00:06:27,238 --> 00:06:29,334
+are they going to actually make
+a game like this happen?
+
+137
+00:06:29,334 --> 00:06:31,030
+A game like, that we
+haven't really been able to
+
+138
+00:06:31,030 --> 00:06:34,760
+make happen for business reasons
+for like, many, many years.
+
+139
+00:06:34,760 --> 00:06:37,934
+Gilbert: Or we'll just prove
+all those publishers right.
+
+140
+00:06:37,934 --> 00:06:41,784
+Schafer: Or we'll just
+prove them all right.
+
+141
+00:07:03,980 --> 00:07:05,920
+Schafer: No, I mean
+nothing I had done before
+
+142
+00:07:06,120 --> 00:07:08,247
+prepared me for what it's
+like to work with publishers.
+
+143
+00:07:08,247 --> 00:07:09,975
+Rice: When you're
+working with a publisher,
+
+144
+00:07:09,975 --> 00:07:14,259
+a lot of times they get
+involved with design decisions.
+
+145
+00:07:14,259 --> 00:07:16,816
+And you have to make compromises.
+
+146
+00:07:16,816 --> 00:07:19,314
+Gilbert: You know, if
+a publisher is out there,
+
+147
+00:07:19,314 --> 00:07:23,229
+from the outside kind of poking
+in and making you do things.
+
+148
+00:07:23,229 --> 00:07:26,219
+You know, that's where I think
+things can kind of come off the rails.
+
+149
+00:07:26,219 --> 00:07:29,179
+Schafer: And the way it felt,
+I don't know if this makes any sense,
+
+150
+00:07:29,179 --> 00:07:31,398
+but my head, like the creative process
+of making a game was like,
+
+151
+00:07:31,398 --> 00:07:34,603
+you look at a field of
+floating, multi-colored dots,
+
+152
+00:07:34,603 --> 00:07:36,886
+drifting slowly to the ground.
+
+153
+00:07:36,886 --> 00:07:38,613
+And eventually when they hit the ground,
+
+154
+00:07:38,613 --> 00:07:40,587
+they're going to make like
+a painting on the floor.
+
+155
+00:07:40,587 --> 00:07:43,146
+But you've got to kind of like move
+them around, give them the right and see.
+
+156
+00:07:43,146 --> 00:07:45,273
+And then as they fall, you start
+to see where you need more color
+
+157
+00:07:45,273 --> 00:07:50,081
+and you move them around and
+slowly they settle and you just add a sound.
+
+158
+00:07:50,081 --> 00:07:51,376
+And then you're done.
+
+159
+00:07:51,376 --> 00:07:54,212
+So it'd be like, Tim, what do
+you do with that green dot?
+
+160
+00:07:54,212 --> 00:07:55,632
+Phew, I can't tell you.
+
+161
+00:07:55,632 --> 00:07:57,083
+You're like, ok, that dot?
+
+162
+00:07:57,083 --> 00:07:58,131
+Can we just nail that down here.
+
+163
+00:07:58,131 --> 00:07:59,151
+Can we just say what that's going to be?
+
+164
+00:07:59,151 --> 00:08:00,200
+And you're like, no.
+
+165
+00:08:00,200 --> 00:08:01,558
+So let's just say where all the
+red dots are going to be, ok.
+
+166
+00:08:01,558 --> 00:08:02,823
+Could you just nail
+all the red dots down?
+
+167
+00:08:02,823 --> 00:08:03,996
+Like, no!
+
+168
+00:08:03,996 --> 00:08:05,476
+How about if we just start on this edge
+
+169
+00:08:05,476 --> 00:08:08,283
+and we just take all the dots,
+like this and just nail all those dots.
+
+170
+00:08:08,283 --> 00:08:09,546
+No!
+
+171
+00:08:09,546 --> 00:08:11,491
+Rice: Yeah. The games
+industry as a whole, I think,
+
+172
+00:08:11,491 --> 00:08:15,374
+is in a really weird
+spot where it's like we're,
+
+173
+00:08:15,374 --> 00:08:19,257
+like the film industry used
+to be way back in the day.
+
+174
+00:08:19,257 --> 00:08:21,909
+Where the publishers are
+running mostly everything.
+
+175
+00:08:21,909 --> 00:08:23,913
+That's kind of how it
+was for a long time
+
+176
+00:08:23,913 --> 00:08:26,410
+and it's only now that
+people are starting to like
+
+177
+00:08:26,410 --> 00:08:29,175
+seek out the creators of the games.
+
+178
+00:08:29,175 --> 00:08:30,903
+That people who are making the game
+
+179
+00:08:30,903 --> 00:08:34,046
+and try to actually support those
+people and lift them up a bit.
+
+180
+00:08:34,046 --> 00:08:38,197
+Young Man: Because Tim Schafer
+has consistently put out quality games.
+
+181
+00:08:38,197 --> 00:08:42,296
+Man: Games that have very
+large and dedicated followings.
+
+182
+00:08:42,296 --> 00:08:46,303
+Man: People would probably pay
+him just to spit on their screen.
+
+183
+00:08:46,303 --> 00:08:48,215
+Young Man: And we do appreciate that.
+
+184
+00:08:48,215 --> 00:08:51,020
+We show our appreciation
+by doing what we've done.
+
+185
+00:08:51,020 --> 00:08:55,243
+By giving them the funding
+for this game in eight hours.
+
+186
+00:08:55,243 --> 00:08:58,449
+Rice: The whole like past month
+has been like a complete blur.
+
+187
+00:08:58,449 --> 00:09:00,854
+It's gone so quick.
+
+188
+00:09:00,854 --> 00:09:05,447
+But, yeah, we were in Vegas
+for DICE the day that we launched.
+
+189
+00:09:05,447 --> 00:09:08,960
+Schafer: And we'd had a hard
+month, because we had a game cancel.
+
+190
+00:09:08,960 --> 00:09:10,687
+The whole team, we're
+trying to figure out
+
+191
+00:09:10,687 --> 00:09:13,616
+whether we could swing
+having this team stay on
+
+192
+00:09:13,616 --> 00:09:17,006
+or do we have to let go of twelve
+people to keep the company afloat?
+
+193
+00:09:17,006 --> 00:09:20,078
+We've never laid off
+anyone for money before.
+
+194
+00:09:20,078 --> 00:09:24,424
+So we were, and even besides
+the financial concerns, it was just such a,
+
+195
+00:09:24,424 --> 00:09:26,772
+it doesn't feel like you're winning
+when you have a game canceled.
+
+196
+00:09:26,772 --> 00:09:30,532
+You feel like it's a big,
+you know, you've lost.
+
+197
+00:09:30,532 --> 00:09:33,677
+Schafer: I'm about to launch
+our first Kickstarter project.
+
+198
+00:09:33,677 --> 00:09:36,606
+Rice: It kind of just all came together
+right when we were out there
+
+199
+00:09:36,606 --> 00:09:38,456
+and we had a bit of time before
+a meeting and we're like,
+
+200
+00:09:38,456 --> 00:09:39,907
+we could launch this today.
+
+201
+00:09:39,907 --> 00:09:42,928
+Schafer: Yeah, I did have to like
+decide, well, we'll launch our Kickstarter.
+
+202
+00:09:42,928 --> 00:09:45,394
+That, for time, we're
+like I guess $200,000.
+
+203
+00:09:45,394 --> 00:09:47,305
+We could make something for $200,000.
+
+204
+00:09:47,305 --> 00:09:51,159
+And I had to accept it, I might
+only get $200,000, right?
+
+205
+00:09:51,159 --> 00:09:54,550
+And then when I was nervous
+about it, so I upped it to three, right.
+
+206
+00:09:54,550 --> 00:09:58,002
+And so it was like, yeah, we
+can make something for $300,000.
+
+207
+00:09:58,002 --> 00:09:59,389
+Because we could.
+
+208
+00:09:59,389 --> 00:10:00,933
+You know, we'd been talking
+about iPhone games recently
+
+209
+00:10:00,933 --> 00:10:03,645
+and it's like three people for six
+months or something like that.
+
+210
+00:10:03,645 --> 00:10:05,435
+Yeah, we could make something
+with three people and six months.
+
+211
+00:10:05,435 --> 00:10:08,045
+It would look like a flash game or
+it'd look like an iPhone game,
+
+212
+00:10:08,045 --> 00:10:11,581
+but it would technically be a game.
+
+213
+00:10:11,581 --> 00:10:13,811
+By all scientific definitions.
+
+214
+00:10:13,811 --> 00:10:16,890
+Schafer: I'm nervous.
+
+215
+00:10:17,840 --> 00:10:18,400
+Launch.
+
+216
+00:10:22,040 --> 00:10:23,220
+Review, i'll have to review it.
+
+217
+00:10:23,500 --> 00:10:27,140
+Rice: Oh, man.
+That was such a letdown!
+
+218
+00:10:27,150 --> 00:10:29,339
+Schafer: OK. No, no,
+that's just fine print.
+
+219
+00:10:29,339 --> 00:10:32,329
+It's just that I never
+read these things.
+
+220
+00:10:32,329 --> 00:10:33,471
+Should I do it?
+
+221
+00:10:33,471 --> 00:10:34,736
+Rice: Yeah, do it.
+
+222
+00:10:34,736 --> 00:10:36,464
+Schafer: It couldn't hurt, right?
+
+223
+00:10:36,464 --> 00:10:38,067
+Rice: It could, but
+we're not going to let it.
+
+224
+00:10:38,067 --> 00:10:41,025
+Schafer: Whoo!
+
+225
+00:10:41,500 --> 00:10:45,374
+Rice: I remember like as soon as we
+hit it up and we refresh, it was like at $30.
+
+226
+00:10:45,374 --> 00:10:47,910
+We're like, holy crap!
+There's already $30.
+
+227
+00:10:47,910 --> 00:10:50,409
+Schafer: I think I'm going to look at
+how much, I don't care about money.
+
+228
+00:10:50,409 --> 00:10:55,405
+I'm not going to look. I'm going
+to look, just one second.
+
+229
+00:10:55,405 --> 00:10:57,688
+Rice: What are we at?
+
+230
+00:10:57,688 --> 00:10:59,911
+OK, so we posted this, what?
+Two hours ago, right?
+
+231
+00:10:59,911 --> 00:11:01,504
+Schafer: Two hours ago.
+
+232
+00:11:01,504 --> 00:11:03,756
+We launched our Kickstarter
+project two hours ago.
+
+233
+00:11:03,756 --> 00:11:07,889
+$106,000 in 56.
+
+234
+00:11:07,889 --> 00:11:10,848
+A hundred and six,
+I can't count so high.
+
+235
+00:11:10,848 --> 00:11:12,976
+It's such a high number, that's crazy.
+
+236
+00:11:12,976 --> 00:11:14,918
+It's too much money.
+
+237
+00:11:14,918 --> 00:11:16,554
+Rice: Yeah. So when we hit a million,
+
+238
+00:11:16,554 --> 00:11:19,637
+that was definitely like,
+that was the day after.
+
+239
+00:11:19,637 --> 00:11:21,427
+One day after we launched, right?
+
+240
+00:11:21,427 --> 00:11:22,783
+Rice: What are we at?
+
+241
+00:11:22,783 --> 00:11:25,304
+Schafer: I want to just say I love
+you guys and not for the money.
+
+242
+00:11:25,304 --> 00:11:27,121
+Offscreen: 999,700!
+
+243
+00:11:28,600 --> 00:11:31,040
+Muir: Oh my god, they're
+counting down to a refresh.
+
+244
+00:11:31,589 --> 00:11:32,529
+F5!
+
+245
+00:11:39,560 --> 00:11:40,840
+Muir: Oh my God! It's so exciting.
+
+246
+00:11:40,957 --> 00:11:43,360
+Rice: What's the number?
+
+247
+00:11:43,680 --> 00:11:46,780
+Offscreen: Refresh! Refresh!
+
+248
+00:11:47,040 --> 00:11:48,615
+Min: The internet has crashed.
+
+249
+00:11:48,960 --> 00:11:50,840
+No!
+
+250
+00:11:51,360 --> 00:11:52,700
+Min: The internet has crashed.
+
+251
+00:11:53,699 --> 00:11:54,979
+Rice: And what? No!
+
+252
+00:11:56,520 --> 00:11:57,560
+Schafer: Where's my phone?
+
+253
+00:11:57,820 --> 00:11:59,080
+Muir: The Internet's crashed.
+
+254
+00:11:59,960 --> 00:12:02,680
+[Offscreen Yelling]
+
+255
+00:12:03,034 --> 00:12:04,614
+[Distortion]
+
+256
+00:12:05,740 --> 00:12:07,180
+I think they all died. They're dying! 
+
+257
+00:12:11,300 --> 00:12:12,860
+Are you guys ok? What happened?
+
+258
+00:12:14,610 --> 00:12:16,677
+Oh, they're being
+crushed. It's horrible.
+
+259
+00:12:16,677 --> 00:12:19,737
+Muir: Oh, no! No!
+
+260
+00:12:21,640 --> 00:12:22,480
+What happened?
+
+261
+00:12:23,040 --> 00:12:24,620
+[Distortion]
+
+262
+00:12:26,400 --> 00:12:27,580
+Muir: It's a million dollars!
+
+263
+00:12:27,611 --> 00:12:28,233
+Rice: Is it?
+
+264
+00:12:28,233 --> 00:12:29,973
+Muir: That's what a
+million dollars sounds like.
+
+265
+00:12:30,440 --> 00:12:32,080
+Offscreen: What do you mean it crashed?
+
+266
+00:12:32,820 --> 00:12:34,100
+Offscreen: Kickstarter crashed.
+
+267
+00:12:37,520 --> 00:12:39,000
+Muir: Kickstarter crashed!
+
+268
+00:12:39,390 --> 00:12:40,790
+Schafer: No.
+
+269
+00:12:40,960 --> 00:12:44,780
+[Offscreen yelling]
+
+270
+00:12:49,840 --> 00:12:52,720
+Rice: Yeah, that was definitely
+one of the high points,
+
+271
+00:12:52,866 --> 00:12:56,318
+where it was like, holy crap
+-- This is a huge thing.
+
+272
+00:12:56,318 --> 00:12:58,476
+Muir: Whoo! A million in 24 hours.
+
+273
+00:12:58,476 --> 00:13:00,853
+Tim Schafer, you just made
+a million dollars in 24 hours!
+
+274
+00:13:00,853 --> 00:13:03,442
+What do you, what are you doing?
+
+275
+00:13:03,442 --> 00:13:05,355
+Schafer: Yeah! I got to make a game.
+
+276
+00:13:05,355 --> 00:13:06,959
+Newscaster: Over the last few
+days, Tim Schafer from Double Fine
+
+277
+00:13:06,959 --> 00:13:10,448
+took crowd funding site,
+Kickstarter to fund his next game.
+
+278
+00:13:10,448 --> 00:13:12,638
+Schafer: It feels like a happening.
+You know what I mean?
+
+279
+00:13:12,638 --> 00:13:14,241
+Like it feels like an event.
+
+280
+00:13:14,241 --> 00:13:16,401
+Newscaster: They're raising money
+at a clip of a thousand dollars per minute.
+
+281
+00:13:16,401 --> 00:13:17,697
+It's incredible.
+
+282
+00:13:17,697 --> 00:13:19,270
+Host: One question that is
+on everybody's mind.
+
+283
+00:13:19,270 --> 00:13:20,660
+You get the million dollars.
+
+284
+00:13:20,660 --> 00:13:22,541
+Did you immediately withdraw it all?
+
+285
+00:13:22,541 --> 00:13:26,055
+Put it into a vault and then dive
+into it like Scrooge McDuck style?
+
+286
+00:13:26,055 --> 00:13:27,782
+Schafer: Then during
+Kickstarter, it made it,
+
+287
+00:13:27,782 --> 00:13:29,602
+I don't know what it was,
+
+288
+00:13:29,602 --> 00:13:32,901
+but it made everyone just take
+that big basket of money
+
+289
+00:13:32,901 --> 00:13:34,805
+and shake it out over our heads.
+
+290
+00:13:34,805 --> 00:13:38,100
+It really was like the end
+of "It's a Wonderful Life".
+
+291
+00:13:38,360 --> 00:13:58,760
+[Music]
+
+292
+00:13:58,760 --> 00:14:00,320
+Offscreen: So excited.
+
+293
+00:14:02,820 --> 00:14:04,080
+Offscreen: Thumbs up?
+
+294
+00:14:04,347 --> 00:14:07,335
+Man: Thumbs up, yes.
+
+295
+00:14:08,240 --> 00:14:09,640
+That was pretty amazing.
+
+296
+00:14:11,660 --> 00:14:15,340
+I told you, adventure
+games are not dead!
+
+297
+00:14:15,740 --> 00:14:17,520
+The thing that I noticed was that
+
+298
+00:14:17,599 --> 00:14:19,512
+it was just such a morale
+boost to the whole team.
+
+299
+00:14:19,512 --> 00:14:22,040
+And you know, I think it just
+felt like a lot of goodwill
+
+300
+00:14:22,040 --> 00:14:25,123
+and love coming towards the company
+and everyone got super excited about it.
+
+301
+00:14:25,123 --> 00:14:26,944
+And because it was like
+this feeling of like,
+
+302
+00:14:26,944 --> 00:14:29,071
+we knew those people were
+there, we knew they were.
+
+303
+00:14:29,071 --> 00:14:31,199
+But, because sometimes they don't
+show up when you make a game.
+
+304
+00:14:31,199 --> 00:14:32,804
+You know, you make
+a game, you release it,
+
+305
+00:14:32,804 --> 00:14:34,768
+you know, like I thought it was
+going to sell a lot and it didn't.
+
+306
+00:14:34,768 --> 00:14:36,958
+You're like, where are all
+those people that it feels like,
+
+307
+00:14:36,958 --> 00:14:39,025
+there's all this goodwill out there.
+
+308
+00:14:39,025 --> 00:14:40,352
+Man #1: It's two million.
+
+309
+00:14:40,352 --> 00:14:43,189
+Man #2: One of us has to stop shaving.
+
+310
+00:14:43,189 --> 00:14:47,622
+Man #2: He has to shave my
+scrotum if it gets to two million.
+
+311
+00:14:48,740 --> 00:14:50,840
+Man #1: Only if he
+agrees to do it on camera.
+
+312
+00:14:51,418 --> 00:14:54,193
+Offscreen: Congratulations.
+
+313
+00:14:54,193 --> 00:14:55,797
+Schafer: It had been a long
+time since we had experience
+
+314
+00:14:55,797 --> 00:14:57,586
+where it felt like we were the winners.
+
+315
+00:14:57,586 --> 00:15:00,537
+We were at DICE and I
+was walking through DICE,
+
+316
+00:15:00,537 --> 00:15:03,959
+feeling like a winner,
+which is really kind of like,
+
+317
+00:15:03,959 --> 00:15:05,871
+not that I feel like a loser,
+
+318
+00:15:05,871 --> 00:15:11,539
+but usually feel like the
+alternative, alternative to money.
+
+319
+00:15:19,140 --> 00:15:21,120
+I mean i'm proud of all our games
+
+320
+00:15:21,127 --> 00:15:23,377
+and I wouldn't switch them
+with anyone else's games,
+
+321
+00:15:23,377 --> 00:15:25,105
+but usually walking in
+a convention like that,
+
+322
+00:15:25,105 --> 00:15:27,233
+you're talking to the, you know,
+the people who made Uncharted
+
+323
+00:15:27,233 --> 00:15:29,146
+and they're, they're really
+nice and you're like, ah.
+
+324
+00:15:29,146 --> 00:15:30,780
+Congratulations on the game.
+
+325
+00:15:30,780 --> 00:15:32,323
+Did really well for you.
+
+326
+00:15:32,323 --> 00:15:34,729
+And like, you don't often feel like,
+
+327
+00:15:34,729 --> 00:15:38,767
+you feel like they're like the family
+member who's like still living at home.
+
+328
+00:15:38,767 --> 00:15:40,217
+You know, like yeah.
+
+329
+00:15:40,217 --> 00:15:41,975
+They're all really nice
+to us, but you know,
+
+330
+00:15:41,975 --> 00:15:44,838
+we haven't, it's different when
+you make a bunch of money.
+
+331
+00:15:44,838 --> 00:15:47,922
+Schafer: And we raised 1.7
+million dollars on Kickstarter.
+
+332
+00:15:47,922 --> 00:15:50,878
+[Applause]
+
+333
+00:15:51,520 --> 00:15:52,980
+Schafer: Is that auto refreshing?
+
+334
+00:15:52,980 --> 00:15:53,480
+Everyone: Yes.
+
+335
+00:15:53,520 --> 00:15:54,840
+Schafer: We were in the hotel room
+
+336
+00:15:54,844 --> 00:15:56,572
+and I was listening on
+the Skype, on the iPad
+
+337
+00:15:56,572 --> 00:15:58,207
+and you just remember
+like, click, click,
+
+338
+00:15:58,207 --> 00:16:02,611
+aha, aha, then all of a sudden, whooo!
+
+339
+00:16:02,920 --> 00:16:04,980
+Schafer: Distortion sound
+as everyone lost their shit.
+
+340
+00:16:05,440 --> 00:16:07,920
+And right now we're at
+almost 2.5 million dollars.
+
+341
+00:16:07,999 --> 00:16:10,066
+and we have six more days to go.
+
+342
+00:16:10,066 --> 00:16:11,578
+Rice, Offscreen: Everything
+moved really quickly
+
+343
+00:16:11,578 --> 00:16:13,243
+and I actually didn't
+really have a chance
+
+344
+00:16:13,243 --> 00:16:17,066
+to like let everything sit in
+until yesterday, when it finished.
+
+345
+00:16:17,066 --> 00:16:21,073
+And I was like, finally it like hit
+me and it was like, holy crap.
+
+346
+00:16:21,073 --> 00:16:24,615
+We did something really crazy here.
+
+347
+00:16:25,720 --> 00:16:26,380
+Schafer: 2 minutes!
+
+348
+00:16:27,010 --> 00:16:30,336
+[Crowd shouting and cheering]
+
+349
+00:16:33,740 --> 00:16:35,080
+So like we cleared in advance
+
+350
+00:16:35,080 --> 00:16:38,400
+I'm going to shake this up and 
+I'm going to spray it all over your head.
+
+351
+00:16:40,594 --> 00:16:41,554
+Why is that...
+
+352
+00:16:42,000 --> 00:16:42,940
+Ron!
+
+353
+00:16:43,329 --> 00:16:45,309
+My God, that's terrible for your teeth.
+
+354
+00:16:45,309 --> 00:16:46,020
+Offscreen: Two minutes!
+
+355
+00:16:46,240 --> 00:16:47,280
+Two minutes.
+
+356
+00:16:47,420 --> 00:16:47,920
+[Pop]
+
+357
+00:16:52,560 --> 00:16:54,960
+Offscreen: Premature! Premature!
+
+358
+00:16:55,440 --> 00:16:57,974
+Gilbert: There's still
+a part of my skeptical
+
+359
+00:16:57,974 --> 00:17:01,272
+pessimistic brain that says, well,
+you can never do this again.
+
+360
+00:17:01,272 --> 00:17:06,079
+That this was really kind of this
+one time perfect storm thing.
+
+361
+00:17:06,079 --> 00:17:10,114
+But I don't know. I mean, maybe not.
+
+362
+00:17:10,319 --> 00:17:22,359
+[Music]
+
+363
+00:17:23,000 --> 00:17:31,520
+[Cheering]
+
+364
+00:17:32,040 --> 00:17:33,879
+I've been so happy about that
+
+365
+00:17:33,879 --> 00:17:35,515
+ever since Kickstarter started,
+
+366
+00:17:35,515 --> 00:17:37,672
+just thinking about how, I
+still have to answer to people.
+
+367
+00:17:37,672 --> 00:17:39,646
+Like people funded the game, you know.
+
+368
+00:17:39,646 --> 00:17:41,827
+But they're exactly the
+people I want to answer to.
+
+369
+00:17:41,827 --> 00:17:43,864
+Those are the people
+I'm making dots for, right?
+
+370
+00:17:43,864 --> 00:17:46,197
+And all those things
+like, and so it's like,
+
+371
+00:17:46,197 --> 00:17:50,544
+it's just this really liberating,
+
+372
+00:17:50,544 --> 00:17:52,455
+freeing thing to just
+think that I'm just going to
+
+373
+00:17:52,455 --> 00:17:54,615
+have to worry about how good
+the game is, almost nothing else.
+
+374
+00:17:54,820 --> 00:18:04,080
+[Music]
+
+375
+00:18:04,180 --> 00:18:05,240
+Schafer: I love you guys!
+
+376
+00:18:05,240 --> 00:18:08,599
+It has been an amazing
+experience. So much love.
+
+377
+00:18:08,599 --> 00:18:11,004
+We know there's not, it's not
+all about us and Double Fine,
+
+378
+00:18:11,004 --> 00:18:13,747
+but about you, the fans and
+what you guys want to say
+
+379
+00:18:13,747 --> 00:18:15,939
+and do with your money and choose to do.
+
+380
+00:18:15,939 --> 00:18:18,375
+And make things happen for yourself.
+
+381
+00:18:18,375 --> 00:18:21,150
+I mean, I don't want to
+make a huge speech here,
+
+382
+00:18:21,150 --> 00:18:22,785
+because I'll be all choked up.
+
+383
+00:18:22,785 --> 00:18:24,779
+Gilbert: Too late.
+
+384
+00:18:24,779 --> 00:18:27,431
+Schafer: But I just, I don't
+want to say this is the end of the,
+
+385
+00:18:27,431 --> 00:18:29,837
+you know, the whole game
+industry as we know it.
+
+386
+00:18:29,837 --> 00:18:32,857
+It's not, it's not.
+
+387
+00:18:32,857 --> 00:18:35,511
+And it's not, again it's not
+like we're total replacement
+
+388
+00:18:35,511 --> 00:18:37,824
+of all publishers and publishing games.
+
+389
+00:18:37,824 --> 00:18:39,150
+There's still going to be,
+
+390
+00:18:39,150 --> 00:18:41,803
+there still might be a few games
+made by publishers after today.
+
+391
+00:18:41,803 --> 00:18:43,746
+Just a couple games.
+
+392
+00:18:43,746 --> 00:18:46,891
+But it does mean if you've ever been
+told that your part of a niche market,
+
+393
+00:18:46,891 --> 00:18:48,988
+if you've ever like,
+if you've ever like,
+
+394
+00:18:48,988 --> 00:18:50,808
+when you're a kid and you had
+your favorite TV show cancelled
+
+395
+00:18:50,808 --> 00:18:52,658
+or you hear about your favorite band
+
+396
+00:18:52,658 --> 00:18:54,386
+being dropped by their label
+for not selling enough
+
+397
+00:18:54,386 --> 00:18:56,576
+and you've just been like why
+does a big company get to choose
+
+398
+00:18:56,576 --> 00:18:58,734
+what music I listen to
+or what movies I watch
+
+399
+00:18:58,734 --> 00:19:00,924
+or what TV shows I watch
+or what game I get to play,
+
+400
+00:19:00,924 --> 00:19:04,377
+now you know that they
+can't do that anymore.
+
+401
+00:19:04,377 --> 00:19:06,784
+You can choose. So thanks everybody.
+
+402
+00:19:06,784 --> 00:19:11,304
+[Cheering]
+
+403
+00:19:11,500 --> 00:19:12,940
+Thank you to the team!
+
+404
+00:19:13,060 --> 00:19:14,260
+Everybody!
+
+405
+00:19:16,460 --> 00:19:18,520
+Thanks to my parents
+for backing the project
+
+406
+00:19:18,529 --> 00:19:21,335
+and everybody else's parents
+who backed the project.
+
+407
+00:19:21,335 --> 00:19:24,939
+Does anybody else want to thank anybody?
+
+408
+00:19:25,080 --> 00:19:26,120
+Kipnis: Thank you Tim!
+
+409
+00:19:26,260 --> 00:19:27,220
+Thank you!
+
+410
+00:19:27,502 --> 00:19:30,984
+Thanks everyone and now we dance.
+
+411
+00:19:31,360 --> 00:19:35,720
+[Cheering]
+
+412
+00:19:36,280 --> 00:19:37,320
+Ron's dancing!
+
+413
+00:19:41,479 --> 00:20:15,879
+[Music]
+
