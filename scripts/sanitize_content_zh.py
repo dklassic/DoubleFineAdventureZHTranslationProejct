@@ -129,9 +129,7 @@ def sanitize_content(content, converter):
     prev_char = ''
 
     for char in traditional_content:
-        if prev_char:
-            if is_punctuation_space_or_nothing(prev_char) or is_punctuation_space_or_nothing(char):
-                continue
+        if  not is_punctuation_space_or_nothing(prev_char) and not is_punctuation_space_or_nothing(char):
             # Insert space if:
             # 1. Previous char is half-width and current is full-width and not punctuation
             # 2. Previous char is full-width (not punctuation) and current is half-width
@@ -139,9 +137,12 @@ def sanitize_content(content, converter):
                 sanitized.append(' ')
             elif (is_full_width(prev_char) and not is_full_width_punctuation(prev_char) and is_half_width(char)):
                 sanitized.append(' ')
-        
-        sanitized.append(char)
-        prev_char = char
+        if char == ':':
+            sanitized.append('：')
+            prev_char = '：'
+        else:
+            sanitized.append(char)
+            prev_char = char
 
     return ''.join(sanitized)
 
