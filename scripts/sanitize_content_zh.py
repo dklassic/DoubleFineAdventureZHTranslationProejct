@@ -3,6 +3,7 @@ import csv
 import argparse
 import sys
 import unicodedata
+import string
 from opencc import OpenCC
 
 def parse_arguments():
