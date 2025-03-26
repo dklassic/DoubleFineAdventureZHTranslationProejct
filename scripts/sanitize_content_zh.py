@@ -3,7 +3,6 @@ import csv
 import argparse
 import sys
 import unicodedata
-import string
 from opencc import OpenCC
 
 def parse_arguments():
@@ -17,7 +16,7 @@ def parse_arguments():
         '-p', '--path',
         type=str,
         required=True,
-        help="Path to the main directory containing CSV folders."
+        help="Path to the main directory containing 'pretranslated csv' folder."
     )
     parser.add_argument(
         '-i', '--input',
@@ -44,7 +43,7 @@ def is_ascii(char):
         bool: True if the character is ASCII, False otherwise.
     """
     return ord(char) < 128
-
+    
 def is_full_width(char):
     """
     Determines if a character is full-width.
@@ -64,22 +63,16 @@ def is_half_width(char):
     """
     Determines if a character is half-width.
     
-    Includes:
-        - ASCII characters (e.g., English letters, numbers, common symbols)
-        - Characters with East Asian Width property 'H' (Half-width)
-    
     Parameters:
         char (str): A single character string.
     
     Returns:
-        bool: True if the character is half-width or ASCII, False otherwise.
+        bool: True if the character is half-width, False otherwise.
     """
     if len(char) != 1:
         return False
-    # Check if character is ASCII
     if is_ascii(char):
         return True
-    # Check if character has East Asian Width 'H' (Half-width)
     east_asian_width = unicodedata.east_asian_width(char)
     return east_asian_width == 'H'  # Half-width
 
@@ -101,7 +94,7 @@ def is_full_width_punctuation(char):
     }
     return char in full_width_punctuations
 
-def is_space_or_punctuation(char):
+def is_punctuation_space_or_nothing(char):
     """
     Determines if a character is a space or punctuation.
     
@@ -136,17 +129,15 @@ def sanitize_content(content, converter):
 
     for char in traditional_content:
         if prev_char:
-            # Do not add space if either prev_char or char is space or punctuation
-            if is_space_or_punctuation(prev_char) or is_space_or_punctuation(char):
-                continue  # Do not add space
-            else:
-                # Insert space if:
-                # 1. Previous char is half-width and current is full-width and not full-width punctuation
-                # 2. Previous char is full-width and not full-width punctuation and current is half-width
-                if (is_half_width(prev_char) and is_full_width(char) and not is_full_width_punctuation(char)):
-                    sanitized.append(' ')
-                elif (is_full_width(prev_char) and not is_full_width_punctuation(prev_char) and is_half_width(char)):
-                    sanitized.append(' ')
+            if is_punctuation_space_or_nothing(prev_char) or is_punctuation_space_or_nothing(char):
+                continue
+            # Insert space if:
+            # 1. Previous char is half-width and current is full-width and not punctuation
+            # 2. Previous char is full-width (not punctuation) and current is half-width
+            if (is_half_width(prev_char) and is_full_width(char) and not is_full_width_punctuation(char)):
+                sanitized.append(' ')
+            elif (is_full_width(prev_char) and not is_full_width_punctuation(prev_char) and is_half_width(char)):
+                sanitized.append(' ')
         
         sanitized.append(char)
         prev_char = char
@@ -220,3 +211,30 @@ def convert_all_csv_sanitize(input_directory, output_directory, converter):
         base_name, ext = os.path.splitext(csv_file)
         output_file_name = f"{base_name}_sanitized{ext}"
         output_file_path = os.path.join(output_directory, output_file_name)
+        
+        print(f"Sanitizing '{csv_file}'...")
+        process_csv_file(input_file_path, output_file_path, converter)
+
+def main():
+    args = parse_arguments()
+    
+    main_directory = args.path
+    input_subdir = args.input
+    output_subdir = args.output
+    
+    input_directory = os.path.join(main_directory, input_subdir)
+    output_directory = os.path.join(main_directory, output_subdir)
+    
+    # Check if input directory exists
+    if not os.path.isdir(input_directory):
+        print(f"Error: Input subdirectory '{input_subdir}' not found in '{main_directory}'.")
+        sys.exit(1)
+    
+    # Initialize OpenCC for Simplified to Traditional conversion
+    converter = OpenCC('s2twp.json')  # 's2t' stands for Simplified to Traditional
+    
+    convert_all_csv_sanitize(input_directory, output_directory, converter)
+    print("All files have been successfully sanitized and saved.")
+
+if __name__ == "__main__":
+    main()
