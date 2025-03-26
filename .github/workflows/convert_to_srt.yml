@@ -64,7 +64,7 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: Automated: Convert CSVs to SRT Files
+          commit-message: "Automated: Convert CSVs to SRT Files"
           branch: automate/convert-srt-$(date +'%Y%m%d%H%M%S')
           title: "✅ Automated: Convert CSVs to SRT Files"
           body: |

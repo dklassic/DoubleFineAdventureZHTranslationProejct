@@ -60,7 +60,7 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: Automated: Sanitize Content_zh Column
+          commit-message: "Automated: Sanitize Content_zh Column"
           branch: automate/sanitize-content-$(date +'%Y%m%d%H%M%S')
           title: "✅ Automated: Sanitize Content_zh Column"
           body: |
