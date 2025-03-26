@@ -3,13 +3,14 @@ import csv
 import argparse
 import sys
 import unicodedata
+from opencc import OpenCC
 
 def parse_arguments():
     """
     Parses command-line arguments.
     """
     parser = argparse.ArgumentParser(
-        description="Sanitize the 'Content_zh' column in pretranslated CSV files."
+        description="Sanitize the 'Content_zh' column in pretranslated CSV files by inserting appropriate spaces and converting Simplified Chinese to Traditional Chinese."
     )
     parser.add_argument(
         '-p', '--path',
@@ -73,33 +74,38 @@ def is_full_width_punctuation(char):
     """
     full_width_punctuations = {
         '。', '，', '！', '？', '：', '；', '“', '”', '‘', '’', '（', '）', '「', '」', '『', '』', '《', '》',
-        '、', '—', '…', '～', '·', '《', '》', '〈', '〉', '﹏', '｛', '｝', '［', '］', '【', '】',
-        '﹐', '﹑', '﹒', '﹔', '﹖', '﹗', '﹕', '﹒', '﹖', '﹗', '﹘', '﹝', '﹞', '﹟', '﹡',
-        '﹢', '﹣', '﹤', '﹥', '﹦', '﹩', '﹪', '﹫', '﹬', '﹭', '﹮', '﹯'
+        '、', '—', '…', '～', '·', '〈', '〉', '﹏', '｛', '｝', '［', '］', '【', '】',
+        '﹐', '﹑', '﹒', '﹔', '﹖', '﹗', '﹕', '﹘', '﹝', '﹞', '﹟', '﹡',
+        '﹢', '﹣', '﹤', '﹥', '﹦', '﹩', '﹪', '﹫', '﹬', '﹭', '﹮', '﹯',
     }
     return char in full_width_punctuations
 
-def sanitize_content(content):
+def sanitize_content(content, converter):
     """
-    Inserts spaces between adjacent half-width and full-width characters, excluding full-width punctuations.
+    Converts Simplified Chinese to Traditional Chinese, then inserts spaces between adjacent half-width
+    and full-width characters, excluding full-width punctuation marks.
     
     Parameters:
-        content (str): The subtitle content in Traditional Chinese.
+        content (str): The subtitle content in Chinese.
+        converter (OpenCC): An instance of OpenCC for conversion.
     
     Returns:
         str: The sanitized content.
     """
     if not content:
         return content
-    
+
+    # Convert Simplified Chinese to Traditional Chinese
+    traditional_content = converter.convert(content)
+
     sanitized = []
     prev_char = ''
-    
-    for char in content:
+
+    for char in traditional_content:
         if prev_char:
-            # Conditions to insert space:
-            # 1. prev_char is half-width and current char is full-width and not punctuation
-            # 2. prev_char is full-width (not punctuation) and current char is half-width
+            # Insert space if:
+            # 1. Previous char is half-width and current is full-width and not punctuation
+            # 2. Previous char is full-width (not punctuation) and current is half-width
             if (is_half_width(prev_char) and is_full_width(char) and not is_full_width_punctuation(char)):
                 sanitized.append(' ')
             elif (is_full_width(prev_char) and not is_full_width_punctuation(prev_char) and is_half_width(char)):
@@ -107,16 +113,17 @@ def sanitize_content(content):
         
         sanitized.append(char)
         prev_char = char
-    
+
     return ''.join(sanitized)
 
-def process_csv_file(input_path, output_path):
+def process_csv_file(input_path, output_path, converter):
     """
     Processes a single CSV file: reads 'Content_zh', sanitizes it, and writes to a new CSV file.
     
     Parameters:
         input_path (str): Path to the input CSV file.
         output_path (str): Path to save the sanitized CSV file.
+        converter (OpenCC): An instance of OpenCC for conversion.
     """
     try:
         with open(input_path, 'r', encoding='utf-8-sig') as csv_infile:
@@ -134,7 +141,7 @@ def process_csv_file(input_path, output_path):
         # Sanitize 'Content_zh'
         for idx, row in enumerate(rows, start=1):
             original_content = row['Content_zh']
-            sanitized_content = sanitize_content(original_content)
+            sanitized_content = sanitize_content(original_content, converter)
             row['Content_zh'] = sanitized_content
             if idx <= 3:  # Print first few changes for verification
                 print(f"Original: {original_content}")
@@ -152,13 +159,14 @@ def process_csv_file(input_path, output_path):
     except Exception as e:
         print(f"Error processing '{input_path}': {e}")
 
-def convert_all_csv_sanitize(input_directory, output_directory):
+def convert_all_csv_sanitize(input_directory, output_directory, converter):
     """
     Sanitizes all CSV files in the input directory and saves them to the output directory.
     
     Parameters:
         input_directory (str): Directory containing input CSV files.
         output_directory (str): Directory to save sanitized CSV files.
+        converter (OpenCC): An instance of OpenCC for conversion.
     """
     # Ensure the output directory exists
     os.makedirs(output_directory, exist_ok=True)
@@ -177,7 +185,7 @@ def convert_all_csv_sanitize(input_directory, output_directory):
         output_file_path = os.path.join(output_directory, output_file_name)
         
         print(f"Sanitizing '{csv_file}'...")
-        process_csv_file(input_file_path, output_file_path)
+        process_csv_file(input_file_path, output_file_path, converter)
 
 def main():
     args = parse_arguments()
@@ -194,7 +202,10 @@ def main():
         print(f"Error: Input subdirectory '{input_subdir}' not found in '{main_directory}'.")
         sys.exit(1)
     
-    convert_all_csv_sanitize(input_directory, output_directory)
+    # Initialize OpenCC for Simplified to Traditional conversion
+    converter = OpenCC('s2twp.json')  # 's2t' stands for Simplified to Traditional
+    
+    convert_all_csv_sanitize(input_directory, output_directory, converter)
     print("All files have been successfully sanitized and saved.")
 
 if __name__ == "__main__":
