@@ -32,6 +32,18 @@ def parse_arguments():
     )
     return parser.parse_args()
 
+def is_ascii(char):
+    """
+    Determines if a character is an ASCII character.
+    
+    Parameters:
+        char (str): A single character string.
+    
+    Returns:
+        bool: True if the character is ASCII, False otherwise.
+    """
+    return ord(char) < 128
+    
 def is_full_width(char):
     """
     Determines if a character is full-width.
@@ -59,6 +71,8 @@ def is_half_width(char):
     """
     if len(char) != 1:
         return False
+    if is_ascii(char):
+        return True
     east_asian_width = unicodedata.east_asian_width(char)
     return east_asian_width == 'H'  # Half-width
 
