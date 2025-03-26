@@ -111,7 +111,7 @@ def is_space_or_punctuation(char):
     Returns:
         bool: True if the character is a space or punctuation, False otherwise.
     """
-    return char in string.whitespace or char in string.punctuation or char is ''
+    return char in string.whitespace or char in string.punctuation or char == ''
 
 def sanitize_content(content, converter):
     """
@@ -138,7 +138,7 @@ def sanitize_content(content, converter):
         if prev_char:
             # Do not add space if either prev_char or char is space or punctuation
             if is_space_or_punctuation(prev_char) or is_space_or_punctuation(char):
-                pass  # Do not add space
+                continue  # Do not add space
             else:
                 # Insert space if:
                 # 1. Previous char is half-width and current is full-width and not full-width punctuation
