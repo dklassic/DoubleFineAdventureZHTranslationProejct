@@ -111,7 +111,7 @@ def is_space_or_punctuation(char):
     Returns:
         bool: True if the character is a space or punctuation, False otherwise.
     """
-    return char in string.whitespace or char in string.punctuation
+    return char in string.whitespace or char in string.punctuation or char is ''
 
 def sanitize_content(content, converter):
     """
