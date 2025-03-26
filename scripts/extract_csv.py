@@ -102,7 +102,7 @@ def write_csv(subtitles, csv_path):
     Writes a list of Subtitle objects to a CSV file with two columns: Timecode and Content.
     """
     with open(csv_path, 'w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.writer(csvfile)
+        writer = csv.writer(csvfile, quoting=csv.QUOTE_ALL)
         writer.writerow(['Timecode', 'Content'])  # Header
         for subtitle in subtitles:
             writer.writerow([subtitle.timecode(), subtitle.text])
